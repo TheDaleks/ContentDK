@@ -1,15 +1,12 @@
----
-layout: post
-title: The Problem with Altcoins
-permalink: the-problem-with-altcoins
-excerpt: "Some altcoins incorporate interesting new ideas, but there is an essential feature of Bitcoin which they all lack. It is not a matter of its technology, but rather of history and community. Quite simply, a medium of exchange that is more widely accepted on the market is more useful than one which is not. This is known as the network effect. An initial imbalance between two nearly equal media of exchange will benefit whichever is more widely accepted until a single one overwhelms the rest. There is no limit to this effect: ultimately one would always expect a single currency to overcome all its competitors."
-image: https://nakamotoinstitute.org/static/img/mempool/the-problem-with-altcoins/elvis-impersonators.jpg
----
+# The Problem With Altcoins
+
+<div class="my-4 text-center">![Elvis](b://f764043d00bbfed7c9aef4ac2e67c6c824ce405abb25cd1454ff43e594ccd8d4)</div>
+
 ## Why no altcoin can succeed
 
 New ideas attract not only visionaries and pioneers but also charlatans and fools. The former group understands the nature and potential of the new idea and attempts to extend it in new ways. The latter observes the success of the former and expects similar results through blind imitation and empty hope, rather like the Melanesian [cargo cults](http://en.wikipedia.org/wiki/Cargo_cult) which arose after World War II when the American military abandoned its airports there.
 
-![The litecoiners of aeronautics](/static/img/mempool/the-problem-with-altcoins/cargo-cult.jpg)
+![The litecoiners of aeronautics](b://9aa240a2244c42ec3f1512ae27086dd553081270513bbd0b82ff3c7ad068814f)
 
 _The litecoiners of aeronautics_
 
@@ -23,7 +20,7 @@ The Bitcoin community is not just overwhelmingly larger but of overwhelmingly be
 
 ## Motivated reasoning
 
-![Altcoiners obsessing over Cryptsy's exchange rates](/static/img/mempool/the-problem-with-altcoins/altcoiners.png)
+![Altcoiners obsessing over Cryptsy's exchange rates](b://de7cfdb4cb183cb98ebadb07bdaa3d520b76b5a0c261333ce019e35930ed188c)
 
 _Altcoiners obsessing over Cryptsy's exchange rates_
 
@@ -81,7 +78,7 @@ There is a class of very similar cryptocurrencies that rely on an algorithm call
 
 When Bitcoin first came out, it was possible for anyone to mine coins with his CPU. Once software was developed that mined using GPUs, then CPU mining quickly became obsolete. GPU mining remained profitable for some time thereafter because the price of Bitcoin continued to increase as more people became miners. This could not persist indefinitely, and eventually there began work into the development of FPGA and ASIC mining. Once these technologies were developed, GPU mining would become obsolete as well.
 
-![The Golden Age of mining, according to altcoiners](/static/img/mempool/the-problem-with-altcoins/mining.jpg)
+![The Golden Age of mining, according to altcoiners](b://24b754a4fe2d24985288ceb66009efaac28840dd9c18dc497ac2c32332d0b7b4)
 
 _The Golden Age of mining, according to altcoiners_
 

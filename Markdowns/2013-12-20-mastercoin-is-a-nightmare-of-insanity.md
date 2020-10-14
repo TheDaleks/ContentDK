@@ -1,19 +1,14 @@
----
-layout: post
-title: Mastercoin is a Nightmare of Insanity
-permalink: mastercoin-is-a-nightmare-of-insanity
-excerpt: While the idea of a new protocol layer that can be used with Bitcoin is interesting and potentially useful, it completely destroys any potential usefulness in Mastercoin because it means that Mastercoin is an entirely passive system. Because Mastercoin does not have its own block chain, all its transactions are simply extra pieces of data inserted into Bitcoin’s block chain, which, from the standpoint of the Bitcoin miners, are meaningless.
-image: https://nakamotoinstitute.org/static/img/mempool/mastercoin-is-a-nightmare-of-insanity/spongebob-and-patrick.png
----
+# Mastercoin is a Nightmare of Insanity
 
-
+<div class="my-4 text-center">![SB And Patrick 1](b://990c9ae90dfb1694db35e6e2234179557a9d7a14dd30a49c1dfd143f7baf7026)</div>
+ 
 ## An Altcoin in the Block Chain
 
 Much undue attention has been given lately to [Mastercoin](http://www.mastercoin.org/ "Mastercoin"), an altcoin invented by J. R. Willett. Although Willett’s heart seems to be in the right place, Mastercoin is a deeply flawed system. Unlike other altcoins, Mastercoin is not mined and does not have its own blockchain; instead, it exists on the Bitcoin block chain as a set of prunable transactions that contain, in the addresses of their Bitcoin outputs, data representing Mastercoin calls.
 
 While the idea of a new protocol layer that can be used with Bitcoin is interesting and potentially useful, it completely destroys any potential usefulness in Mastercoin because it means that Mastercoin is an entirely passive system. Because Mastercoin does not have its own block chain, all its transactions are simply extra pieces of data inserted into Bitcoin’s block chain, which, from the standpoint of the Bitcoin miners, are meaningless.
 
-![](/static/img/mempool/mastercoin-is-a-nightmare-of-insanity/patrick-hammer.png)
+<div class="my-4 text-center">![SB And Patrick 2](b://28bbe97e601aa38ab23b21bf48758a1eef3451d97db3a3f2e2330ab8b0869178)</div>
 
 Therefore, unlike Bitcoin or any altcoin that relies on its own block chain, Mastercoin is incapable of acting like a smart contract engine. There is nothing, for example, to prevent anyone from double-spending Mastercoins from a given address. Anyone can publish two conflicting Mastercoin transactions in the block chain, and all the Mastercoin system can do is define a rule by which one transaction is ignored.
 
@@ -27,13 +22,14 @@ What’s the point of creating something like this? It’s really hard to unders
 
 Willett’s justification of his engineering decision is nonsensical and shows no understanding whatsoever. In [version 1.1 of the specification](https://e33ec872-a-62cb3a1a-s-sites.googlegroups.com/site/2ndbtcwpaper/MasterCoin%20Specification%201.1.pdf?attachauth=ANoY7cpVuaFAuVzPBJrOobfMxIFD4i-846pZmlRVKTwizeYgZDFSBoE3tEo7DKHX7wDg1yjsVk_lNjjg5Y8GssngzmkBXasXHGytZUGPX5UvDjKbvLeTs53Y0N7CZauZXMn7iCd) [PDF], he writes “Alternate block chains compete with bitcoins financially, confuse our message to the world, and dilute our efforts. [...] New protocol layers on top of the bitcoin protocol will increase bitcoin values, consolidate our message to the world, and concentrate our efforts, while still allowing individuals and groups to issue new currencies with experimental new rules.”
 
-![](/static/img/mempool/mastercoin-is-a-nightmare-of-insanity/spongebob-hammer.png)
+<div class="my-4 text-center">![SB And Patrick 3](b://ec6d42eed8c914c4b67ed152ddc39289bea02547c056e120b2b744d83cd3c7bc)</div>
+
 
 However, the truth is almost the exact opposite of what Willett says. There is no reason that an alternate block chain should compete with Bitcoin financially because there are all kinds of things that can be done with a block chain that do not compete with Bitcoin’s function as a currency. As it happens, nearly all block chains are currencies, which _do_ compete with Bitcoin, but there is no reason that this is inherently necessary.
 
 Furthermore _all_ currencies, crypto or not, compete with Bitcoin. The fact that mastercoins do not have their own block chain is irrelevant. They still compete with bitcoins and will reduce the value of bitcoins to the extent that people choose to use mastercoins over bitcoins. Anyone who likes Bitcoin really shouldn’t want _any_ new currencies to be created. As explained in [a previous article of mine](/mempool/the-problem-with-altcoins/ "The Problem with Altcoins"), the entire concept of an altcoin is fatally flawed. Because the value of a currency is caused by the network of people using it, a currency with a larger network should generally be seen as superior to one with a smaller network.
 
-![](/static/img/mempool/mastercoin-is-a-nightmare-of-insanity/spongebob-patrick-fail.png)
+<div class="my-4 text-center">![SB And Patrick 4](b://73cba3ae9ddad0f6f47faa09fa05a2021b0e4499aaea049e07a7c8d9f1d48c21)</div>
 
 ## Escrow-Backed User Currencies
 
@@ -53,7 +49,7 @@ While one _could_ buy cryptogold simply because one believes that the price of g
 
 There is no way to avoid this problem. As long as the program operates according to known rules, anyone can take advantage of its behavior. You could be playing chess with Deep Blue and you would always win if you had your _own_ duplicate of Deep Blue that you could use to predict every move it would make. This is effectively what everyone has for the fair escrow-backed user funds because the reference Mastercoin implementation is open source, so anyone can modify it to turn it to predict what other fair funds will do.
 
-![](/static/img/mempool/mastercoin-is-a-nightmare-of-insanity/spongebob-wrench.png)
+<div class="my-4 text-center">![SB And Patrick 5](b://de91cbc5c51fe3a4ef0a67afe9e651e4bd4b56e7b57e84dd0aab7e7800c0faa2)</div>
 
 However, this point is purely esoteric because nothing forces the fund to behave according to any computer program and the creator of the fund has every reason not to follow the rules because if he did, the fund could not possibly remain healthy.
 
@@ -63,7 +59,7 @@ I have my qualms about Ripple, but at least it has _some_ useful purposes. The r
 
 In addition to failing economics, the Mastercoin developers also fail software engineering. As detailed in [this reddit thread](http://www.reddit.com/r/Bitcoin/comments/1rpx26/mastercoin_is_a_joke/), the Mastercoin specification is so poorly designed that it has several conflicting implementations, thus breaking the entire system.
 
-![](/static/img/mempool/mastercoin-is-a-nightmare-of-insanity/patrick-thumb.png)
+<div class="my-4 text-center">![SB And Patrick 6](b://83453ac0dff6f92d83d90096336477de62e312dcb4811e75af15b66b4d027c56)</div>
 
 Because the different implementations disagree as to which transactions are considered valid, they can disagree as to the amount stored in a given address. For example, killerstorm, the author of the exposé, points to [an address](https://bitcointalk.org/index.php?topic=265488.msg3766604#msg3766604) which, on November 29, 2013, showed _four different_ balances depending on the implementation.
 
@@ -75,6 +71,6 @@ As useless as I find Litecoin to be, at least it _functions_. At least it’s no
 
 Everything about Mastercoin is completely insane. How can it be taken seriously? Its flaws are numerous, fundamental, and not difficult to understand. I do not even claim that my list of them is comprehensive. I would not be surprised if there were more that I did not discover when I did my research for this article. Mastercoin is a failure in just about every way. Nothing can redeem it and it is completely shocking that Mastercoins are actually being traded and have a price.
 
-![](/static/img/mempool/mastercoin-is-a-nightmare-of-insanity/spongebob-new-home.png)
+<div class="my-4 text-center">![SB And Patrick 7](b://0ddecf2716141ac24a7285e141665dbf166d94e57e739475f7a876d22f1c55fe)</div>
 
 Mastercoin is absolute garbage and it is just baffling to me that Willet commands any sort of respect for having created it. There is no excuse for how terribly designed and excuted they have been at every stage. All Mastercoin owners have been scammed because Mastercoin is incapable of delivering on its promises. No one should ever use Mastercoin under any circumstances or appraise their value as anything above zero.

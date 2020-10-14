@@ -1,10 +1,6 @@
----
-layout: post
-title: I'm Hoarding Bitcoins, and No You Can't Have Any
-permalink: im-hoarding-bitcoins-and-no-you-cant-have-any
-excerpt: Those nasty hoarders! You know the ones. They won’t use bitcoins because they think they’ll be worth so much more later. But how can we convince businesses to accept bitcoins if no one will spend them? We need to guilt those hoarders into spending their bitcoins to support the merchants! This article is about why this line of reasoning is exactly wrong.
-image: https://nakamotoinstitute.org/static/img/mempool/im-hoarding-bitcoins-and-no-you-cant-have-any/uncle-scrooge.jpg
----
+# I'm Hoarding Bitcoins, and No You Can't Have Any
+
+<div class="my-4 text-center">![Scrooge](b://c431cc514f32fc7efab72471e276fa8796f54847ac1d806ee12ff8014f36d8b7)</div>
 
 Those nasty hoarders! You know the ones. They won’t use bitcoins because they think they’ll be worth so much more later. But how can we convince businesses to accept bitcoins if no one will spend them? We need to guilt those hoarders into spending their bitcoins to support the merchants! This article is about why this line of reasoning is exactly wrong.
 
@@ -18,7 +14,7 @@ How about this instead? Tell your local merchants that you want to be able to sp
 
 ## Hoarders Give Bitcoin Value
 
-<div class="my-4 text-center">![](/static/img/mempool/im-hoarding-bitcoins-and-no-you-cant-have-any/gold-bars.jpg)</div>
+<div class="my-4 text-center">![Gold Bars](b://2718453553b1c628205bf83c876d41c09cc517bae58946c425f7067c4115237d)</div>
 
 The initial price of bitcoin was caused by people who wanted to hold it, not people who wanted to spend it. Furthermore, each subsequent step in Bitcoin’s advance must begin with more holders, not more spenders. The business that bitcoins can absorb is limited by its market cap. At a market cap of two or three billion dollars, Bitcoin can absorb many small businesses but it cannot be used for international oil trade. It would have to be dozens of times more expensive for that, and it can only achieve that if the peoples’ desire to hold bitcoins continues to increase faster than their desire to spend them. Thus, one who wants Bitcoin to become mainstream should never want its price to be lower. He should want an ever-increasing supply of hoarders.
 
@@ -34,7 +30,7 @@ Unless a merchant is offering something that cannot be bought for dollars, or at
 
 ## Greed is Your Friend
 
-<div class="my-4 text-center">![](/static/img/mempool/im-hoarding-bitcoins-and-no-you-cant-have-any/dragon.jpg)</div>
+<div class="my-4 text-center">![Dragon](b://c431cc514f32fc7efab72471e276fa8796f54847ac1d806ee12ff8014f36d8b7)</div>
 
 There can be no spending of bitcoins without the buying of them, and thus all use of bitcoins as a medium of exchange depend on someone who wants to increase his holdings, i.e., a hoarder. Without them there could literally be no Bitcoin trade. Furthermore, it is counterproductive to try to turn hoarders into spenders. There really is no compelling reason that anybody should spend bitcoins any time soon—if everybody is hoarding, that will just make the price go up until finally someone can’t help spending some.
 

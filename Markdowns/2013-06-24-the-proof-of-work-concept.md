@@ -1,10 +1,6 @@
----
-layout: post
-title: The Proof-of-Work Concept
-permalink: the-proof-of-work-concept
-excerpt: Perhaps the least intuitive aspect of the Bitcoin network is the proof-of-work. concept it uses to define the requirement for the generation of a new set of transactions to be added to the distributed transaction database. This concept, which grew out of ideas from the early cypherpunk movement, is new to monetary theory and feels a little out of place in computer science too. I will show that biology gives us the most suitable framework for understanding it.
-image: https://nakamotoinstitute.org/static/img/mempool/the-proof-of-work-concept/peacock.jpg
----
+# The Proof Of Work Concept
+
+<div class="my-4 text-center">![Peacock](b://c80de89e48faba6ce65c06eb46dd21a0ddff4e314a415c97d608b50fdf66c609)</div> 
 
 ## The Search
 
@@ -16,11 +12,11 @@ All the blocks in the Bitcoin block chain have a short string of meaningless dat
 
 The procedure, remember, is totally arbitrary. It is simply an added complication, like a ritual, so as to make blocks more difficult to generate. Really anything else would do, as long as it was computationally difficult. Other crypto-currencies use other hash algorithms. There is no special condition from number theory which only someone like [Shinichi Mochizuki](http://www.kurims.kyoto-u.ac.jp/~motizuki/top-english.html) could understand.<sup id="fnref:3">[3](#fn:3)</sup>
 
-<div class="my-4 text-center">![Bitcoin Mining](/static/img/mempool/the-proof-of-work-concept/mining.jpg)</div>
+<div class="my-4 text-center">![Bitcoin Mining](b://24b754a4fe2d24985288ceb66009efaac28840dd9c18dc497ac2c32332d0b7b4)</div>
 
 Although the purpose of the mining computers is to do the accounting for the block chain, most of the work they actually do is to search for good nonces, rather than anything to do with accounting. The energy used to find the nonces is lost forever. The energy does not "back" the value of bitcoins in the way that gold backs an honest bank note, as some have supposed. Of the vast computing power that goes into bitcoin mining, all but a tiny fraction is apparently purposeless.
 
-<div class="my-4 text-center">![ASIC Mining](/static/img/mempool/the-proof-of-work-concept/asicminer.jpg)</div>
+<div class="my-4 text-center">![ASIC Mining](b://fbce0ec53bec5273bd8be196d192779e8932dfd03b2ffd2ba5b53e498e76412c)</div>
 
 When a person upgrades their mining computer, they mine at a faster rate and therefore earn more bitcoins. However, when everyone upgrades, the mining does not become more efficient as a whole. There is only supposed to be one new block every ten minutes regardless of how hard the network is working. Instead, the network [updates the difficulty](http://bitcoindifficulty.com/) to require more stringent conditions for future blocks. All miners may work harder, but none is better off. It is rather like a forest, in which every tree tries to grow as tall as possible so as to capture more light than its fellows, with the end result that most of the solar energy is used to grow long, dead trunks.
 
@@ -38,7 +34,7 @@ The general rule is that the first block mined is not self-interested because no
 
 ## The Handicap Principle
 
-<div class="my-4 text-center">![The Handicap Principle](/static/img/mempool/the-proof-of-work-concept/handicap.jpg)</div>
+<div class="my-4 text-center">![The Handicap Principle](b://f310b5a7d7536734cb6434fcb848d03efc77ff33193a5e162ffe50f2b9c74cb1)</div>
 
 There is an idea from biology called the [Handicap Principle](https://en.wikipedia.org/wiki/Handicap_principle) which sheds light on this process.<sup id="fnref:5">[5](#fn:5)</sup> It says that when two animals have an incentive to cooperate they must communicate good intentions to one another in a believable way. In order to make lying implausible, the signal must impose a cost on the signaler that would make it very costly to cheat. In other words, the signal itself must be a handicap.
 

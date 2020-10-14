@@ -1,9 +1,6 @@
----
-layout: post
-title: The Original Value of Bitcoins
-permalink: original-value
-excerpt: From the standpoint of the Austrian School of economics the most puzzling aspect of the Bitcoin network is its relationship with the regression theorem, the Austrian economists' explanation of the origin of money.
----
+#The Original Value Of Bitcoins
+
+<div class="my-4 text-center">![Oil Well](b://c5580e3253da16141d786c4e78972aa27b6c0cd0db58a797efddb1c2c4000cca)</div>
 
 ## The Regression Theorem
 
@@ -22,7 +19,7 @@ To recap, the regression theorem says that:
 
 Both of these are necessarily market phenomena because they take place as peoples' individual decisions as to what they wish to trade with and with whom. Institutionalized coercion can affect the process, but always from the outside: for example, a State could try to promote one media of exchange over others by outlawing the rest. This might affect which media of exchange becomes money, but they cannot cause a thing to become money or a medium of exchange directly through decree.
 
-![Mises](/static/img/mempool/the-original-value-of-bitcoins/mises-tmc.jpg)</div>
+<div class="my-4 text-center">![Mises](b://6c20d591d13b3c69e782c8f4e78397402218c3b8fae24a8f1e83f336d7be4f7f)</div>
 
 On the other hand, the regression theorem does _not_ say that:
 

@@ -1,10 +1,6 @@
----
-layout: post
-title: I Love Bitcoin's Volatility
-permalink: i-love-bitcoins-volatility
-excerpt: The discourse surrounding Bitcoin is often characterized by boot-quaking naysayers crying about things that don’t make any sense. “Bitcoin is too volatile!” they lament. “Nobody will ever use something so volatile! Bitcoin will never be widely adopted while it’s like this!” This argument is superficial and short sighted.
-image: https://nakamotoinstitute.org/static/img/mempool/i-love-bitcoins-volatility/nami.jpg
----
+# I Love Bitcoin's Volatility
+
+<div class="my-4 text-center">![Money!!!](b://5de1cb06e12a5ca507403f05892868e75614abd4176345f4a64c55e79a9b267f)</div>
 
 ## I Hate Success and Happiness
 
@@ -28,11 +24,7 @@ A currency can be volatile and still be liquid. It is liquid if one person can b
 
 ## The Right Price
 
-<div class="my-4 text-center">![](/static/img/mempool/i-love-bitcoins-volatility/biohazard.jpg)
-
-_Warning: volatile commodity_
-
-</div>
+<div class="my-4 text-center">![Biohazard](b://2ca1339c1697c751c78eca8d50bb46d4cfc3ba2b3c177e4eb0f1316deebbb429)</div>
 
 This brings up the question of what a good price for Bitcoin would be. When will Bitcoin stabilize? It should become less volatile as it becomes more widely adopted because it will be harder for local events and individual people to affect the price very much, right?
 

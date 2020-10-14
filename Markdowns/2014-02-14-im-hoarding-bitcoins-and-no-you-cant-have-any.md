@@ -1,5 +1,9 @@
 # I'm Hoarding Bitcoins, and No You Can't Have Any
 
+_Daniel Krawisz_
+
+**Originally published [12 February 2014 at the Satoshi Nakamoto Institute](original link here).**
+
 <div class="my-4 text-center">![Scrooge](b://c431cc514f32fc7efab72471e276fa8796f54847ac1d806ee12ff8014f36d8b7)</div>
 
 Those nasty hoarders! You know the ones. They won’t use bitcoins because they think they’ll be worth so much more later. But how can we convince businesses to accept bitcoins if no one will spend them? We need to guilt those hoarders into spending their bitcoins to support the merchants! This article is about why this line of reasoning is exactly wrong.

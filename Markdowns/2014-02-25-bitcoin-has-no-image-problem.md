@@ -1,10 +1,12 @@
----
-layout: post
-title: Bitcoin Has No Image Problem
-permalink: bitcoin-has-no-image-problem
-excerpt: "Bitcoin has an image problem! Everyone thinks Bitcoin is for drug dealers, hackers, and anarchists. It’s used to gamble and buy porn. People think it’s a Ponzi scheme! Bitcoin needs to grow up and repudiate its youthful indiscretions. Its services must be run by professionals, not amateurs!1 Soccer moms will never use Bitcoin if they think it’s used for drugs and porn. Bitcoin will never be acceptable and gain widespread adoption otherwise! In this article, I will show why this is totally misguided."
-image: https://nakamotoinstitute.org/static/img/mempool/bitcoin-has-no-image-problem/bag-head.jpg
----
+# Bitcoin Has No Image Problem
+
+_Daniel Krawisz_
+
+**Originally published [25 February 2014 at the Mises Circle](http://themisescircle.org/blog/2014/02/25/bitcoin-has-no-image-problem/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/bitcoin-has-no-image-problem/).**
+
+<div class="my-4 text-center">![Bag Guy](b://c6243a2c9950b1f2dd870fce5628d87acd41d83ec60e847677624d3a119ad2d8)</div>
 
 ## Why Doesn’t Bitcoin’s Success Speak For Itself?
 
@@ -16,11 +18,11 @@ Bitcoin is far too useful to expect that prejudice will stand in its way. Almost
 
 The data on Bitcoin’s adoption rate show no evidence of an image problem. First look at this [log chart](https://en.wikipedia.org/wiki/Logarithmic_scale) of Bitcoin’s market cap.
 
-<div class="my-4 text-center">![](/static/img/mempool/bitcoin-has-no-image-problem/marketcap-chart.png)</div>
+<div class="my-4 text-center">![Chart 1](b://775e853e4d6063db4bcb51e4abd1f86d0ef8b712a46a82fd57b2fb531a5c1241)</div>
 
 Now take a look at the number of MyWallet users over the past two years. This is also a log chart.
 
-<div class="my-4 text-center">![](/static/img/mempool/bitcoin-has-no-image-problem/mywallet-chart.png)</div>
+<div class="my-4 text-center">![Chart 2](b://c58dfdc8e51e5b6d83d91cb810d8afc66158387133630da0ea670e0fff6edef4)</div>
 
 That’s an increase of like 500 times in two years. Ooo, I’m so terrified Bitcoin’s image will stop people from wanting it.
 
@@ -44,7 +46,7 @@ Bitcoin is subversive as more than just a payment-processing technology. It is n
 
 These “image problem” people are like if the Clampetts discovered that they were sitting on a swamp made out of crude oil and worrying that people won’t accept it because it’s too ugly and gross, so they try to convince people that it’s a pretty shiny pink and tastes like cherries.
 
-<div class="my-4 text-center">![](/static/img/mempool/bitcoin-has-no-image-problem/narcissism.jpg)
+<div class="my-4 text-center">![Narcissism](b://e0d2370c743cde73a082ee54d5511d3a37715c036dae2cc2fbcd6163a6185573)</div>
 
 _Oh Narcissus, you’ll never understand Bitcoin._
 
@@ -60,7 +62,7 @@ This is all a bunch of narcissism. It’s an emphasis on appearance without subs
 
 The best way to improve Bitcoin’s image is simply to improve the Bitcoin economy. With every new service, the incentives for more people to join us grows. We should feel lucky that we are in on such a wonderful secret as Bitcoin. If people mistrust and misunderstand it now, then we should be happy if it gives us a little extra time—however brief—to buy more. Every time someone figures out how great Bitcoin really is, he makes Bitcoin even _more_ great by joining in.
 
-<div class="my-4 text-center">![](/static/img/mempool/bitcoin-has-no-image-problem/miss-sunshine.jpg)
+<div class="my-4 text-center">![Little Miss Sunshine](b://fdff89b0c47ee0130631ef6a714687520363ec050a4c6fd288c0b927cb59d401)</div>
 
 _When you’re an immortal distributed system that can’t be controlled, you don’t have to care what other people think._
 

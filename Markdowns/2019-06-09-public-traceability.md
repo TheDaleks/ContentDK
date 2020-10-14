@@ -1,9 +1,8 @@
----
-layout: post
-title: Public Traceability in Bitcoin
-permalink: public-traceability 
-excerpt: For a time, I worked on an implementation of CoinShuffle. I knew as much about anonymity as I did from David Chaum’s old papers on it. I did not understand that what I was doing would necessarily bring me closer to violent criminals and that it could do nothing but work against the success of Bitcoin.
----
+# Public Traceability In Bitcoin
+
+_Daniel Krawisz_
+
+**Originally published [09 June 2019 At Krawisz.com](http://krawisz.com/public-traceability).**
 
 I removed “emperor” from my Twitter profile because I missed something important about Bitcoin for a long time. Because libertarians generally can’t stand laws that force people to do accountancy correctly, I didn’t understand that a genuinely functional version digital cash that worked on free market would necessarily require it and that everyone would prefer it.
 

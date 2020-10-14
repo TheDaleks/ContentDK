@@ -1,10 +1,12 @@
----
-layout: post
-title: Bitcoin's Shroud of Subtlety and Allure
-permalink: bitcoins-shroud-of-subtlety-and-allure
-excerpt: Potential Bitcoin attackers are in a Prisoner's Dilemma. In the same way that the people cannot easily rebel against the king owing to a lack of coordination on their part, governments cannot rebel against Bitcoin for the same reason. The government puts the people in a Prisoner's Dilemma against one another, and Bitcoin does the same to government agents.
-image: https://nakamotoinstitute.org/static/img/mempool/bitcoins-shroud-of-subtlety-and-allure/american-flag-bitcoin.png
----
+# Bitcoin's Shroud Of Subtlety And Allure
+
+_Daniel Krawisz_
+
+**Originally published [29 June 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/bitcoins-shroud-of-subtlety-and-allure/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/bitcoins-shroud-of-subtlety-and-allure/).**
+
+<div class="my-4 text-center">![USB](b://37e0bd71c224679f3711a83a983fd26aaa90bb471f4acc2d896e12d9d71c7f78)</div>
 
 ## Attacks on Bitcoin
 

@@ -1,9 +1,8 @@
----
-layout: post
-title: Anonymity and Gold
-permalink: anonymity
-excerpt: In Bitcoin, ideas have consequences. The price of Bitcoin is a shared idea about everybody elses’s unit of account. The price is higher when more people believe that everyone will want to use Bitcoin as their unit of account. Therefore, if many people believe something foolish for a long time, other people can get wealthy off of them and in turn use their money to cause bad things to happen. An idea whose consequences I wish I had understood more fully earlier was anonymity.
----
+# Anonimity And Gold
+
+_Daniel Krawisz_
+
+**Originally published [05 June 2019 At Krawisz.com](http://krawisz.com/anonymity).**
 
 In Bitcoin, ideas have consequences. The price of Bitcoin is a shared idea about everybody elses’s unit of account. The price is higher when more people believe that everyone will want to use Bitcoin as their unit of account. Therefore, if many people believe something foolish for a long time, other people can get wealthy off of them and in turn use their money to cause bad things to happen. An idea whose consequences I wish I had understood more fully earlier was anonymity.
 

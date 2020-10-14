@@ -1,10 +1,10 @@
----
-layout: post
-title: Bitcoin is the Best Unit of Account
-permalink: bitcoin-is-the-best-unit-of-account
-excerpt: Someone still lost in the dollar world looks at Bitcoin and sees wild and extreme volatility, whereas someone in Bitcoin looking back at the dollar sees the worst and longest economic crash in history.
----
+# Bitcoin Is The Best Unit Of Account
 
+_Daniel Krawisz_
+
+**Originally published [14 March 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/bitcoin-is-the-best-unit-of-account/).**
+
+**[Krawisz.com Mirror](http://krawisz.com/bitcoin-is-the-best-unit-of-account).**
 
 In an [earlier article](/mempool/i-love-bitcoins-volatility/), I conceded too much and suggested that Bitcoin doesn’t _need_ to be a unit of account. What I should have said is that Bitcoin is a great unit of account—much better than the dollar.
 
@@ -12,8 +12,7 @@ The objection that Bitcoin is not a good unit of account actually hides a circul
 
 There is, of course, no objective unit of value that is measured with a unit of account. This is why it is possible for two people to prefer such wildly different behaviors from their units of accounts. Someone still lost in the dollar world looks at Bitcoin and sees wild and extreme volatility, whereas someone in Bitcoin looking back at the dollar sees the [worst and longest](http://bitcoinism.blogspot.com/2013/11/us-dollar-falls-to-new-lows-against.html) economic crash in history.
 
-![](/static/img/mempool/bitcoin-is-the-best-unit-of-account/SP500inBTC.png)
-
+<div class="my-4 text-center">![S&P500 In BTC](b://1a3a10daa4d37de0eaf121258023a60009837a86631c983f92960d232d05d6a2)</div>
 
 Upon entering the Bitcoin world, one gradually realizes that dollars make a lot less sense in this new world. Suppose, for example, that one considers getting into Bitcoin mining. The most important question is whether the mining rigs will mine more bitcoins than they cost—dollars don’t enter into question at all. Other businesses that perform Bitcoin-related services also must think similarly because one must always ask for any investment in the business, did it earn as many bitcoins as it cost to create?
 

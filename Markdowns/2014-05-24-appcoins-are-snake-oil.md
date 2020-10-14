@@ -1,12 +1,12 @@
----
-layout: post
-title: Appcoins Are Snake Oil
-permalink: appcoins-are-snake-oil
-excerpt:  Appcoins should not be considered a valid investment and are inappropriate as a means of funding open-source projects. Furthermore, once the arguments in this essay become well enough understood by investors, that it will be impossible to fund a project by selling an appcoin because the price will rapidly tend to zero.
-image: https://nakamotoinstitute.org/static/img/mempool/appcoins-are-snake-oil/rube-goldberg.jpg
----
+# Appcoins Are Like Snake Oil
 
+_Daniel Krawisz_
 
+**Originally published [24 May 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/appcoins-are-snake-oil/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/appcoins-are-snake-oil/).**
+
+<div class="my-4 text-center">![Rube-Goldberg](b://8898368c5c75b8af9e93a4f62ec06ed0901969e4eba03420063d205ae3dad03d)</div>
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Because any appcoin must compete with Bitcoin, there is inherently an aversion t
 
 It is, furthermore, not necessary to assume that the app must be forked to remove its dependence on the appcoin. As soon as the developers have sold out of their premined appcoins, there will be nothing preventing them from upgrading the app themselves to support Bitcoin. All nodes running the app who are acting as service providers will also desire this because it will generate more business for them. I do not see how investors in the appcoin could expect to prevent this. That should eliminate the expectation that any appcoin could ever be a good investment.
 
-<div class="my-4 text-center">![](/static/img/mempool/appcoins-are-snake-oil/underpants-gnomes.png)</div>
+<div class="my-4 text-center">![Underpants Gnomes](b://e68723f0adc8ec18e7385ae3bcaca6515be87b1dfd7b82db918299c1480b9901)</div>
 
 ## Beating a Dead Horse
 
@@ -44,7 +44,7 @@ Appcoins are a terrible idea. And furthermore, this shouldn't require such a dee
 
 In fact, it's not _like_ that. It's _exactly_ what they're actually doing. Appcoins are pump-and-dump scams disguised as [Rube Goldberg machines](http://en.wikipedia.org/wiki/Rube_Goldberg_machine), so don't get fooled.
 
-<div class="my-4 text-center">![](/static/img/mempool/appcoins-are-snake-oil/inconvenience-store.jpg)</div>
+<div class="my-4 text-center">![Inconvenience Stores](b://94b7f3d03cde95ba345e25b5955d0adb623e1bc2d32997359f8f3afe3ad76e18)</div>
 
 _[Update 6/16/2014: Added argument about developers changing the app themselves. Slight edits for clarity. Added footnote about frauds.]_
 

@@ -1,10 +1,12 @@
----
-layout: post
-title: The Optimal Block Size
-permalink: optimal-block-size
-excerpt: In this article I will explain how the size of Bitcoin blocks is determined in the absence of an arbitrary size limit.
-image: https://bitcoinist.com/wp-content/uploads/2014/10/borgcubus2.jpg
----
+# The Optimal Block Size
+
+_Daniel Krawisz_
+
+**Originally published [18 October 2014 At Bitcoinist.com](https://bitcoinist.com/the-optimal-block-size/).**
+
+**[Krawisz.com mirror](http://krawisz.com/optimal-block-size).**
+
+<div class="my-4 text-center">![Cyberblock](b://f140fa95702baedc16c4e73299de75d48d913a85d88faa63de7a65caaf9a3375)</div>
 
 In this article I will explain how the size of Bitcoin blocks is determined in the absence of an arbitrary size limit. Oleg has already written an [excellent post](http://blog.oleganza.com/post/43677417318/economics-of-block-size-limit) on this topic, but I have a few things to add and I wish to relate the discussion to the current [debate](https://bitcoinfoundation.org/2014/10/a-scalability-roadmap/) over increasing the block size.
 

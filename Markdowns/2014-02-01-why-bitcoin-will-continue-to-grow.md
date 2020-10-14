@@ -1,10 +1,12 @@
----
-layout: post
-title: Why Bitcoin Will Continue to Grow
-permalink: why-bitcoin-will-continue-to-grow
-excerpt: Currencies are unusual in that their usefulness as currencies is a result of their demand. The more deals that can potentially be made with one, the better it is. It is only indirectly because of a currency’s inherent properties that it can turn into a good currency. To an alien with no interest in human culture or technology, both dollars and bitcoins would be equally worthless, even though he would be able to see that bitcoins are a superior medium of exchange.
-image: https://nakamotoinstitute.org/static/img/mempool/why-bitcoin-will-continue-to-grow/hulk.jpg
----
+# Why Bitcoin Will Continue To Grow
+
+_Daniel Krawisz_
+
+**Originally published [1 February 2014 at the Mises Circle](http://themisescircle.org/blog/2014/02/01/why-bitcoin-will-continue-to-grow/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/im-hoarding-bitcoins-and-no-you-cant-have-any/).**
+
+<div class="my-4 text-center">![Hulk](b://2de48fc515f4da9c20a35614acbc179e417ea696d6e9f6b2a7ec4636e3bab2ca)</div>
 
 ## The Value of Money is the Value of a Community
 
@@ -16,7 +18,7 @@ However, a better physical metaphor might be the formation of crystals. A liquid
 
 By this metaphor, the supercooled liquid is the world as of a few years ago, ripe for a monetary revolution, and the seed is the initial bitcoin purchase. The fact that Bitcoin successfully transformed into something with value seems like a miracle. However, it was no miracle. It was a result of the dedication and faith of its community, whose members will not let go of the beautiful vision of a Bitcoin future. It might be better to use a word like “crystallization” to describe the formation of the initial “seed” of Bitcoin trading rather than a metaphor like “bootstrapping”, which depicts a physical paradox.<sup id="fnref:1">[1](#fn:1)</sup>
 
-<div class="my-4 text-center">![](/static/img/mempool/why-bitcoin-will-continue-to-grow/breaking-bad.jpg)</div>
+<div class="my-4 text-center">![Walt & Jesse](b://ef6d41bd5a3fdb87f3fdc9ba631625e3fcf52b8f6644f347268bcf436f105)</div>
 
 Thus, when people dismiss Bitcoin as valueless and call every upward price movement a bubble, they are really missing the point. An investment in bitcoins is an investment in the Bitcoin community. It was in late 2012 that I came to realize just how wonderfully fanatical this community was, and this was what convinced me to treat my bitcoins not as simply an utter speculation, but as something with very real prospects.
 
@@ -40,7 +42,7 @@ It might be argued that Bitcoin could retain its uses on illegal markets, but th
 
 All things being equal, a larger network is better than a smaller one. This puts Bitcoin at a disadvantage with respect to national currencies. One would therefore expect Bitcoin to decline relative to dollars or euros. The fact that this is not the case tells us that all things are not equal. It shows us that Bitcoin is still good enough compared to the national currencies. It can grow anyway despite their advantages over it. The network effect means that the bigger Bitcoin gets, the better its prospects. The fact that Bitcoin has grown in the immediate past is strong evidence that it will continue to grow in the immediate future.
 
-<div class="my-4 text-center">![](/static/img/mempool/why-bitcoin-will-continue-to-grow/chart.png)</div>
+<div class="my-4 text-center">![Chart](b://34c6520e8b1e76752d94ea1619bdd85162d99ae939f3b14b96ce46b6343ae86b)</div>
 
 A possible objection is that Bitcoin’s demand is mostly investment demand rather than demand as a currency. Therefore, the objection goes, it is no longer the case that Bitcoin’s demand is self-promoting. However, a currency becomes more useful as a result of any kind of demand, not just demand as a currency. I would bet that most people who are invested in bitcoins today would be happy to get more by trading goods and services for them. They are also happy to serve as a facilitator for bitcoin trades via the dollar, which is effectively what happens when a merchant accepts bitcoins as payment and then immediately converts them to dollars. Thus, their investment demand enables more use of Bitcoin as a currency. By merely investing in Bitcoin, they enable more potential trades and make Bitcoin a better currency.
 

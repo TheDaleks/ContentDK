@@ -1,10 +1,12 @@
----
-layout: post
-title: The Legacy of the Dread Pirate Roberts
-permalink: the-legacy-of-the-dread-pirate-roberts
-excerpt: All Bitcoin entrepreneurs today build on top of the success of the Silk Road. Their work was made possible by his.
-image: https://nakamotoinstitute.org/static/img/mempool/the-legacy-of-the-dread-pirate-roberts/silk-road-logo.jpg
----
+# The Legacy Of The Dread Pirate Roberts
+
+_Daniel Krawisz_
+
+**Originally published [10 July 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/the-legacy-of-the-dread-pirate-roberts/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/the-legacy-of-the-dread-pirate-roberts/).**
+
+<div class="my-4 text-center">![Silk Road Logo](b://5d043b40ff55d31aaedbf5be02d85c19c7593719a5d1ac2d876c9647b8150578)</div>
 
 I vividly remember the first time I saw the Silk Road in mid 2012\. Like a timid fawn venturing out into an unknown meadow, I fired up the Tor Browser, entered some gobbledygook into the address bar, and took my first peek into the darknet.
 

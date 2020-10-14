@@ -1,10 +1,12 @@
----
-layout: post
-title: "Bitcoin's Rugged Individualism"
-permalink: bitcoins-rugged-individualism
-excerpt: "There is a fundamental agency problem with Bitcoin: agents can disappear or simulate a heist upon themselves. They cannot rationally be trusted without extreme costs being imposed on them which are more stringent than traditional banks."
-image: https://nakamotoinstitute.org/static/img/mempool/bitcoins-rugged-individualism/ministry-of-information.jpg
----
+# Bitcoin's Rugged Individualism
+
+_Daniel Krawisz_
+
+**Originally published [29 June 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/bitcoins-rugged-individualism/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/bitcoins-rugged-individualism/).**
+
+<div class="my-4 text-center">![Brazil 1985](b://d7046f2c083a636be45619c678083ec107b9ac8b28ee8aa6722717bf44550bd1)</div>
 
 ## Bitcoin and the Agency Problem
 

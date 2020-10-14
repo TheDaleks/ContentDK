@@ -1,9 +1,10 @@
----
-layout: post
-title: The Correct Strategy of Bitcoin Entrepreneurship
-permalink: the-correct-strategy-of-bitcoin-entrepreneurship
-excerpt: Don't be a venture capitalist—be a speculative philanthropist.
----
+# The Correct Strategy Of Bitcoin Entrepreneurship
+
+_Daniel Krawisz_
+
+**Originally published [16 May 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/the-correct-strategy-of-bitcoin-entrepreneurship/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/the-correct-strategy-of-bitcoin-entrepreneurship/).**
 
 ## We're All in This Together
 

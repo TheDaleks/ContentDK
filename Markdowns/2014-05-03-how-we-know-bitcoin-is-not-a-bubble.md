@@ -1,9 +1,10 @@
----
-layout: post
-title: How We Know Bitcoin Is Not a Bubble
-permalink: how-we-know-bitcoin-is-not-a-bubble
-excerpt: No matter how many times Bitcoin grows by orders of magnitude, holdouts still remain who argue that it is a bubble destined to fail. To address this claim, I will describe a theory that describes how to appraise Bitcoin according to the Austrian theory of money.
----
+# How We Know Bitcoin Is Not A Bubble
+
+_Daniel Krawisz_
+
+**Originally published [03 May 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/how-we-know-bitcoin-is-not-a-bubble/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/how-we-know-bitcoin-is-not-a-bubble/).**
 
 ## The Value of Money
 
@@ -33,7 +34,7 @@ Metcalfe’s law must be adjusted slightly to apply to media of exchange because
 
 A striking test of Metcalfe’s law in Bitcoin recently appeared on the [Bitcointalk forums](https://bitcointalk.org/index.php?topic=366214.msg5919365#msg5919365), created by Peter R. I have made my own chart here.
 
-<div class="my-4 text-center">![Metcalfe's Law](/static/img/mempool/how-we-know-bitcoin-is-not-a-bubble/MetcalfeGraph.png)</div>
+<div class="my-4 text-center">![Metcalfe's Law](b://52efbe936d5e606495705a36795528326c5426b973d3865221919f2cb8583725)</div>
 
 This chart plots the market cap in blue and the square of the transaction volume excluding popular addresses in green. The axis on the left is the price in dollars. Exactly as Metcalfe’s law predicts, the transaction volume increases very neatly as the square root of the size of the network. The correspondence is beautiful. I wish I had thought to make it first!
 

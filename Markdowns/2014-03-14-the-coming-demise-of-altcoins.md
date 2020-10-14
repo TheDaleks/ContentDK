@@ -1,10 +1,12 @@
----
-layout: post
-title: "The Coming Demise of the Altcoins (And What You Can Do to Hasten It)"
-permalink: the-coming-demise-of-altcoins
-excerpt: "This article explains why there is a tendency towards a single dominant currency, why the network effect overwhelmingly favors Bitcoin above any of its competitors, and why people should speak out against altcoins rather than allow more people to get fooled by them."
-image: https://nakamotoinstitute.org/static/img/mempool/the-coming-demise-of-altcoins/wanderer-sea-of-fog.jpg
----
+# The Coming Demise Of Altcoins (And What To Do To Hasten It)
+
+_Daniel Krawisz_
+
+**Originally published [14 March 2014 at the Mises Circle](http://themisescircle.org/blog/2014/03/14/the-coming-demise-of-the-altcoins/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/the-coming-demise-of-the-altcoins-and-what-you-can-do-to-hasten-it/).**
+
+<div class="my-4 text-center">![Wanderer Sea Of Fog](b://bef7b11f3fe5e43728e51f4e131fe56eb4d3b2e5d2e0b2bb2e3ea4764267828a)</div>
 
 > O my brethren, am I then cruel? But I say: What falleth, that shall one also push!  
 > Everything of to-day—it falleth, it decayeth; who would preserve it! But I—I wish also to push it!  

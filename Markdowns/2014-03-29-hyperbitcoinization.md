@@ -1,10 +1,12 @@
----
-layout: post
-title: Hyperbitcoinization
-permalink: hyperbitcoinization
-excerpt: This article is about the possibility of Bitcoin-induced currency demonetization, or hyperbitcoinization, which is what would happen to any hapless currency that stands in Bitcoin's path of total world domination. If this happens, the currency will rapidly lose value as Bitcoin supplants it. What would such an event be like and how can it be understood economically?
-image: https://nakamotoinstitute.org/static/img/mempool/hyperbitcoinization/Bitcoinbody.png
----
+# Hyperbitcoinization
+
+_Daniel Krawisz_
+
+**Originally published [29 March 2014 at Nakamoto Institute](https://nakamotoinstitute.org/mempool/hyperbitcoinization/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/hyperbitcoinization/).**
+
+<div class="my-4 text-center">![Bitcoin Face](b://6d7dfa7941dccab11127d343e17ce34849f6dd8914160cd03245e3d11bd3180c)</div>
 
 ## Bitcoin-Induced Demonetization
 
@@ -33,6 +35,8 @@ Based on these two differences, I make two predictions about a hyperbitcoinizati
 2.  _Hyperbitcoinization will not disrupt the economy to nearly the same degree as hyperinflation._ The currency is the instrument of the division of labor, and hyperinflation makes it unreliable and forces people to use worse alternatives. In a hyperbitcoinization event, people switch from a fundamentally inferior currency to a superior one, whereas in a hyperinflationary event people will only switch to a new currency once the old currency becomes worse than the next best alternative, such as gold or detergent. Hyperbitcoinization should be accompanied by a rapid improvement in productivity and wealth.
 
 Hyperbitcoinization will probably be a confusing time for everyone, like a second adolescence. However, once it is over, no one will be able to imagine how we got by with the earlier system.
+
+<div class="my-4 text-center">![Bitcoin Body](b://51cf348421b0b7a9ee2ce3b474a40e8ccbc5c96689f198a4d0f27ee83833db9c)</div>
 
 * * *
 

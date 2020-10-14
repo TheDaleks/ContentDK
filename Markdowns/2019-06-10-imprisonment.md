@@ -1,9 +1,8 @@
----
-layout: post
-title: Imprisonment
-permalink: imprisonment
-excerpt: Since the BSV split I have finally been able to connect with other people who genuinely want to listen to what I had to say and who have been able to understand it and connect with me emotionally. The life that I have led before was something I wish I could have avoided. Nothing could have made me imagine how much the people around me would want to stop listening to me so quickly and for such a long time that I would be desperate for human connection. I do not feel that way now but I am only beginning to recover.
----
+# Imprisonment
+
+_Daniel Krawisz_
+
+**Originally published [10 June 2019 At Krawisz.com](http://krawisz.com/imprisonment).**
 
 I have been coming to the realization that I was seriously mentally disturbed for many years due to having my trust broken over and over from people I loved and that I believed I could rely on. Einstein has said that insanity is doing the same thing over and over and expecting a different outcome. I have been driven insane by the idea that everyone should naturally want to make Bitcoin more valuable.
 

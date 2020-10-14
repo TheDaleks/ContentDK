@@ -1,9 +1,10 @@
----
-layout: post
-title: How to Market Bitcoin
-permalink: how-to-market-bitcoin
-excerpt: Does Bitcoin need to be sanitized and separated from its anarchist, black-market roots in order to become acceptable to the general population? Must Bitcoin become an upstanding citizen and saddle itself with KYC requirements and capital controls? Absolutely not! 
----
+# How To Market Bitcoin
+
+_Daniel Krawisz_
+
+**Originally published [26 April 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/how-to-market-bitcoin/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/how-to-market-bitcoin/).**
 
 ## How Bitcoin Adoption Works
 

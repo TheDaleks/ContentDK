@@ -1,9 +1,8 @@
----
-layout: post
-title: How to Reduce Expected Network Criminality
-permalink: reduce-criminality
-excerpt: To a violent criminal, the Anoncoin market (in other words, goods offered for anoncoin) is more useful than the Bitcoin market because it’s easier for him to use violence to get Anoncoin. Consequently, violent criminals will have portfolios with more Anoncoin and will therefore cluster with more Anoncoin holders. 
----
+# How To Reduce Expected Network Criminality
+
+_Daniel Krawisz_
+
+**Originally published [07 June 2019 At Krawisz.com](http://krawisz.com/reduce-criminality).**
 
 You are a node in the network. The connections in the network consist not just of your friends, but anyone who is secretly spying on you.
 

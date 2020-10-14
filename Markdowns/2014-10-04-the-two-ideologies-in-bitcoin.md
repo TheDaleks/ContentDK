@@ -1,10 +1,12 @@
----
-layout: post
-title: The Two Ideologies in Bitcoin
-permalink: the-two-ideologies-in-bitcoin
-excerpt: There are two ideologies in the Bitcoin world. They are not political ideologies; they are different visions of Bitcoin’s place in the world and how adoption will happen.
-image: https://nakamotoinstitute.org/static/img/mempool/the-two-ideologies-in-bitcoin/dune-fight.jpg
----
+# The Two Ideologies In Bitcoin
+
+_Daniel Krawisz_
+
+**Originally published [04 October 2014 At The Nakamoto Institute](https://nakamotoinstitute.org/mempool/the-two-ideologies-in-bitcoin/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/the-two-ideologies-in-bitcoin/).**
+
+<div class="my-4 text-center">![Dune Fight](b://cae0aa3163da07b0d3e84e9f3f64d846dcc9b0f12ea4fd398bc44e2884e666b2)</div>
 
 There are [two ideologies](http://bitcoinist.net/just-shut-up-and-get-rich/ "Shut Up and Get Rich") in the Bitcoin world. They are not political ideologies; they are different visions of Bitcoin’s place in the world and how adoption will happen. One of them sees Bitcoin primarily as a tool and expects that the apps built with Bitcoin are what people are going to want, and that demand for the apps and services are the primary driver of Bitcoin adoption. For a perfect example of this view see [this recent article](https://medium.com/zapchain-magazine/stop-what-youre-doing-and-start-a-bitcoin-company-665ecfd395d0), which says “In order to make Bitcoin mainstream, someone needs to make a viral Bitcoin product that everyone uses. Likely, the people using this product will not even be aware that it’s powered by Bitcoin”. For another good example, see [this video](http://vimeo.com/92864854), which calls Bitcoin a “crappy currency” and says “the real revolution of Bitcoin is as a new kind of payment network”.
 

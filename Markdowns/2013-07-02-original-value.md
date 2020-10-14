@@ -1,4 +1,10 @@
-#The Original Value Of Bitcoins
+# The Original Value Of Bitcoins
+
+_Daniel Krawisz_
+
+**Originally published [2 July 2013 at the Mises Circle](http://themisescircle.org/blog/2013/07/02/the-original-value-of-bitcoins/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/the-original-value-of-bitcoins/).**
 
 <div class="my-4 text-center">![Oil Well](b://c5580e3253da16141d786c4e78972aa27b6c0cd0db58a797efddb1c2c4000cca)</div>
 

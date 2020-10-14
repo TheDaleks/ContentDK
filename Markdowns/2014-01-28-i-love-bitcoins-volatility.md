@@ -1,5 +1,11 @@
 # I Love Bitcoin's Volatility
 
+_Daniel Krawisz_
+
+**Originally published [28 January 2014 at the Mises Circle](http://themisescircle.org/blog/2014/01/28/i-love-bitcoins-volatility/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/i-love-bitcoins-volatility/).**
+
 <div class="my-4 text-center">![Money!!!](b://5de1cb06e12a5ca507403f05892868e75614abd4176345f4a64c55e79a9b267f)</div>
 
 ## I Hate Success and Happiness

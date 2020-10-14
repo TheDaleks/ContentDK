@@ -1,5 +1,11 @@
 # The Proof Of Work Concept
 
+_Daniel Krawisz_
+
+**Originally published [24 June 2013 at the Mises Circle](http://themisescircle.org/blog/2013/06/24/the-proof-of-work-concept/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/the-proof-of-work-concept/).**
+
 <div class="my-4 text-center">![Peacock](b://c80de89e48faba6ce65c06eb46dd21a0ddff4e314a415c97d608b50fdf66c609)</div> 
 
 ## The Search

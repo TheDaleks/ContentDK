@@ -1,5 +1,11 @@
 # Mastercoin is a Nightmare of Insanity
 
+_Daniel Krawisz_
+
+**Originally published [20 December 2013 at the Mises Circle](http://themisescircle.org/blog/2013/12/20/mastercoin-is-a-nightmare-of-insanity/).**
+
+**[Krawisz.com mirror](http://krawisz.com/mastercoin-is-a-nightmare-of-insanity).**
+
 <div class="my-4 text-center">![SB And Patrick 1](b://990c9ae90dfb1694db35e6e2234179557a9d7a14dd30a49c1dfd143f7baf7026)</div>
  
 ## An Altcoin in the Block Chain

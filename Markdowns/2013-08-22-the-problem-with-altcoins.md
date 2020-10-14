@@ -1,5 +1,11 @@
 # The Problem With Altcoins
 
+_Daniel Krawisz_
+
+**Originally published [22 August 2013 at the Mises Circle](http://themisescircle.org/blog/2013/08/22/the-problem-with-altcoins/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/the-problem-with-altcoins/).**
+
 <div class="my-4 text-center">![Elvis](b://f764043d00bbfed7c9aef4ac2e67c6c824ce405abb25cd1454ff43e594ccd8d4)</div>
 
 ## Why no altcoin can succeed

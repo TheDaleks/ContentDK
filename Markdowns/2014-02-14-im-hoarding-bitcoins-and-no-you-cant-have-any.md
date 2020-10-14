@@ -2,7 +2,7 @@
 
 _Daniel Krawisz_
 
-**Originally published [12 February 2014 at the Satoshi Nakamoto Institute](original link here).**
+**Originally published [12 February 2014 at the Satoshi Nakamoto Institute](http://themisescircle.org/blog/2014/02/12/im-hoarding-bitcoins-and-no-you-cant-have-any/).**
 
 <div class="my-4 text-center">![Scrooge](b://c431cc514f32fc7efab72471e276fa8796f54847ac1d806ee12ff8014f36d8b7)</div>
 

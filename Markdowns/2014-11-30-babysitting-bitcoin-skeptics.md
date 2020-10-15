@@ -1,10 +1,12 @@
----
-layout: post
-title: "Babysitting Bitcoin Skeptics: A Response to Krugman and Gobry"
-permalink: /babysitting-bitcoin-skeptics
-excerpt: Krugman’s article and Gobry’s follow-up are confused, do not establish their case, and say nothing about Bitcoin.
-image: https://nakamotoinstitute.org/static/img/mempool/babysitting-bitcoin-skeptics/krugman-bitcoin.png
----
+# Babysitting Bitcoin Skeptics
+
+_Daniel Krawisz_
+
+**Originally published [30 November 2014 At Nakamoto Institute](https://nakamotoinstitute.org/mempool/babysitting-bitcoin-skeptics/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/babysitting-bitcoin-skeptics/).**
+
+<div class="my-4 text-center">![Krugman](b://9f1ae5e2ece8942ce5a2cb131652906dac55b18272b2ee9b96f82c2aaf088c5a)</div>
 
 In 1977, Joan and Richard Sweeney wrote an article called “[Monetary Theory and the Great Capitol Hill Baby Sitting Co-op Crisis](http://cda.morris.umn.edu/~kildegac/Courses/M&B/Sweeney%20&%20Sweeney.pdf)” which describes the economic woes of a certain babysitting co-op whose members traded scrip between them in exchange for babysitting one anothers’ children. In 1998, Paul Krugman wrote a commentary on it called “[Baby-Sitting the Economy](http://www.slate.com/articles/business/the_dismal_science/1998/08/babysitting_the_economy.html).” He interpreted the events it describes as a microcosm for the economy as a whole, and he analyzed it according to his Keynesian framework. Finally, in 2014, Pascal-Emmanuel Gobry confidently predicted Bitcoin’s failure based on his [application](http://www.forbes.com/sites/pascalemmanuelgobry/2013/04/05/krugman-baby-sitting-co-op-bitcoin/) of Krugman’s analysis to Bitcoin.
 

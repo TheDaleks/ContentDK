@@ -1,9 +1,12 @@
----
-layout: post
-title: How to Fight Cryptocurrency Cults
-permalink: how-to-fight-cryptocurrency-cults
-excerpt: When I first got into bitcoin, I tried to imagine what could go wrong and could never really think of anything. I never thought that it would turn into a cult. In retrospect, it should have been obvious. Bitcoin is an imaginary good. Thus, it is vulnerable to mind-control.
----
+# How To Fight Cults.
+
+_Daniel Krawisz_
+
+**Originally published [01 June 2018 At Bitcoin.com](https://news.bitcoin.com/how-to-fight-cryptocurrency-cults/).**
+
+**[08 June 2018 Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/how-to-fight-bitcoin-cults/).**
+
+<div class="my-4 text-center">![Cultists](b://89eff33202ea91c9250fa04735eaff2d02c7f9abd2a4d81ad9957da830638483)</div>
 
 When I first got into bitcoin, I tried to imagine what could go wrong and could never really think of anything. I never thought that it would turn into a cult. In retrospect, it should have been obvious. Bitcoin is an imaginary good. Thus, it is vulnerable to mind-control.
 
@@ -13,17 +16,23 @@ The essence of a cult is a group of incompetent, dysfunctional people who are tr
 
 Before you go fighting this kind of monster, you need to protect yourself. The way to do this is to keep in mind that the way to succeed as an investor is to know the future before other people, and that people who do know the future have no particular reason to tell you what they know. It is entirely your responsibility as an investor to figure out what is important for you to know. The most important information will be hard to come by because the people who have it will prefer to keep it secret. If someone needs you to have their information, it is almost certain to be useless information. This mindset will protect you because cult dogma is no good at predicting the future on its own. It is only good for hypnotizing people.
 
+<div class="my-4 text-center">![Danger Cult](b://e35860f7c1ccfeff9581089bbbef146e795b67d9dbf8fb2801899ff531e2f17b)</div>
+
 ## Domga and Indoctrination
 
 If you ever feel like you have information that you need to share with people, then you may want to rethink your own position. That is a weak position because the only thing someone has to do to thwart you is be stupid. Being stupid is easy, so you don’t want to be weak to stupidity. By the way, you can test whether you are in a cult by acting stupid when it is telling you something that you think might be dogma. If you are in a cult, they will react strongly and try to indoctrinate you. Otherwise, they will leave you alone or tell you to go away. Cults need people to accept their dogma, whereas non-cults do not.
 
 One of the events that made me begin to see that [BTC](https://markets.bitcoin.com/crypto/BTC) had become a cult was when I went on Jimmy Song’s show and said I didn’t think the Lightning Network was going to work even though I didn’t understand it very well. If I genuinely lacked important information, I would simply have lost my twitter followers at that point and the other investors who did understand it would bet against me and win out. Instead, however, I got some very angry reactions from people who demanded that I learn about the Lightning Network from them. I now get much more attention from both the [BTC](https://markets.bitcoin.com/crypto/BTC) and [BCH](https://markets.bitcoin.com/crypto/BCH) side than I did at that time, and I would argue that a reason for this is that the information I do have concerning cults is genuinely important and therefore people cannot afford to ignore me.
 
+<div class="my-4 text-center">![BL](b://4e24f514802889b1375611a734d7c480a85d943adbbf4acb202d07c6847fa4d3)</div>
+
 ## Fighting the Cultists
 
 Now that you have your defenses up, the first rule of fighting cults is not to fight cults. Cults thrive on attention, good or bad. The cult succeeds if you forget that you will probably have a more pleasant day if you ignore it. Opposing a cult is a way of treating it like it is important, which is exactly what it wants. You must not reward their trickery by increasing your attention. This does not mean that you should not warn other people about it, but all you need to do is reveal the trick to other people so that they don’t fall for it.
 
 Thus, your first weapon against cults is boredom. Cult members will try to get your attention by any means necessary. You must not give in to temptation when they insult or humiliate you. Treat their challenges like a shit test and react with boredom. Unimportant people should not be able to get a rise out of you, and someone who has no skills other than foolish tricks is an unimportant person. A successful engagement with a cult is one in which you consistently fail to oppose it.
+
+<div class="my-4 text-center">![STAPH!](b://29a73debc27d89eaff90d829515280d1a8e7193cb9faee45b024e54f9575bc86)</div>
 
 ## The Composition of the Bitcoin Cult
 
@@ -33,6 +42,8 @@ However, no cult member is irredeemable and your goal should be to draw people o
 
 Most of the show is about a journalist who is humiliating himself in shame because he had written an article about a company that turned out later to be a scam, even though he appears to have researched the company as best he could and later issued a retraction. Later, everyone starts to argue with me because they say that I’m promoting [BCH](https://markets.bitcoin.com/crypto/BCH) without doing proper research about what a scam it is. I think they were trying to make me feel bad. You can see that the manipulation goes on for most of the show, but at the very end the cult members start to realize that it’s not working and then they don’t know what to do. At that point I begin to talk nonsense, which is a way of stimulating creative, open-ended thought.
 
+<div class="my-4 text-center">![YOU!](b://fc00f3be1a374445cb9e2a429ef174cda952f1659b702e6111f4f43e032667bb)</div>
+
 ## Banishing Cultists with Boredom
 
 Boredom is a reality check. Remember, the illusion of importance is what keeps people in. If the cult member starts to feel like his trickery does not command attention, then that is a reason for him to stop paying attention to the cult himself. Furthermore, cults try to make you forget that you can leave. The use of boredom with a cult member is a way of reminding him that anyone can leave, and in fact your connection to him is quite tenuous. If he doesn’t respond, go off and do something else that is more enjoyable than talking to him.
@@ -40,6 +51,8 @@ Boredom is a reality check. Remember, the illusion of importance is what keeps p
 You should not be mean or manipulative with your attention because that is opposition and that will push the cult member deeper in. Be just: people who are incompetent and dysfunctional do not deserve your attention, so simply treat his behavior with the level of attention it deserves. Drawing people out requires that you provide a contrast to the cult environment, which is an environment of nonstop manipulation. Don’t do anything to the cult member to make him feel like you want anything out of him at all. If you consistently fail to oppose him, he will feel like he has the free choice to step out. If you act like you want something, that is an opening that he can use to manipulate you.
 
 Boredom is the stick. The carrots are what’s missing in a cult: humor, creativity, and open-ended thought. These are your next weapons. An important step in becoming a cult member is losing your sense of humor. This is important because humor is an exercise in ambiguity and contradiction.  Cult members must lose the ability to recognize either in order for them to accept dogma. Those who can be made to accept absurdities can be made to commit atrocities.[1]
+
+<div class="my-4 text-center">![Socrates](b://9c729e8bde4cd89167b08caafb5aba72fe2055d34c3ebc681503e12faef5394b)</div>
 
 ## The Socratic Method
 

@@ -1,10 +1,12 @@
----
-layout: post
-title: Who Controls Bitcoin?
-permalink: who-controls-bitcoin
-excerpt: A common and understandable concern about Bitcoin is that it might become corrupted at the protocol level to serve special interests rather than the unwashed masses. For example, features might become adopted which make Bitcoin much less anonymous or which turn it into a centralized system. This question is really about who can influence the development of updates and who can block them. Anyone can fork Bitcoin, but suppose there were an upgrade proposed by some very influential people-the core devs-and suppose that it would hard-fork the Bitcoin protocol in some fundamental and controversial way. The core devs say it's a good idea, but maybe they've been paid off by the NSA. The question I will answer here is whether and how such an upgrade could be prevented from becoming standardized. Who controls Bitcoin?
-image: https://nakamotoinstitute.org/static/img/mempool/who-controls-bitcoin/godfather-puppet.jpg
----
+# Who Controls Bitcoin?
+
+_Daniel Krawisz_
+
+**Originally published [08 February 2015 At Nakamoto Institute](https://nakamotoinstitute.org/mempool/who-controls-bitcoin/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/who-controls-bitcoin/).**
+
+<div class="my-4 text-center">![Godfather](b://a72c85336e72d8f25cf90b68e8b48c37322c7fe5f21b6200c2035c5d1fa76e4c)</div>
 
 A common and understandable concern about Bitcoin is that it might become corrupted at the protocol level to serve special interests rather than the unwashed masses. For example, features might become adopted which make Bitcoin much less anonymous or which turn it into a centralized system. This question is really about who can influence the development of updates and who can block them. Anyone can fork Bitcoin, but suppose there were an upgrade proposed by some very influential people-the core devs-and suppose that it would hard-fork the Bitcoin protocol in some fundamental and controversial way. The core devs say it's a good idea, but maybe they've been paid off by the NSA. The question I will answer here is whether and how such an upgrade could be prevented from becoming standardized. Who controls Bitcoin?
 

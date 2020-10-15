@@ -1,12 +1,13 @@
-# Bitcoin's Shroud Of Subtlety And Allure
+# Bitcoin's Compound Rewards.
 
 _Daniel Krawisz_
+
 
 **Originally published [25 October 2014 At Bitcoinist](https://bitcoinist.com/bitcoins-compound-rewards/).**
 
 **[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/bitcoins-compound-rewards/).**
 
-<div class="my-4 text-center">![USB](b://fb584020bea73fdee4aaf281cbe024abe7e86c349c86f26e5c63eab7a0667fd7)</div>
+<div class="my-4 text-center">![Baby Godzilla](b://fb584020bea73fdee4aaf281cbe024abe7e86c349c86f26e5c63eab7a0667fd7)</div>
 
 
 If there were a set of rules such that the people who followed them were rewarded in a way that increased with the total number of followers, then each person involved has the incentive to bring more in, and furthermore can expect everyone else involved to do the same. Regardless of any other merits the rules have, the mere _prospect_ of rewards will make success more likely for them.

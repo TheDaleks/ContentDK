@@ -1,10 +1,11 @@
----
-layout: post
-title: Cryptotribalism
-permalink: cryptotribalism
-excerpt: People are trained by their rewards. A portfolio is a reward system. Hence there is a relationship between portfolio and behavior. In particular, money rewards tribalism. A portfolio of money is more rewarding if the users of that money preferentially befriend one another over users of different monies. Thus, money naturally evokes tribalism in humans, a naturally tribalist species. In the cryptocurrency market, tribalism can be observed.[1] In this article, I explain how money rewards tribalism.
-image: https://blog.matterpool.io/content/images/size/w2000/2020/01/native_american_tribes.jpg
----
+# Cryptotribalism.
+
+_Daniel Krawisz_
+
+**Originally published [16 January 2020 At Krawisz.com](http://krawisz.com/cryptotribalism).**
+
+<div class="my-4 text-center">![Native American Tribes](b://f104b928d7d8b15f85469ee19d8c25423010c7cf45a2eb97e13398ab7aaf4f96)</div>
+
 
 # Introduction
 

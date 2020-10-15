@@ -1,10 +1,12 @@
----
-layout: post
-title: Don’t Panic
-permalink: dont-panic
-excerpt: Working in the Bitcoin world is like working for a drug addict with bipolar disorder.
-image: https://nakamotoinstitute.org/static/img/mempool/dont-panic/dont-panic.jpg
----
+# Don't Panic
+
+_Daniel Krawisz_
+
+**Originally published [22 November 2014 At Bitcoinist](https://bitcoinist.com/bitcoiners-stop-worrying-about-everything-2/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/dont-panic/).**
+
+<div class="my-4 text-center">![Don't Panic](b://50abf356e99e4553c80250fa83e5701ac0bdd0a657f50914a7df408afffb3977)</div>
 
 
 

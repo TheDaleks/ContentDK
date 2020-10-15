@@ -1,9 +1,10 @@
----
-layout: post
-title: Reciprocal Altruism in the Theory of Money
-permalink: reciprocal-altruism
-excerpt: That monetary behavior is a form of altruism, and of reciprocal altruism in particular, has been demonstrated by relating the properties of money to the definition of reciprocal altruism and to its required features. The theory of reciprocal altruism is not, however, a complete theory of money. It leaves some things out.
----
+# Reciprocal Altruism In The Theory Of Money
+
+_Daniel Krawisz_
+
+**Originally published [08 December 2014 At Nakamoto Institute](https://nakamotoinstitute.org/reciprocal-altruism-in-the-theory-of-money/).**
+
+**[Krawisz.com mirror](http://krawisz.com/reciprocal-altruism).**
 
 ## Methodological Issues
 
@@ -73,13 +74,13 @@ A successful altruistic strategy has two characteristics: first, it must be pref
 
 One example of a game that models reciprocal altruism is the famous Prisoner’s Dilemma<sup><a href="#vi" id="ref-vi">vi</a></sup>. This is a two-person game, in which each player has two options: cooperate or defect. The payoff matrix for the Prisoner’s Dilemma looks like this:
 
-<img class="img-fluid d-block mx-auto my-4" src="/static/img/docs/reciprocal-altruism-in-the-theory-of-money/matrix-1.svg">
+<div class="my-4 text-center">![Graph 1](b://97a0c03294c80e5e24ab5822dab6a8463393ac9ccd0e6c2dedab44444eed0b27)</di
 
 In this diagram, each box represents an outcome after both players have made a choice. The first item in the list for each outcome is the reward to player one, and the second is the reward to player 2. The numbers in the boxes are arbitrary—what matters only is some ordering relations between them. A more abstract (but equivalent) payoff matrix for the Prisoner’s Dilemma is this:
 
 where <code>$Y>W>Z>X$</code> and <code>$X+Y<2 W$</code>. This second condition means that outcome $W$ is preferable to equal odds of outcome $X$ and $Y$.
 
-<img class="img-fluid d-block mx-auto my-4" src="/static/img/docs/reciprocal-altruism-in-the-theory-of-money/matrix-2.svg">
+<div class="my-4 text-center">![Graph 2](b://b91bf0b055784588d67f54b955a2c74b840d3c566a2a6ba0107737941ca0a8f5)</di
 
 The Prisoner’s Dilemma may seem like an odd choice to model reciprocal altruism because both players must cooperate at the same time. That seems more like mutualism! However, each cooperative move on the part of either player is altruistic because, in the one-round case, every cooperative move is less beneficial to itself and more beneficial to the other player. Mutualism only occurs when it is immediately beneficial to both players to cooperate. It is possible to alter the game so that the players must alternate at behaving altruistic to one another, but it is easiest to understand the Prisoner’s Dilemma first.
 
@@ -127,7 +128,7 @@ Of course, if more complex strategies were allowed, then the players could excha
 
 So now we have two kinds of reciprocal altruism, right? Not really; there is nothing much new here because we can find the Prisoner’s Dilemma hiding in them. This table explains how to combine moves in the modified Prisoner’s Dilemma to construct the same outcomes as the standard Prisoner’s Dilemma.
 
-<img class="img-fluid d-block mx-auto my-4" src="/static/img/docs/reciprocal-altruism-in-the-theory-of-money/matrix-3.svg">
+<div class="my-4 text-center">![Graph 3](b://0db86c69f9f374eedcac436324f1297c532222de62aa5f4d23a76bd2ae05ef2c)</di
 
 Other possible moves exist in the modified Prisoner’s Dilemma over two rounds, but they can be ignored because they do not affect the winning strategy.
 

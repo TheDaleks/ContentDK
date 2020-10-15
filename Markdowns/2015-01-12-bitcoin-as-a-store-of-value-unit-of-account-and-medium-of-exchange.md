@@ -1,10 +1,13 @@
----
-layout: post
-title: Bitcoin as a Store of Value, Unit of Account, and Medium of Exchange
-permalink: bitcoin-as-a-store-of-value-unit-of-account-and-medium-of-exchange
-excerpt: Bitcoin has the right properties for the world’s money, and the more the world comes to terms with this, the more stable it will become.
-image: https://nakamotoinstitute.org/static/img/mempool/bitcoin-as-a-store-of-value-unit-of-account-and-medium-of-exchange/king-kong.jpg
----
+# Bitcoin As A Store Of Value, Unit Of Account And Medium Of Exchange.
+
+_Daniel Krawisz_
+
+**Originally published [12 January 2015 At Nakamoto Institute](https://nakamotoinstitute.org/mempool/bitcoin-as-a-store-of-value-unit-of-account-and-medium-of-exchange/).**
+
+**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/bitcoin-as-a-store-of-value/).**
+
+<div class="my-4 text-center">![King Kong](b://53b35a3c75b421c0b031d1903db964928f02cfa5bd07db06d74d7adfe60d7591)</div>
+
 
 Some [recent mumblings](http://www.coindesk.com/can-bitcoins-price-ever-stable/) on CoinDesk on the idea of a cryptocurrency whose value is stabilized with a built-in prescription that manages its supply provoked me to write this article on why this is a vain dream. There is a common fallacy which says that price stability is required in order for a currency to function as a form of money. The way people use terms like _store of value_ and _unit of account_ presumes stability. However, I will show that in an unstable world, a stable currency is counterproductive and furthermore that an unstable currency serves the traditional purposes of money, to the extent that they can be meaningfully defined in unstable conditions.
 

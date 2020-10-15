@@ -1,10 +1,10 @@
----
-layout: post
-title: Bitcoin Offers Solutions to All Your Byzantine Generals Problems
-permalink: byzantine
-excerpt: Bitcoin is like an advanced alien that has come down to earth offering a service that everybody needs but no one wants because they don't understand it. Bitcoin is a solution to the Byzantine Generals Problem and it offers itself as a service. But what is that service? This article explains the nature of Byzantine fault-tolerance.
-image: https://blog.matterpool.io/content/images/size/w2000/2020/02/borg.png
----
+# Bitcoin Offers Solutions To All Your Byzantine General Problems.
+
+_Daniel Krawisz_
+
+**Originally published [03 February 2020 At Krawisz.com](http://krawisz.com/byzantine).**
+
+<div class="my-4 text-center">![Kheiron](b://7709faedeec02b1fc9b2a6fe987c5c7a02304f9ee2a546d53a2c313da4d7cc66)</div>
 
 Bitcoin is like an advanced alien that has come down to earth offering a service that everybody needs but no one wants because they don't understand it. Bitcoin is a solution to the Byzantine Generals Problem and it offers itself as a service. But what is that service? This article explains the nature of Byzantine fault-tolerance.
 
@@ -47,7 +47,7 @@ In _The Matrix_, Morpheus [tells Neo](https://www.youtube.com/watch?v=cqxwtEdxOC
 
 _The Matrix_ also contains agents. These are “sentient programs” that “can move in and out of any hardware still hardwired to their system.” Thus, according to Morpheus, the agents can enter the minds of the humans that are connected to the Matrix and use them to attack outsiders. The agents, therefore, are like lies that are told to customers that cause them to misidentify traitors. This is why the people plugged into the matrix are both friends (people who should be rescued) and enemies. Bitcoin can rescue people from becoming Agent Smith.
 
-![drawing](https://bico.media/69939064258a891ece4fce1b2f2240fde482869dab8fa49738ed5b88e0b9887e.jpg "A hub-and-spokes network. Image credit @5111 on Twetch")
+<div class="my-4 text-center">![Hubs And Spokes Agent Smith](b://49547abca3791e6f4c02da2fd273e60800af66dc1691fe2d0d2f5c4074a559c5)</div>
 
 In _Expanded Universe_, Robert A. Heinlein discusses an event that occurred during his trip to the Soviet Union in 1960 and the effect it had on him. When he and his wife first arrived in the USSR everyone was very friendly:
 

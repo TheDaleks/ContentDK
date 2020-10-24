@@ -32,7 +32,11 @@ Ideas cannot themselves be controlled with physical force, but instead must be c
 
 Similarly, to have a copyright in a song or a book is to have a property right over all paper, printing presses, computers — even over all people — everywhere. The owner may prevent the copying or public performance of his work by them all. Intellectual property is, like socialism, a kind of slavery, albeit a limited kind. Unlike socialism, however, intellectual property does not limit itself to the people and property in a given town or nation, or even the entire world. Since most matter in the universe could be used to encode an idea, intellectual property is a claim over the entire universe.
 
+
+
 > Intellectual Property Is Necessarily A Statist Doctrine.
+
+
 
 Rather than seeing intellectual property as a particularly expansive kind of physical property, many people see it as a separate, analogous, and equally fundamental construction. To copy an intellectual work is therefore a form of theft analogous to burglary; however, I insist that there is no analogy.
 
@@ -61,7 +65,11 @@ As the creation of wealth progresses, coordination and communication will become
 
 Thus, the doctrine of intellectual property is extremely impractical. It grants people property rights which are unlimited in their distribution, and which extend over things in other peoples' homes, e.g., their computers, their paper, and whatever other materials might be used to encode an idea. The degree of communication and coordination necessary to control such a property would be enormous. Although intellectual property holders will wish only to maintain control over people who actually have access to their idea, in most cases this now includes the entire world.
 
+
+
 > Ownership Is Not Necessarily Over Entire Objects But Rather Over Decisions To Be Made With Regard To Them.
+
+
 
 Whereas a physical property right establishes a set of boundaries with other people, an intellectual property right is like a series of tendrils extending beyond the boundaries of everyone else's property. It becomes necessary to keep track of each of these tendrils, because any one of them can seed an unlimited number of pirate copies.
 
@@ -79,7 +87,11 @@ Physical property can be fenced in, defended, and forcibly retrieved if it is st
 
 The type of infrastructure necessary to maintain such an empire is such that it could never be supported on the free market. Millions of objects would have to be monitored — in peoples' houses, on their computers, in their business affairs, and wherever the idea might be put to use. It is only by way of the state and its eagerness to employ any excuse to wield power that intellectual property might plausibly be enforced.
 
+
+
 > Backed by the doctrine of intellectual property, every popular author and every inventor of a useful device claims an empire on which the sun never sets. 
+
+
 
 In a free market, this doctrine could not survive long, for creators must bear the cost of patrolling their empires; but with the state on their side, authors are willing to cling to intellectual property rights to their logical extreme.
 
@@ -87,7 +99,11 @@ Whereas on the free market the costs of defending a property are as relevant as 
 
 As Boldrine and Levine say in [Against Intellectual Monopoly](https://store.mises.org/Against-Intellectual-Monopoly-P552.aspx), being a monopolist seems to be akin to going on drugs or joining some strange religious sect. It seems to lead to complete loss of any sense of what profitable opportunities are and of how free markets function.
 
+
+
 > Monopolists, apparently, can conceive of only one way of making money, which is bullying consumers and competitors to put up and shut up. Furthermore, it also appears to mean that past mistakes have to be repeated at a larger, and ever more ridiculous, scale.[6] 
+
+
 
 ## Natural Property. 
 
@@ -102,7 +118,11 @@ The material substances in the world are heterogeneous, each having their own di
 
 Therefore, an attempt to justify an arrangement of property based on fairness rather than on a history of just actions requires that the problem of subjectivity must be averted: this can only be done by granting some organization a superior opinion to all other organizations and ordinary persons. The extreme power of such an organization would obviously be unfair, so it itself must somehow be excluded from the question of fairness entirely. Therefore, this organization, which by now the reader has certainly identified as *the state*, must be justified historically.
 
+
+
 >Since most matter in the universe could be used to encode an idea, intellectual property is a claim over the entire universe.
+
+
 
 An argument that property should be distributed fairly depends on the justness of the *historical* circumstances under which the state (which would effect this distribution) was created. If a person should attempt a redistribution of property in the name of an organization not already believed to have the right to reorganize all property, he would have no legitimacy regardless of how fair his redistribution was.
 
@@ -128,7 +148,11 @@ On the free market, therefore, any kind of intellectual property must be created
 
 Here I should bring up Rothbard's [attempted justification](https://mises.org/library/ethics-liberty) of libertarian intellectual property. According to his model, someone writes a book and sells rights to the book other than the right to copy it. All subsequent possessors of the book do not own the right to copy the book because this right has been continually retained by the author.[7] This construction would make sense if the book had the ability to reproduce itself on command, but ordinarily, copying a book does not involve using it any differently than one would to read it. The buyer certainly must have the right to open it up, and the writer certainly cannot retain the exclusive right to aim cameras or Xerox machines at its pages.
 
+
+
 >As long as people believe that they have a right that requires a huge concentration of power to enforce, they will be most eager to rely on the state to protect it."
+
+
 
 Copyright is not a natural right that the author can retain, but he might effectively reserve a copyright in his work by selling it with a contractual agreement that the buyer will not distribute copies himself and must require the same of anyone to whom he later resells the book. The initial pirate then is guilty of a breach of contract and may owe the author restitution, but third parties who obtain pirated copies still could not be bound by such a contract.
 
@@ -149,7 +173,7 @@ Intellectual property violates the libertarian principles of homesteading and ex
 
 It therefore serves the state well to promote such a doctrine; as long as people believe that they have a right that requires a huge concentration of power to enforce, they will be most eager to rely on the state to protect it.
 
-Notes
+**Notes**
 
 [1] See Kinsella, N. Stephan, [Against Intellectual Property](https://store.mises.org/Against-Intellectual-Property-P523.aspx), Ludwig von Mises Institute, 2008 for a much fuller summary of property rights law.
 

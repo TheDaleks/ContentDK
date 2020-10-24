@@ -6,7 +6,7 @@ _Daniel Krawisz_
 
 <div class="my-4 text-center">![Bulb](b://cab2d2a7aad4711235a7841dcdc88bdd8a16eae088ce07b18092e5d12f9c14ea)</div>
 
-Intellectual property is the principle that the creator of an idea has a right to certain controls over all the physical forms in which his idea is recorded. The extent of this control may be different depending on whether the idea is considered copyrighted, patented, or trademarked, but the essential principle is the same in all cases.[1] This presumed right of the creator of an idea is often believed to be similar to the right that a homesteader has to land he has settled, but the analogy is false. Intellectual property is necessarily a statist doctrine.
+Intellectual property is the principle that the creator of an idea has a right to certain controls over all the physical forms in which his idea is recorded. The extent of this control may be different depending on whether the idea is considered copyrighted, patented, or trademarked, but the essential principle is the same in all cases.[^1] This presumed right of the creator of an idea is often believed to be similar to the right that a homesteader has to land he has settled, but the analogy is false. Intellectual property is necessarily a statist doctrine.
 
 ## The Nature Of Property.
 
@@ -14,7 +14,7 @@ People cannot be expected to agree unanimously on what the world ought to be lik
 
 When people disagree and are unwilling to deliberate, one person's decision must prevail without regard to the others' desires. Whose decision prevails may be determined in two ways: physical conflict, or deferral to a system of property. With a system of property in place, it is necessary only to ask who owns a thing, rather than to endure the costs of deliberation or to resort to violence.
 
-Without the possibility of two persons attempting to control any one thing, defining property rights would be a mere psychological game without any consequences for human action. If persons were bodiless ghosts able to pass through one another without interacting, or if everyone lived in his own universe without being able to move from one to another, all disagreements about what to do with the world would be irrelevant. The purpose of property rights is the prevention of physical conflict. An essential characteristic of property is exclusivity, meaning that the use of an object by one person prevents it from being used by another.[2]
+Without the possibility of two persons attempting to control any one thing, defining property rights would be a mere psychological game without any consequences for human action. If persons were bodiless ghosts able to pass through one another without interacting, or if everyone lived in his own universe without being able to move from one to another, all disagreements about what to do with the world would be irrelevant. The purpose of property rights is the prevention of physical conflict. An essential characteristic of property is exclusivity, meaning that the use of an object by one person prevents it from being used by another.[^2]
 
 In addition to property rights, political theorists have proposed many other kinds of rights. *All* such rights must resolve into rights over physical things. When we speak of a right to free speech or a right to one's labor, for example, we really mean a right over one's own physical body. All rights, therefore, are ultimately property rights.
 
@@ -24,9 +24,9 @@ Libertarians have often noted, for example, that the "right" to health care, a j
 
 Libertarians themselves are at times confused over this issue. For example, they sometimes claim that in a free market broadcast industry, broadcasters would own certain frequencies in a given region and would therefore have the right to broadcast without interference by a pirate radio station on the same frequency.
 
-Yet it is clearly not the *frequency* that is owned, because a frequency is not a physical object but rather an abstract property of all waves. It is the land over which that frequency is broadcast that is owned, albeit only for the purposes of broadcasting that frequency. Ownership of a radio frequency is ultimately a property right over a region of space, which allows someone to broadcast at a given frequency over it.[3]
+Yet it is clearly not the *frequency* that is owned, because a frequency is not a physical object but rather an abstract property of all waves. It is the land over which that frequency is broadcast that is owned, albeit only for the purposes of broadcasting that frequency. Ownership of a radio frequency is ultimately a property right over a region of space, which allows someone to broadcast at a given frequency over it.[^3]
 
-This example demonstrates that ownership is not necessarily over entire objects but rather over *decisions* to be made with regard to them. An object can be owned by many different people because there are many kinds of decisions that can be made about it. Since different frequencies of radio waves can pass through one another without interfering, the same territory can be owned separately for the purposes of broadcasting at each frequency without leading to a conflict.[4]
+This example demonstrates that ownership is not necessarily over entire objects but rather over *decisions* to be made with regard to them. An object can be owned by many different people because there are many kinds of decisions that can be made about it. Since different frequencies of radio waves can pass through one another without interfering, the same territory can be owned separately for the purposes of broadcasting at each frequency without leading to a conflict.[^4]
 
 Ideas cannot themselves be controlled with physical force, but instead must be controlled by way of other things — paper, printing presses, computers, and people. It is therefore in these things that intellectual property consists. To own a patent in a given invention is to have rights over everything in the universe that might be used to replicate that invention. This ownership is limited; one only owns things to the extent of being able to prevent others from arranging them in a particular way.
 
@@ -61,7 +61,7 @@ In such a society, it would also be difficult to own property collectively, and 
 
 The cost of communication in any society requires that there be some dispersion of authority. It cannot be that one man or organization owns everything. Instead, everyone should own something. This is not to say that property should be redistributed to those most capable of controlling it; to do so would require a giant organization that attempts to control everything, the very thing that needs to be avoided! Rather, under a system of private property, owners have an incentive to sell to those more capable of controlling a given property because it will tend to be worth more to those most capable of controlling it.
 
-As the creation of wealth progresses, coordination and communication will become easier, and thus shared and dispersed ownership will become more feasible. However, there will always be limits to the kinds of coordination and communication that are supported in any economy. This is [the Hayekian problem of knowledge](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader).[5]
+As the creation of wealth progresses, coordination and communication will become easier, and thus shared and dispersed ownership will become more feasible. However, there will always be limits to the kinds of coordination and communication that are supported in any economy. This is [the Hayekian problem of knowledge](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader).[^5]
 
 Thus, the doctrine of intellectual property is extremely impractical. It grants people property rights which are unlimited in their distribution, and which extend over things in other peoples' homes, e.g., their computers, their paper, and whatever other materials might be used to encode an idea. The degree of communication and coordination necessary to control such a property would be enormous. Although intellectual property holders will wish only to maintain control over people who actually have access to their idea, in most cases this now includes the entire world.
 
@@ -101,7 +101,7 @@ As Boldrine and Levine say in [Against Intellectual Monopoly](https://store.mise
 
 
 
-> Monopolists, apparently, can conceive of only one way of making money, which is bullying consumers and competitors to put up and shut up. Furthermore, it also appears to mean that past mistakes have to be repeated at a larger, and ever more ridiculous, scale.[6] 
+> Monopolists, apparently, can conceive of only one way of making money, which is bullying consumers and competitors to put up and shut up. Furthermore, it also appears to mean that past mistakes have to be repeated at a larger, and ever more ridiculous, scale.[^6] 
 
 
 
@@ -146,7 +146,7 @@ As society progresses people will become capable of creating more complicated ri
 
 On the free market, therefore, any kind of intellectual property must be created by the agreement of creator and consumer alike. Intellectual property, where it arises by consent, would be an arrangement beneficial to everyone, not *simply* to the creator alone.
 
-Here I should bring up Rothbard's [attempted justification](https://mises.org/library/ethics-liberty) of libertarian intellectual property. According to his model, someone writes a book and sells rights to the book other than the right to copy it. All subsequent possessors of the book do not own the right to copy the book because this right has been continually retained by the author.[7] This construction would make sense if the book had the ability to reproduce itself on command, but ordinarily, copying a book does not involve using it any differently than one would to read it. The buyer certainly must have the right to open it up, and the writer certainly cannot retain the exclusive right to aim cameras or Xerox machines at its pages.
+Here I should bring up Rothbard's [attempted justification](https://mises.org/library/ethics-liberty) of libertarian intellectual property. According to his model, someone writes a book and sells rights to the book other than the right to copy it. All subsequent possessors of the book do not own the right to copy the book because this right has been continually retained by the author.[^7] This construction would make sense if the book had the ability to reproduce itself on command, but ordinarily, copying a book does not involve using it any differently than one would to read it. The buyer certainly must have the right to open it up, and the writer certainly cannot retain the exclusive right to aim cameras or Xerox machines at its pages.
 
 
 
@@ -156,7 +156,7 @@ Here I should bring up Rothbard's [attempted justification](https://mises.org/li
 
 Copyright is not a natural right that the author can retain, but he might effectively reserve a copyright in his work by selling it with a contractual agreement that the buyer will not distribute copies himself and must require the same of anyone to whom he later resells the book. The initial pirate then is guilty of a breach of contract and may owe the author restitution, but third parties who obtain pirated copies still could not be bound by such a contract.
 
-No matter how the author attempts to word the contract, the pirate need only create copies out of material that does not belong to the author, and the author would have no say over those copies at all. This would be the case, for example, if people created copies for themselves by downloading a file onto their computers. No property is transferred; the hard drives have simply rearranged their internal state.[8]
+No matter how the author attempts to word the contract, the pirate need only create copies out of material that does not belong to the author, and the author would have no say over those copies at all. This would be the case, for example, if people created copies for themselves by downloading a file onto their computers. No property is transferred; the hard drives have simply rearranged their internal state.[^8]
 
 Suppose that a creator is somehow able to retain rights to his creation such that one cannot copy it without violating the creator's property rights. Perhaps an inventor of a machine could do this by selling only the right to possess his machine and turn it on and off but not to open it up or tamper with the inside. As long as the machine cannot be probed with X-rays, he would have effectively 'patented' his device.
 
@@ -175,21 +175,21 @@ It therefore serves the state well to promote such a doctrine; as long as people
 
 **Notes**
 
-[1] See Kinsella, N. Stephan, [Against Intellectual Property](https://store.mises.org/Against-Intellectual-Property-P523.aspx), Ludwig von Mises Institute, 2008 for a much fuller summary of property rights law.
+[^1] See Kinsella, N. Stephan, [Against Intellectual Property](https://store.mises.org/Against-Intellectual-Property-P523.aspx), Ludwig von Mises Institute, 2008 for a much fuller summary of property rights law.
 
-[2] Kinsella, 2008 makes this argument in much greater detail.
+[^2] Kinsella, 2008 makes this argument in much greater detail.
 
-[3] Rothbard, Murray N., ["Law, Property Rights, and Air Pollution,"](https://mises.org/library/law-property-rights-and-air-pollution)
+[^3] Rothbard, Murray N., ["Law, Property Rights, and Air Pollution,"](https://mises.org/library/law-property-rights-and-air-pollution)
 
-[4] See Marcus, B. K., ["The Spectrum Should Be Private Property: The Economics, History, and Future of Wireless Technology,"](https://mises.org/library/spectrum-should-be-private-property-economics-history-and-future-wireless-technology) 2004 for an elaboration of this view.
+[^4] See Marcus, B. K., ["The Spectrum Should Be Private Property: The Economics, History, and Future of Wireless Technology,"](https://mises.org/library/spectrum-should-be-private-property-economics-history-and-future-wireless-technology) 2004 for an elaboration of this view.
 
-[5] Hayek, F. A., ["The Use of Knowledge in Society,"](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) American Economic Review, XXX, (1945), no. 4. pp. 519 – 30.
+[^5] Hayek, F. A., ["The Use of Knowledge in Society,"](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) American Economic Review, XXX, (1945), no. 4. pp. 519 – 30.
 
-[6] Boldrine, Michele and Levine, David K, [Against Intellectual Monopoly](https://store.mises.org/Against-Intellectual-Monopoly-P552.aspx), Cambridge University Press, 2008, p. 98.
+[^6] Boldrine, Michele and Levine, David K, [Against Intellectual Monopoly](https://store.mises.org/Against-Intellectual-Monopoly-P552.aspx), Cambridge University Press, 2008, p. 98.
 
-[7] Rothbard, Murray, [The Ethics of Liberty](https://store.mises.org/Ethics-of-Liberty-The-P238.aspx), New York University Press, 1998, p. 123.
+[^7] Rothbard, Murray, [The Ethics of Liberty](https://store.mises.org/Ethics-of-Liberty-The-P238.aspx), New York University Press, 1998, p. 123.
 
-[8] See Kinsella, 2008 for a refutation of Rothbard on similar lines in much greater detail.
+[^8] See Kinsella, 2008 for a refutation of Rothbard on similar lines in much greater detail.
 
 
 

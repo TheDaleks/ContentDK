@@ -6,6 +6,7 @@ _Daniel Krawisz_
 
 <div class="my-4 text-center">![Rango, unsure of who he is, imitates a cactus.](b://1723a0c8112dfaf2fa996d66d7bd9cf97a20d7109220423f67b4953a7f2ed446)</div>
 
+
 I saw *Rango* to enjoy the combined hijinks of Johnny Depp and other cartoon animals, and in this I was not disappointed; however, it
 was not at all the most memorable aspect of the experience. *Rango* led me to entirely unexpected places. It is not simply a cartoon about a lizard but a journey into the soul, and it depicts the trials of [individuation](https://en.wikipedia.org/wiki/Individuation) haunted by the
 constant specter of death. Interleaved with this basic theme are strong libertarian overtones of the relationship of the individual to society and establishing a connection between redemption and the search for wealth.

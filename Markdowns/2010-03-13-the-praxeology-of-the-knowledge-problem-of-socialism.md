@@ -5,7 +5,11 @@ _Daniel Krawisz_
 **Originally published [13 March 2010 At Mises.org](https://mises.org/library/praxeology-knowledge-problem-socialism).**
 
 
+
+
 <div class="my-4 text-center">![Austrian Economics Conference](b://db836713930ab14640ffaae78c0ab37efe142c158b860b1073b18258791de421)</div>
+
+
 
 
 

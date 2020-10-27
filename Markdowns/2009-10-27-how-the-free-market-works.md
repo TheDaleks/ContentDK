@@ -4,6 +4,7 @@ _Daniel Krawisz_
 
 **Originally published [27 October 2009 At Mises.org](hhttps://mises.org/library/how-free-market-works).**
 
+
 <div class="my-4 text-center">![Market](b://fbe0f2f9626f4564026e76a81b65e43de130b396a09bea853553d350326df670)</div>
 
 

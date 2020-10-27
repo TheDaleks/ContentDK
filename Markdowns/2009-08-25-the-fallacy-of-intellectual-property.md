@@ -6,6 +6,8 @@ _Daniel Krawisz_
 
 <div class="my-4 text-center">![Bulb](b://cab2d2a7aad4711235a7841dcdc88bdd8a16eae088ce07b18092e5d12f9c14ea)</div>
 
+
+
 Intellectual property is the principle that the creator of an idea has a right to certain controls over all the physical forms in which his idea is recorded. The extent of this control may be different depending on whether the idea is considered copyrighted, patented, or trademarked, but the essential principle is the same in all cases.[^1] This presumed right of the creator of an idea is often believed to be similar to the right that a homesteader has to land he has settled, but the analogy is false. Intellectual property is necessarily a statist doctrine.
 
 ## The Nature Of Property.
@@ -173,7 +175,10 @@ Intellectual property violates the libertarian principles of homesteading and ex
 
 It therefore serves the state well to promote such a doctrine; as long as people believe that they have a right that requires a huge concentration of power to enforce, they will be most eager to rely on the state to protect it.
 
+
+
 **Notes**
+
 
 [^1] See Kinsella, N. Stephan, [Against Intellectual Property](https://store.mises.org/Against-Intellectual-Property-P523.aspx), Ludwig von Mises Institute, 2008 for a much fuller summary of property rights law.
 

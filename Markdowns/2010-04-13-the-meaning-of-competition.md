@@ -6,6 +6,7 @@ _Daniel Krawisz_
 
 <div class="my-4 text-center">![Peasant Wedding (C. 1568)](b://4de24ded454e9061d418651ab517a67377924b4395ff1e7848a9de35e80f6c8a)</div>
 
+
 It is disturbingly easy for arguments originally employed on behalf of the free market to be turned against it. In this article I hope to redeem the concept of competition, which perhaps more than any other has been corrupted into the service of the state.
 
 Rather than being seen as a peaceful, cooperative, and ordered network, the free market is maligned as a brutal Darwinian struggle, wherein all must wrestle tooth and claw for continued existence. Rather than as a dynamic wellspring of innovation and wealth, the free market is seen as a hegemony of powerful monopolists. In the first of these views, the free market is seen as being too competitive, and in the other it is seen as not competitive enough. Both views may be held simultaneously, and in both cases the proposed solution is government intervention.
@@ -22,7 +23,9 @@ Finally, there is competition between producers to serve the desires of consumer
 
 Only on the free market, where people must cooperate in order to achieve their goals, do people wish to satisfy the desires of others. Here they must compete to satisfy one another because there are only a limited number of people to please. This is a superficial sort of competition; it is not a struggle to defend one's own life against predators but a competition over who can be the best cooperator, over who can benefit the most people.
 
+
 > The free market is not a struggle to defend one's own life against predators but a competition over who can be the best cooperator, over who can benefit the most people.
+
 
 Since all producers are after the same thing, namely money, of which there is only so much to go around, all producers are necessarily in competition with one another.[^1] The assumption that bakers compete only with other bakers is therefore false: as I noted above, all our desires are in competition with one another, and it is up to every producer to convince us that his service is the one that will bring us the most happiness.
 
@@ -40,7 +43,9 @@ People are misled into believing that competition primarily operates between fir
 
 Under this view of competition it is immediately apparent that there is no threat from monopoly on the free market. Since all goods are interchangeable to some extent, there is an insurmountable problem of *identifying* a monopoly in the first place;[^2] even if a firm's product is unique, the producers in this firm are still in competition with all other producers. Their product must provide a superior satisfaction to all others in at least some cases if it is to be sold.
 
+
 > A firm is not animated by a single will, but exists only because its individual members find it convenient to belong to it as a means to their own desires.
+
 
 Regardless of the size of a firm's market share (granting, for the sake of argument, that this is even a meaningful measure), all producers within that firm are still in competition with one another, so whether or not a market is dominated by a single firm has nothing to do with whether that market is competitive.
 
@@ -60,7 +65,9 @@ If it is to truly escape from imitation, an organization must not only produce a
 
 Within the government hierarchy, people still compete for money, but no longer must they satisfy the consumer to get it. Since there is no objective concept of profit and loss in government enterprises, there is no bottom line against which everyone may be measured.
 
+
 > There is no threat from monopoly on the free market. Since all goods are interchangeable to some extent, there is an insurmountable problem of identifying a monopoly in the first place.
+
 
 The powers of government can persist as long as they are seen as being unique, imbued only in a single organization in a given territory. Beyond this, there is nothing in particular that must be done. The greatest gain, therefore, goes to those who are most successful at expanding government power and directing it to their own benefit.
 
@@ -82,7 +89,9 @@ To subsidize an industry is to change the circumstances under which it thrives. 
 
 The concept of competition is a treacherous tool to use in the name of liberty. Competition is no less a feature of the state bureaucracy than of the market, but its effect is very different in each context. Although I have tried in this article to show how discussions of competition may be prevented from being misleading, it may often be best to emphasize instead the *cooperation* of the market, for this is the more fundamental feature of a capitalist order, and this is what competition on the free market promotes.
 
+
 **Notes**
+
 
 [^1] See Hayek, F., "The Meaning of Competition," [*Individualism and Economic Order*](https://store.mises.org/Individualism-and-Economic-Order-P255.aspx), 1958, for a discussion of perfect-competition models and why they are an impossible and harmful ideal for the real economy.
 

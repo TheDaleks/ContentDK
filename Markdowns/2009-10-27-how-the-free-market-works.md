@@ -7,6 +7,8 @@ _Daniel Krawisz_
 <div class="my-4 text-center">![Market](b://fbe0f2f9626f4564026e76a81b65e43de130b396a09bea853553d350326df670)</div>
 
 
+
+
 "Without the historical act of saving, which is now embodied in capital goods, there would be no economy at all."
 In the great book [*Man, Economy, and State*](https://store.mises.org/Man-Economy-and-State-with-Power-and-Market-The-Scholars-Edition-P177C18.aspx?utm_source=Mises_Daily&utm_medium=Embedded_Link&utm_campaign=Item_in_Daily), Rothbard's vast compendium of economic wisdom, we read much that has not yet been properly popularized. Rothbard's production theory, for example, is quite different from the standard account. I have tried to distill this theory into the following synopsis, although it is by no means the only part of the book that warrants exposition.
 

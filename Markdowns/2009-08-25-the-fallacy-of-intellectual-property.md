@@ -190,7 +190,7 @@ It therefore serves the state well to promote such a doctrine; as long as people
 
 [^5] Hayek, F. A., ["The Use of Knowledge in Society,"](b://33a0cea573e3c69496049b84ff47693d1962e66c489c7305247bde2d4743fc83) American Economic Review, XXX, (1945), no. 4. pp. 519 – 30.
 
-[^6] Boldrine, Michele and Levine, David K, [Against Intellectual Monopoly](https://store.mises.org/Against-Intellectual-Monopoly-P552.aspx), Cambridge University Press, 2008, p. 98.
+[^6] Boldrine, Michele and Levine, David K, [Against Intellectual Monopoly](b://ce79f361e727e7e61e33e61e6de0f07af23a45bf0bf854bef38d0fd0bf09f85e), Cambridge University Press, 2008, p. 98.
 
 [^7] Rothbard, Murray, [The Ethics of Liberty](b://daee43f8fe2d6c721c3f21e6aff0389e4878ca4d5d91008c1b9639fbf52d534b), New York University Press, 1998, p. 123.
 

@@ -10,12 +10,6 @@ _Daniel Krawisz_
 **[Nakamoto Institute mirror](https://nakamotoinstitute.org/mempool/crypto-anarchy-and-libertarian-entrepreneurship-3/).**
 
 
-In case you missed Them: 
-
-[*Chapter 1: The Strategy*] ()
-[*Chapter 2: Public-Key Cryptography] ()
-
-
 How Bitcoin Works
 Unquestionably the greatest example of the kind of free community that can be created using cryptography is [Bitcoin](http://bitcoin.org/), the system of digital cash invented by Satoshi Nakamoto, whose real identity remains unknown. Bitcoin uses all the principles I have described in the previous chapters. It is built upon free software and it uses public-key cryptography to establish identities and to ensure the validity of the messages relayed upon it.
 
@@ -55,11 +49,6 @@ The Bitcoin network provides us with an example of libertarian legislation. The 
 
 
 As a matter of libertarian strategy, we should convince people to use cryptography more generally. We can do this by making new cryptographic products and making them so that people will love them. The more that people are used to the idea of a cryptographic community, the more that they will demand it. The more they get, the less powerful the oppressors become. We need a cryptographic stock market. We need a cryptographic system of contract resolution. We need a cryptographic credit-rating system. We need a cryptographic social network.[^5] All of these dreams are possible, and much more that is still beyond my imagination. None require winning an election, but each could change the world.
-
-**Last Chapter**
-
-
-[*Chapter 4: The Risk From the Software Industry*]
 
 
 **Notes**

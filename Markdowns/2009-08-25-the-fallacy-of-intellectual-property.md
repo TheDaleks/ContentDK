@@ -180,19 +180,19 @@ It therefore serves the state well to promote such a doctrine; as long as people
 **Notes**
 
 
-[^1] See Kinsella, N. Stephan, [Against Intellectual Property](https://store.mises.org/Against-Intellectual-Property-P523.aspx), Ludwig von Mises Institute, 2008 for a much fuller summary of property rights law.
+[^1] See Kinsella, N. Stephan, [Against Intellectual Property](b://0215842f919ec022eceb5fa43504f2f6241572c64b607258e3301646b9cda8d3), Ludwig von Mises Institute, 2008 for a much fuller summary of property rights law.
 
 [^2] Kinsella, 2008 makes this argument in much greater detail.
 
-[^3] Rothbard, Murray N., ["Law, Property Rights, and Air Pollution,"](https://mises.org/library/law-property-rights-and-air-pollution)
+[^3] Rothbard, Murray N., ["Law, Property Rights, and Air Pollution,"](b://39023c5282aee80abfb9d884a52f3bceb7a5734757379edcf03223af71b91ab2)
 
-[^4] See Marcus, B. K., ["The Spectrum Should Be Private Property: The Economics, History, and Future of Wireless Technology,"](https://mises.org/library/spectrum-should-be-private-property-economics-history-and-future-wireless-technology) 2004 for an elaboration of this view.
+[^4] See Marcus, B. K., ["The Spectrum Should Be Private Property: The Economics, History, and Future of Wireless Technology,"](b://b603754d54c68c57c5aaa3f48f59eebadcd1b818c0661a6950cf841dc98615f6) 2004 for an elaboration of this view.
 
-[^5] Hayek, F. A., ["The Use of Knowledge in Society,"](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader) American Economic Review, XXX, (1945), no. 4. pp. 519 – 30.
+[^5] Hayek, F. A., ["The Use of Knowledge in Society,"](b://33a0cea573e3c69496049b84ff47693d1962e66c489c7305247bde2d4743fc83) American Economic Review, XXX, (1945), no. 4. pp. 519 – 30.
 
 [^6] Boldrine, Michele and Levine, David K, [Against Intellectual Monopoly](https://store.mises.org/Against-Intellectual-Monopoly-P552.aspx), Cambridge University Press, 2008, p. 98.
 
-[^7] Rothbard, Murray, [The Ethics of Liberty](https://store.mises.org/Ethics-of-Liberty-The-P238.aspx), New York University Press, 1998, p. 123.
+[^7] Rothbard, Murray, [The Ethics of Liberty](b://daee43f8fe2d6c721c3f21e6aff0389e4878ca4d5d91008c1b9639fbf52d534b), New York University Press, 1998, p. 123.
 
 [^8] See Kinsella, 2008 for a refutation of Rothbard on similar lines in much greater detail.
 

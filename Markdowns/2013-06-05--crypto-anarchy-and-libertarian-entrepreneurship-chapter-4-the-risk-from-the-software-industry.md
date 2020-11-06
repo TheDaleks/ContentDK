@@ -8,13 +8,6 @@ _Daniel Krawisz_
 **Originally published [05 June 2013 at the Mises Circle](http://themisescircle.org/blog/2013/06/05/crypto-anarchy-and-libertarian-entrepreneurship-chapter-iv/).**
 
 
-In case you missed Them: 
-
-[*Chapter 1: The Strategy*] ()
-[*Chapter 2: Public-Key Cryptography] ()
-[*Chapter 3: The Killer App Of Liberty*] ()
-
-
 ## The Government Attack
 
 

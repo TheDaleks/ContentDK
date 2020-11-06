@@ -63,7 +63,7 @@ In such a society, it would also be difficult to own property collectively, and 
 
 The cost of communication in any society requires that there be some dispersion of authority. It cannot be that one man or organization owns everything. Instead, everyone should own something. This is not to say that property should be redistributed to those most capable of controlling it; to do so would require a giant organization that attempts to control everything, the very thing that needs to be avoided! Rather, under a system of private property, owners have an incentive to sell to those more capable of controlling a given property because it will tend to be worth more to those most capable of controlling it.
 
-As the creation of wealth progresses, coordination and communication will become easier, and thus shared and dispersed ownership will become more feasible. However, there will always be limits to the kinds of coordination and communication that are supported in any economy. This is [the Hayekian problem of knowledge](https://www.econlib.org/library/Essays/hykKnw.html?chapter_num=1#book-reader).[^5]
+As the creation of wealth progresses, coordination and communication will become easier, and thus shared and dispersed ownership will become more feasible. However, there will always be limits to the kinds of coordination and communication that are supported in any economy. This is [the Hayekian problem of knowledge](b://33a0cea573e3c69496049b84ff47693d1962e66c489c7305247bde2d4743fc83).[^5]
 
 Thus, the doctrine of intellectual property is extremely impractical. It grants people property rights which are unlimited in their distribution, and which extend over things in other peoples' homes, e.g., their computers, their paper, and whatever other materials might be used to encode an idea. The degree of communication and coordination necessary to control such a property would be enormous. Although intellectual property holders will wish only to maintain control over people who actually have access to their idea, in most cases this now includes the entire world.
 
@@ -99,7 +99,7 @@ In a free market, this doctrine could not survive long, for creators must bear t
 
 Whereas on the free market the costs of defending a property are as relevant as anything else in the decision to own it, the doctrine of intellectual property, backed by the extravagant monopoly power of the state, encourages people to lay claims to properties that are inherently indefensible.
 
-As Boldrine and Levine say in [Against Intellectual Monopoly](https://store.mises.org/Against-Intellectual-Monopoly-P552.aspx), being a monopolist seems to be akin to going on drugs or joining some strange religious sect. It seems to lead to complete loss of any sense of what profitable opportunities are and of how free markets function.
+As Boldrine and Levine say in [Against Intellectual Monopoly](b://50b4c04429edfb9597d8d49557e85bc2e4ec1df9e6638b775f6b21dc87150d81), being a monopolist seems to be akin to going on drugs or joining some strange religious sect. It seems to lead to complete loss of any sense of what profitable opportunities are and of how free markets function.
 
 
 
@@ -148,7 +148,7 @@ As society progresses people will become capable of creating more complicated ri
 
 On the free market, therefore, any kind of intellectual property must be created by the agreement of creator and consumer alike. Intellectual property, where it arises by consent, would be an arrangement beneficial to everyone, not *simply* to the creator alone.
 
-Here I should bring up Rothbard's [attempted justification](https://mises.org/library/ethics-liberty) of libertarian intellectual property. According to his model, someone writes a book and sells rights to the book other than the right to copy it. All subsequent possessors of the book do not own the right to copy the book because this right has been continually retained by the author.[^7] This construction would make sense if the book had the ability to reproduce itself on command, but ordinarily, copying a book does not involve using it any differently than one would to read it. The buyer certainly must have the right to open it up, and the writer certainly cannot retain the exclusive right to aim cameras or Xerox machines at its pages.
+Here I should bring up Rothbard's [attempted justification](daee43f8fe2d6c721c3f21e6aff0389e4878ca4d5d91008c1b9639fbf52d534b) of libertarian intellectual property. According to his model, someone writes a book and sells rights to the book other than the right to copy it. All subsequent possessors of the book do not own the right to copy the book because this right has been continually retained by the author.[^7] This construction would make sense if the book had the ability to reproduce itself on command, but ordinarily, copying a book does not involve using it any differently than one would to read it. The buyer certainly must have the right to open it up, and the writer certainly cannot retain the exclusive right to aim cameras or Xerox machines at its pages.
 
 
 

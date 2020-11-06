@@ -93,10 +93,10 @@ The concept of competition is a treacherous tool to use in the name of liberty. 
 **Notes**
 
 
-[^1] See Hayek, F., "The Meaning of Competition," [*Individualism and Economic Order*](https://store.mises.org/Individualism-and-Economic-Order-P255.aspx), 1958, for a discussion of perfect-competition models and why they are an impossible and harmful ideal for the real economy.
+[^1] See Hayek, F., "The Meaning of Competition," [*Individualism and Economic Order*](b://e985ec2d0f0159109294ae00459d9b64d3a03c30f2ac4b8f42fa8dffd6399841), 1958, for a discussion of perfect-competition models and why they are an impossible and harmful ideal for the real economy.
 
-[^2] See Rothbard, M., [*Man, Economy, and State: A Treatise on Economic Principles, With Power and Market: Government and the Economy*](https://store.mises.org/Man-Economy-and-State-with-Power-and-Market-The-Scholars-Edition-P177C18.aspx), Ludwig von Mises Institute, 2009, for a further elaboration of this problem in the mainstream theory of monopoly.
+[^2] See Rothbard, M., [*Man, Economy, and State: A Treatise on Economic Principles, With Power and Market: Government and the Economy*](b://f0909d61d9a74d056a67a2cc35eba63d49a5390a636cb333ce9bed23b4eaf4c6), Ludwig von Mises Institute, 2009, for a further elaboration of this problem in the mainstream theory of monopoly.
 
-[^3] See Reisman, G., [*Capitalism: A Treatise on Economics*](https://store.mises.org/Capitalism-P188.aspx), Jameson Books, 1998, as well as Block, W., "Total Repeal of Antitrust Legislation: A Critique of Bork, Brozen, and Posner,[*Download PDF*](https://mises.org/library/total-repeal-antitrust-legislation-critique-bork-brozen-and-posner) Review of Austrian Economics, vol. 8, no. 1, 1994, pp. 35–70 for detailed refutations of many arguments on the supposed dangers of monopoly.
+[^3] See Reisman, G., [*Capitalism: A Treatise on Economics*](b://472f959521ea91e8ca4068c05accc3c734f043968674b29d4c258703e518b9e7), Jameson Books, 1998, as well as Block, W., ["Total Repeal of Antitrust Legislation: A Critique of Bork, Brozen, and Posner"](b://94409752ba07daac8eb21a59602cc1768ae9f4191a17910ad25c377ed3fc4574) Review of Austrian Economics, vol. 8, no. 1, 1994, pp. 35–70 for detailed refutations of many arguments on the supposed dangers of monopoly.
 
-[^4] See Hoppe, H., [*"Why Bad Men Rule"*](https://www.lewrockwell.com/2004/11/hans-hermann-hoppe/how-the-worst-rise-to-the-top/), 2004, for the source of this quote as well as a more detailed discussion of the incentives of the elite who control the state than that summarized here.
+[^4] See Hoppe, H., [*"Why Bad Men Rule"*](b://e69d3131518576a8d56fd98767b79dc3e0e0c0d54b355128be5d897ef88a836d), 2004, for the source of this quote as well as a more detailed discussion of the incentives of the elite who control the state than that summarized here.

@@ -2,7 +2,7 @@
 
 _Daniel Krawisz_
 
-**Originally published [27 October 2009 At Mises.org](hhttps://mises.org/library/how-free-market-works).**
+**Originally published [27 October 2009 At Mises.org](https://mises.org/library/how-free-market-works).**
 
 
 <div class="my-4 text-center">![Market](b://fbe0f2f9626f4564026e76a81b65e43de130b396a09bea853553d350326df670)</div>
@@ -11,7 +11,7 @@ _Daniel Krawisz_
 
 
 "Without the historical act of saving, which is now embodied in capital goods, there would be no economy at all."
-In the great book [*Man, Economy, and State*](https://store.mises.org/Man-Economy-and-State-with-Power-and-Market-The-Scholars-Edition-P177C18.aspx?utm_source=Mises_Daily&utm_medium=Embedded_Link&utm_campaign=Item_in_Daily), Rothbard's vast compendium of economic wisdom, we read much that has not yet been properly popularized. Rothbard's production theory, for example, is quite different from the standard account. I have tried to distill this theory into the following synopsis, although it is by no means the only part of the book that warrants exposition.
+In the great book [*Man, Economy, and State*](b://f0909d61d9a74d056a67a2cc35eba63d49a5390a636cb333ce9bed23b4eaf4c6), Rothbard's vast compendium of economic wisdom, we read much that has not yet been properly popularized. Rothbard's production theory, for example, is quite different from the standard account. I have tried to distill this theory into the following synopsis, although it is by no means the only part of the book that warrants exposition.
 
 Economics is about using our available means to achieve the best possible ends. Achieving an end is called *consumption* and applying a means towards an end is called *production*.
 

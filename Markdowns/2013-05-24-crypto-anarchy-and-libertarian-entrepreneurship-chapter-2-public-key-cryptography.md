@@ -10,8 +10,6 @@ _Daniel Krawisz_
 **[Nakamoto Institute mirror](https://nakamotoinstitute.org/mempool/crypto-anarchy-and-libertarian-entrepreneurship-2/).**
 
 
-In case you missed it: [*Chapter 1: The Strategy*] ()
-
 
 ## Symmetric-Key Cryptography
 
@@ -79,13 +77,6 @@ A community which combines cryptographic secrecy, public-key authentication, and
 This is libertarianism. It is exactly what libertarians have always yearned for. If we want people to get used to the idea that they can brush government aside and that freedom of association and privacy are inherent in the nature of reality, all we must do is build cryptographic communities. There is no need to speak in abstract terms with people who won’t listen until we turn blue. Just build the networks and people will be attracted to them. Once people get used to them, they will demand them.
 
 There is one other service people might want that I have not provided for: anonymity. An interloper may not know what you are saying, but he might still know that you are a member. Maybe a spy can become a member himself and try to tie a real-life person to a public key. Ideally, you might want to prevent your communications from being linked to the community at all. Anonymity is a little bit trickier to provide, but it can be achieved with services like Tor. I do not wish to go into more detail about what is possible, but suffice to say there is much more that can be built upon the basic structure I have described here.
-
-
-**Next Chapters**
-
-[*Chapter 3: The Killer App of Liberty*]()
-[*Chapter 4: The Risk From the Software Industry*]()
-
 
 **Notes**
 

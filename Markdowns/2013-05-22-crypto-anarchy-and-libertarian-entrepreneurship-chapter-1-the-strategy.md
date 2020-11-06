@@ -54,13 +54,6 @@ Cryptography promotes independence by reducing the need to rely on physical stre
 In a democracy, no individual vision can change the world. This is why politics is unsuited to libertarians. On the other hand, in the free market, one entrepreneur can change the world. This is where libertarians are in their element. With cryptography, one libertarian inventor can create an entire libertarian society.
 
 
-**Next Chapters**
-
-[*Chapter 2: Public-Key Cryptography*]()
-[*Chapter 3: The Killer App of Liberty*]()
-[*Chapter 4: The Risk From the Software Industry*]() 
-
-
 **Notes**
 
 

@@ -4,7 +4,7 @@ _Daniel Krawisz_
 
 **Originally published [1 February 2014 at the Mises Circle](http://themisescircle.org/blog/2014/02/01/why-bitcoin-will-continue-to-grow/).**
 
-**[Nakamoto Studies Institute mirror](https://nakamotostudies.org/literature/im-hoarding-bitcoins-and-no-you-cant-have-any/).**
+**[Nakamoto Studies Institute mirror](https://nakamotoinstitute.org/mempool/why-bitcoin-will-continue-to-grow/).**
 
 <div class="my-4 text-center">![Hulk](b://2de48fc515f4da9c20a35614acbc179e417ea696d6e9f6b2a7ec4636e3bab2ca)</div>
 
@@ -16,7 +16,7 @@ In economics, this is often called the network effect because it is the network 
 
 However, a better physical metaphor might be the formation of crystals. A liquid can be supercooled into a state that can support crystals, but no crystals form because there are no initial crystals that the liquid particles can attach to. However, once a tiny impurity, or “seed” is introduced into the liquid, a crystal will form around it and grow quickly until the liquid has been absorbed.
 
-By this metaphor, the supercooled liquid is the world as of a few years ago, ripe for a monetary revolution, and the seed is the initial bitcoin purchase. The fact that Bitcoin successfully transformed into something with value seems like a miracle. However, it was no miracle. It was a result of the dedication and faith of its community, whose members will not let go of the beautiful vision of a Bitcoin future. It might be better to use a word like “crystallization” to describe the formation of the initial “seed” of Bitcoin trading rather than a metaphor like “bootstrapping”, which depicts a physical paradox.<sup id="fnref:1">[1](#fn:1)</sup>
+By this metaphor, the supercooled liquid is the world as of a few years ago, ripe for a monetary revolution, and the seed is the initial bitcoin purchase. The fact that Bitcoin successfully transformed into something with value seems like a miracle. However, it was no miracle. It was a result of the dedication and faith of its community, whose members will not let go of the beautiful vision of a Bitcoin future. It might be better to use a word like “crystallization” to describe the formation of the initial “seed” of Bitcoin trading rather than a metaphor like “bootstrapping”, which depicts a physical paradox.[^1]
 
 <div class="my-4 text-center">![Walt & Jesse](b://ef6d41bd5a3fdb87f3fdc9ba631625e3fcf52b8f6644f347268bcf436f105)</div>
 
@@ -60,5 +60,5 @@ For now at least, Bitcoin’s present trend is self-reinforcing with no equilibr
 
 * * *
 
-1.  Crystallization implies a transition from liquid to solid, which is not appropriate for Bitcoin. An even better physical metaphor would be the more general concept of spontaneous symmetry breaking, which includes not just crystallization but all kinds of other processes without a transition from liquid to solid. However, unfortunately not enough people understand what that is to make it a good metaphor. [↩](#fnref:1 "Jump back to footnote 1 in the text")
+[^1] Crystallization implies a transition from liquid to solid, which is not appropriate for Bitcoin. An even better physical metaphor would be the more general concept of spontaneous symmetry breaking, which includes not just crystallization but all kinds of other processes without a transition from liquid to solid. However, unfortunately not enough people understand what that is to make it a good metaphor.
 

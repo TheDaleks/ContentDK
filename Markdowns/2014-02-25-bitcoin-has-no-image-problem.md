@@ -74,5 +74,5 @@ Bitcoin is stronger than all its enemies put together. It is so strong that its 
 
 * * *
 
- I wrote this before Mt.Gox crashed. I’m very glad it’s gone. Bitcoin still doesn’t need “help” from regulators and bankers. (#fnref:1 "Jump back to footnote 1 in the text")
+[^1] I wrote this before Mt.Gox crashed. I’m very glad it’s gone. Bitcoin still doesn’t need “help” from regulators and bankers. (#fnref:1 "Jump back to footnote 1 in the text")
 

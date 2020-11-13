@@ -14,7 +14,7 @@ A successful attack on Bitcoin means attacking Bitcoin’s value. There might we
 
 In this article, I will discuss three reasons why such an attack is unlikely to succeed: antifragility, subtlety, and attacker defection. The interplay of these three defenses makes Bitcoin into a kind of wave that rewards those who ride it and drowns those who resist it.
 
-The first of these, antifragility, is exemplified in the fact that malicious hashing is impossible up to a certain fraction of the network. Below the point that selfish mining becomes possible<sup id="fnref:1">[1](#fn:1)</sup> additional hashes per second are almost certainly beneficial because they increase the security of the network. Any potential attacker, therefore, must weigh in the possibility that he may end up benefiting the network instead of destroying it. A similar risk accompanies a legal attack on Bitcoin. Bitcoin can adapt to half-hearted attacks. It would move deeper into the black market where it would become permanently strengthened. Furthermore, a legal attack could be easily corrupted into one that brings as many bitcoins as possible to the government agents instead of one that destroys it (see [below](#bitcoins-allure)).
+The first of these, antifragility, is exemplified in the fact that malicious hashing is impossible up to a certain fraction of the network. Below the point that selfish mining becomes possible[^1] additional hashes per second are almost certainly beneficial because they increase the security of the network. Any potential attacker, therefore, must weigh in the possibility that he may end up benefiting the network instead of destroying it. A similar risk accompanies a legal attack on Bitcoin. Bitcoin can adapt to half-hearted attacks. It would move deeper into the black market where it would become permanently strengthened. Furthermore, a legal attack could be easily corrupted into one that brings as many bitcoins as possible to the government agents instead of one that destroys it (see [below](#bitcoins-allure)).
 
 ## Bitcoin’s Subtlety
 
@@ -42,5 +42,5 @@ Bitcoin defends itself by being obscure, but once it has attracted someone’s a
 
 * * *
 
-1.  Right now Bitcoin Core does not follow the proper strategy to protect against selfish mining even at [very low hashing rates](http://arxiv.org/pdf/1311.0243v5.pdf), but the fix would be extremely easy to implement and would make selfish mining impossible up to 25% of the hash rate. [↩](#fnref:1 "Jump back to footnote 1 in the text")
+[^1] Right now Bitcoin Core does not follow the proper strategy to protect against selfish mining even at [very low hashing rates](http://arxiv.org/pdf/1311.0243v5.pdf), but the fix would be extremely easy to implement and would make selfish mining impossible up to 25% of the hash rate.
 

@@ -101,7 +101,7 @@ At that point, bitcoins had developed an exchange value. Both groups of entrepre
 
 [^6] See Pattison, M., ["Buying into Bitcoin: An Austrian Analysis of the Virtual Currency's Sustainability"](http://www2.gcc.edu/dept/econ/ASSC/Papers%202012/Buying%20into%20Bitcoin.pdf), 14 Dec 2011 for the most detailed article which makes this argument.
 
-[^7] [Šurda, 2012](/static/docs/economics-of-bitcoin.pdf), pp. 37-38.
+[^7] [Šurda, 2012](b://648dbf549479eedf6d6e2f64609169ac0a8c799479516e747a1dd14cc083ae07), pp. 37-38.
 
 [^8] This is an explanation proposed in [Graf, 2013](http://konradsgraf.com/blog1/2013/2/27/in-depth-bitcoins-the-regression-theorem-and-that-curious-bu.html). However, Graf is really just making the point that we do not need to state bitcoins' original value to say that they _had_ value.
 

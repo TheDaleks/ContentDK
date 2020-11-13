@@ -10,7 +10,7 @@ _Daniel Krawisz_
 
 ## Why Doesn’t Bitcoin’s Success Speak For Itself?
 
-Bitcoin has an image problem! Everyone thinks Bitcoin is for drug dealers, hackers, and anarchists. It’s used to gamble and buy porn. People think it’s a Ponzi scheme! Bitcoin needs to grow up and repudiate its youthful indiscretions. Its services must be run by professionals, not amateurs!<sup id="fnref:1">[1](#fn:1)</sup> Soccer moms will never use Bitcoin if they think it’s used for drugs and porn. Bitcoin will never be acceptable and gain widespread adoption otherwise!
+Bitcoin has an image problem! Everyone thinks Bitcoin is for drug dealers, hackers, and anarchists. It’s used to gamble and buy porn. People think it’s a Ponzi scheme! Bitcoin needs to grow up and repudiate its youthful indiscretions. Its services must be run by professionals, not amateurs![^1] Soccer moms will never use Bitcoin if they think it’s used for drugs and porn. Bitcoin will never be acceptable and gain widespread adoption otherwise!
 
 In this article, I will show why the above paragraph is totally misguided.
 
@@ -74,5 +74,5 @@ Bitcoin is stronger than all its enemies put together. It is so strong that its 
 
 * * *
 
-1.  I wrote this before Mt.Gox crashed. I’m very glad it’s gone. Bitcoin still doesn’t need “help” from regulators and bankers. [↩](#fnref:1 "Jump back to footnote 1 in the text")
+ I wrote this before Mt.Gox crashed. I’m very glad it’s gone. Bitcoin still doesn’t need “help” from regulators and bankers. (#fnref:1 "Jump back to footnote 1 in the text")
 

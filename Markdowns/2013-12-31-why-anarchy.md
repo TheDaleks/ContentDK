@@ -104,7 +104,7 @@ Unfortunately, the reality of power is more compelling to most people than the l
 **Notes**
 
 
-[^1] I use the term *anarchism* to include any political philosophy opposed to the state. However, there are some subtlties. Ordinarily, anarchists are opposed both to the state’s *justification* and its *desirability*. But you could theoretically have an anarchist who is only opposed to one or the other. I have never met one, however. There are both anarchocapitalists and anarchosocialists as well as many other flavors of anarchism. However, the anarchosocialists want to say that the anarchocapitalists are not “true” anarchists and that the word *anarchist* should only apply to them. This is tough beans because the two groups have a lot more in common than they have in opposition and it’s silly to torture a word that means ‘no rule’ into something that means ‘no rents or voluntary wage labor’. ↩
+[^1] I use the term *anarchism* to include any political philosophy opposed to the state. However, there are some subtlties. Ordinarily, anarchists are opposed both to the state’s *justification* and its *desirability*. But you could theoretically have an anarchist who is only opposed to one or the other. I have never met one, however. There are both anarchocapitalists and anarchosocialists as well as many other flavors of anarchism. However, the anarchosocialists want to say that the anarchocapitalists are not “true” anarchists and that the word *anarchist* should only apply to them. This is tough beans because the two groups have a lot more in common than they have in opposition and it’s silly to torture a word that means ‘no rule’ into something that means ‘no rents or voluntary wage labor’.
 
 [^2] See Hobbes, T., [*Leviathan or the Matter, Forme, & Power of a Common-wealth Ecclestical and Civill*](http://www.gutenberg.org/files/3207/3207-h/3207-h.htm), Gutenberg.org. Really, go read this book. You will be amazed at how illogical and badly-written it is. There is really no excuse for Hobbes to be taken seriously today. 
 
@@ -118,7 +118,7 @@ Unfortunately, the reality of power is more compelling to most people than the l
 [^5] See Notten, M., [*The Law of the Somalis: A Stable Foundation for Economic Development in the Horn of Africa*](https://mises.org/library/chaos-theory), The Red Sea Press Inc., 27 Nov 2005 for a very different interpetation of Somalia and its problems than that presented in the mainstream media.
 
 
-[^6] See Trigger, B., *Understanding Early Civilizations: A Comparative Study,* Cambridge University Press, 16 Apr 2007 for an extraordinarily profound and wonderfully anti-statist discussion of a number of ancient civilizations, including some wonderful chapters on religion and politics. ↩
+[^6] See Trigger, B., *Understanding Early Civilizations: A Comparative Study,* Cambridge University Press, 16 Apr 2007 for an extraordinarily profound and wonderfully anti-statist discussion of a number of ancient civilizations, including some wonderful chapters on religion and politics. 
 
 
 [^7] Epstein, in particulary, does a brilliant job making this all sound plausible in Epstein, 2002.

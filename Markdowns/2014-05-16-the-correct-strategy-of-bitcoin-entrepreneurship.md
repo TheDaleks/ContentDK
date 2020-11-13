@@ -24,7 +24,7 @@ The task ahead of us is monumental—the construction of a new financial economy
 
 There are lots of business ideas floating around and limited time to create them. Only ideas that have a very high probably of being an important part of the future Bitcoin economy should be implemented because that is all we have time for and those are the only ideas worth risking Bitcoins on.
 
-The proof that ideas aren't scarce is that anybody can make his own [altcoin](/mempool/the-coming-demise-of-altcoins/) at any time. Already there are hundreds, and every one of them a bad idea from people who [don't understand](/mempool/the-problem-with-altcoins/) the cumulative benefits of cooperation. Since entrepreneurs don't understand Bitcoin very well yet, it is easy to dazzle them with technobabble and funnel investment into flawed projects like Protoshares, Mastercoin, and Ethereum that have a very low probability of furthering Bitcoin adoption to any significant degree.
+The proof that ideas aren't scarce is that anybody can make his own [altcoin](https://github.com/TheDaleks/ContentDK/blob/master/Markdowns/2014-03-14-the-coming-demise-of-altcoins.md) at any time. Already there are hundreds, and every one of them a bad idea from people who [don't understand](https://github.com/TheDaleks/ContentDK/blob/master/Markdowns/2013-08-22-the-problem-with-altcoins.md) the cumulative benefits of cooperation. Since entrepreneurs don't understand Bitcoin very well yet, it is easy to dazzle them with technobabble and funnel investment into flawed projects like Protoshares, Mastercoin, and Ethereum that have a very low probability of furthering Bitcoin adoption to any significant degree.
 
 There is no real reason to keep secrets because the more that everyone knows about what everyone else is doing, the more easily they can decide what the Bitcoin economy most needs of them. Everything about a business can be done openly for the benefit of the entire industry. Product development, future plans, market research, finances; everything except private customer data, which shouldn't be collected anyway, and, in the case of illegal Tor businesses, the real identities and locations of the owners. We need open business and open businesses.
 
@@ -40,7 +40,8 @@ In the early Renaissance, mathematics was practiced in secret and mathematicians
 
 ## Conclusion
 
-In a low-growth economy, one grows rich by carefully leveraging one's skills and assets so as to negotiate the most profitable trades. In other words, wealth comes from performing better than everyone else. It makes sense to guard closely any edge that one might have. Whereas in a high-growth economy, wealth comes from doing _as well_ as everyone else. It is more difficult to improve one's state relative to everyone else than to enjoy the overall growth that improves everybody's state.<sup id="fnref:1">[1](#fn:1)</sup>
+In a low-growth economy, one grows rich by carefully leveraging one's skills and assets so as to negotiate the most profitable trades. In other words, wealth comes from performing better than everyone else. It makes sense to guard closely any edge that one might have. Whereas in a high-growth economy, wealth comes from doing _as well_ as everyone else. It is more difficult to improve one's state relative to everyone else than to enjoy the overall growth that improves everybody's state.[^1] 
+
 
 The Bitcoin world understands this instinctively, but needs to take it to its logical conclusion. The entire Bitcoin economy needs to be open-sourced. This is how to make Bitcoin succeed most quickly and with the least effort, which is the best outcome for everyone.
 
@@ -50,5 +51,4 @@ Let's get to work.
 
 * * *
 
-1.  In a post-singularity world, everything should be expected to grow at a phenomenal rate, similar to the growth of the Bitcoin economy today. Thus, I would expect the attitude of sharing and collaboration should apply generally. [↩](#fnref:1 "Jump back to footnote 1 in the text")
-
+[^1] In a post-singularity world, everything should be expected to grow at a phenomenal rate, similar to the growth of the Bitcoin economy today. Thus, I would expect the attitude of sharing and collaboration should apply generally. 

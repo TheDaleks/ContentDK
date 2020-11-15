@@ -18,7 +18,7 @@ Liberty is an ideology for everyone. It benefits all people and groups whose goa
 <div class="my-4 text-center">![crypto anarchy ch 1 img 2](b://5bafebc14a32ca2f67d8ed2dfc70c7aea14291d214d9dd23ced5f8902b6ad47c)</div>
 
 
-And yet people do not listen. The ideal of liberty is too abstract for them: most people need to experience liberty before they will desire it.For example, when Napster was invented, suddenly people around the world could ignore the oppression of copyright. They tasted freedom and the taste was sweet. Once they had experienced it, they would not give it up.
+And yet people do not listen. The ideal of liberty is too abstract for them: most people need to experience liberty before they will desire it. For example, when Napster was invented, suddenly people around the world could ignore the oppression of copyright. They tasted freedom and the taste was sweet. Once they had experienced it, they would not give it up.
 
 The goal of the libertarian entrepreneur is to give others that taste, not by influencing politics but by making politics irrelevant. It is to build capital goods for agorism, so that agorism can be brought to the masses. This requires a principled approach which is narrower than the nonaggression axiom without contradicting it. There is more to be concerned about than whether an organization is voluntary: two forms of organization may be equally voluntary but unequal in their vulnerability to government attack.[^2]
 

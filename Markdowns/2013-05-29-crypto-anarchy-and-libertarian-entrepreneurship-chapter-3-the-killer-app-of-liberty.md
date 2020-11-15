@@ -10,7 +10,8 @@ _Daniel Krawisz_
 **[Nakamoto Institute mirror](https://nakamotoinstitute.org/mempool/crypto-anarchy-and-libertarian-entrepreneurship-3/).**
 
 
-How Bitcoin Works
+## How Bitcoin Works
+
 Unquestionably the greatest example of the kind of free community that can be created using cryptography is [Bitcoin](http://bitcoin.org/), the system of digital cash invented by Satoshi Nakamoto, whose real identity remains unknown. Bitcoin uses all the principles I have described in the previous chapters. It is built upon free software and it uses public-key cryptography to establish identities and to ensure the validity of the messages relayed upon it.
 
 Bitcoin is a peer-to-peer digital cash that is independent of banks and government. For a detailed explanation of how Bitcoin works, Satoshi’s original paper [^1] (b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461) is very readable [outlined above](http://themisescircle.org/blog/2013/05/29/crypto-anarchy-and-libertarian-entrepreneurship-chapter-iii/#fn-955-1'%20id='fnref-955-1'%20onclick='return%20fdfootnote_show(955)'%3E1%3C/a%3E%3C/sup%3E,%20but%20it%20works%20exactly%20along%20the%20lines%20I%20%3Ca%20title=). *Each person has one or more wallet files which contain a public and private key. Bitcoin software can construct messages signed by the private key of a wallet which state that the title to a given amount of bitcoin is transferred to another wallet.*

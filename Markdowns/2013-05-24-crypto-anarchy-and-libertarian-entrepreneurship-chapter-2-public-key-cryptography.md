@@ -53,7 +53,8 @@ The final upgrade is that everyone has two algorithms. Everyone keeps one algori
 
 Now any two people can communicate securely even if they do not begin with a secure channel. An enemy may have his ear right in our faces, but he can understand nothing of what we say to one another after we have exchanged public keys.
 
-Building Communities With Public Key Cryptography
+## Building Communities With Public Key Cryptography
+
 The magic of public-key cryptography comes from the fact that it gives people the ability to prove that they have a secret without revealing it. Think about how paradoxical that sounds for a moment. Yet it is quite easy to understand now. If I wish to verify your identity, I simply send you a message encrypted by your public key and ask you to tell me what the message said. Only the holder of the private key can answer the question correctly.
 
 This seems nonintuitive to us because our technology does not rely on it. The fact that we still use such primitive technologies today like credit cards, which have their number printed right on them, or forms of identification such as social security numbers is backwards. They have been obsolete for decades. There should never be a reason to show your password or identity number to anyone else, ever.
@@ -64,7 +65,7 @@ There is a slight problem here. If there is a third party listening when you exc
 
 There’s more. If you use your private algorithm on a message encrypted with your public algorithm, you get the original message back. Since the two algorithms are inverses of one another, you could also use your private algorithm on a unencrypted message to get an encrypted message that can only be decrypted by your public algorithm. The result is an encrypted message that is veritably mine. This is the idea behind a digital signature.
 
-The use of a digital signature is that the community can require them for certain kinds of communications, for whatever it considers important for establishing the reputation of its members. Messages can be digitally signed by several people, so they can be treated as contracts or records of a trade. Each member’s history can be public and unforgettable.
+The use of a digital signature is that the community can require them for certain kinds of communications, for whatever it considers important for establishing the reputation of its members. Messages can be digitally signed by several people, so they can be treated as contracts or records of a trade. Each member’s history can be public and unforgeable.
 
 A real digital signature is slightly more complicated than what I have described here. Normally one would not encrypt an entire message but instead a short of the message. The message is sent with its encrypted hash. The effect is the same because the message is still indelibly tied to the sender.
 

@@ -1,0 +1,36 @@
+<div class="my-4 text-center">![Circle Attack](b://a9052cbd6110be14b15e175cf934d74a30c6037444fca5ee22a5be1be73d6773)</div>
+
+# The Terror Of Mining Pool Centralization.
+
+_Daniel Krawisz_
+
+**Originally published [26 Dec 2014 at Bitcoinist.com](https://bitcoinist.com/attack-dollar-circle/).**
+
+**I smell a mania coming on. I have come to this conclusion not only from careful and rigorous technical analysis of the Bitcoin price chart, but from consulting the alignment of the planets, the I Ching, and the settlement of my tea leaves. I have broken turtle shells, followed the Jyotisha charts, asked my magic 8-ball, and practiced the arts of augury and haruspicy to test the accuracy of my suspicion. So yes, there is definitely going to be another mania eventually.**
+
+What to do about it? I’m going to suggest something a bit dangerous, but which In his article on [Speculative Attacks](https://nakamotoinstitute.org/mempool/speculative-attack/), Pierre Rochard’s describes the gradual process by which the slow, tentative growth of Bitcoin (which he calls “fiat bleed”) can transform into extremely rapid growth. At first people invest cautiously and the price rises slowly. However, as expectations solidify that the trend will continue, people will choose to invest less and less cautiously, culminating in a mad struggle to buy as much as possible under any terms.
+
+
+C
+
+
+The whole process can be revved into high-gear with what is known as a speculative attack. This means a leveraged buy of the currency that is expected to grow stronger against the one which is expected to weaken. For example, to perform a speculative attack against the dollar with Bitcoin, one would take out a loan denominated in dollars, buy bitcoins with them, and later, once the bitcoins have increased in value, sell off enough to pay the debt. This is, of course, a riskier way to invest in bitcoins than just buying them, and it is riskier than just taking out a loan in dollars too. However, if it is successful the profit margins are that much greater.
+
+The reason that this maneuver is called an attack is that it directly threatens the central bank of the central bank which issues the declining currency. It’s called an attack because the central banks are the hegemons here, so they get to decide when to give an investment strategy a bad name. The attack weakens the central bank because it turns its main instrument of monetary policy—credit expansion—against it. Instead of being invested in the economy and producing a speculative bubble, and eventually price inflation, the speculative attack produces inflation directly without creating a bubble economy, which, from the standpoint of the central bank, is the main benefit of expanding credit.
+
+The only defense against a speculative attack is to raise interest rates—just what central banks don’t want. If the interest rate in the weaker currency goes high enough, it no longer becomes profitable to perform a speculative attack. Due to its superior properties as money, Bitcoin has gone up in value so rapidly over the years that no national economy would be capable of maintaining an interest rate to match it. Therefore, if Bitcoin ever becomes big enough that it begins to weaken other currencies, it will become highly tantalizing as a vehicle of speculative attacks because it can grow at rates which no central bank can defend against.
+
+Now that Circle has begun doing business, speculative attacks are available to us in the privacy of our own homes. Circle is the first among Bitcoin sellers to accept credit card payments for bitcoins, which is a leveraged buy. Of course, you can only buy $500 worth of Bitcoin per week from them, so it is pretty small-scale. However, it is nonetheless a speculative attack. It may seem absurd to go into a credit card debt to buy bitcoins, but someone who maintained a credit card debt in order to invest in Bitcoin from early on would have gained from the move, even with the kinds of interest rates that credit cards charge. Of course, for long-term investment, there are other sources of credit besides credit cards, but I brought up Circle because it is very easy to use.
+
+<div class="my-4 text-center">![Circle Attack](b://2a466858441ea121dad2a1142c2b1525e4e375a91de9cabdb7ac4cbf9e9a0963)</div>
+
+One of the fun things about a speculative attack is that the more people are involved in it, the better it succeeds. This is quite different than what happens with other kinds of equities such as a stock. If too many people short sell a stock, they are liable to drive it down so far that it becomes undervalued. However, as I [have repeatedly emphasized](), currencies are [not like stocks](). The price of a currency is directly related to its usefulness. A currency that has a very low market cap or which is rapidly declining in price is not a very useful currency, whereas a stock that is crashing is still worth the dividends it offers and the liquidation value of the company. If a group of people conspire to bring down the price of a stock, it will eventually revert to a value related to the value of the company issuing it; whereas a currency that is devalued inherently becomes less useful, and there is no reason to expect it to revert. There is no reason that speculative attacks could drive the value of a currency down to nothing, which would leave it utterly useless. For the attackers it would be like getting bitcoins without having paid anything.
+
+Of course I do not know precisely the right moment for them, so you perform them at your own risk. My point in describing the potential of a service like that of Circle is to show how it makes the world financial system more fragile. Just by offering leveraged positions to ordinary people very easily, it allows for the next mania to be that much more intense and to do that much more damage to the dollar. Lower transaction costs between the dollar and Bitcoin tend to work in Bitcoin’s favor over time.
+
+Let the attacks begin!
+
+**How do you feel about this kind of attack on the US Dollar?  Do you think Bitcoin can succeed in doing so?**
+
+
+

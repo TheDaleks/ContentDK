@@ -8,7 +8,7 @@ _Daniel Krawisz_
 
 ## Methodological Issues
 
-Richard Dawkins said in an offhand comment in *The Selfish Gene* that “[Money is a formal token of delayed reciprocal altruism.](http://dizzynomics.wordpress.com/2013/05/05/money-as-a-form-of-delayed-reciprocal-altruism/)”<sup><a href="#i" id="ref-i">i</a></sup> This turns out to be a rather insightful way of looking at money, and the purpose of this essay is to explore the idea more deeply to see how far it can take us. Nick Szabo later used some of the ideas in *The Selfish Gene* to describe the historical origins of money in his essay "[Shelling Out](http://nakamotoinstitute.org/shelling-out/)"<sup><a href="#ii" id="ref-ii">ii</a></sup>, but this essay will be about the theory of money.
+Richard Dawkins said in an offhand comment in *The Selfish Gene* that “[Money is a formal token of delayed reciprocal altruism.](http://dizzynomics.wordpress.com/2013/05/05/money-as-a-form-of-delayed-reciprocal-altruism/)”<sup><a href="#i" id="ref-i">i</a></sup> This turns out to be a rather insightful way of looking at money, and the purpose of this essay is to explore the idea more deeply to see how far it can take us. Nick Szabo later used some of the ideas in *The Selfish Gene* to describe the historical origins of money in his essay "[Shelling Out](http://nakamotoinstitute.org/shelling-out/)[^1], but this essay will be about the theory of money.
 
 It is first necessary to get some methodological issues out of the way. Biology and economics are similar in the way that they treat the interactions of many individuals in terms of the incentives that they all put upon one another. They then find the strategies which are most successful under the circumstances. In biology, especially in the theory of social evolution, this is often treated explicitly in terms of the language of [game theory](http://www.ebook3000.com/Evolution-and-the-Theory-of-Games_103868.html)<sup><a href="#iii" id="ref-iii">iii</a></sup>.  In economics theory this is done somewhat less often, but ultimately any discussion of incentives, which is what economics consists of, can be treated in terms of game theory. Both theories suppose that the strategy which produces the greatest benefit for individual actors will tend to win out. In biology, it is assumed that the natural selection is the means by which this happens, whereas in economics this happens because of learning or cultural evolution.
 
@@ -214,9 +214,9 @@ Second, the value of money can change relative to the entire economy. In other a
 
 <p class="text-center"><em>Special thanks to Jonathan Vaage of <a href="http://www.btcdesign.com/">BTC Design</a> for the diagrams.</em></p>
 
-## Footnotes
+**notes**
 
-<ol type="i">
+[^1]
 	<li id="i">
 		<p>Dawkins, R., <em>The Selfish Gene</em>, Oxford University Press, 1976. <a href="#ref-i" title="Jump back to footnote 1 in the text.">↩</a></p>
 	</li>

@@ -9,13 +9,13 @@ _Daniel Krawisz_
 
 # Introduction
 
-People are trained by their rewards. A portfolio is a reward system. Hence there is a relationship between portfolio and behavior. In particular, money rewards tribalism. A portfolio of money is more rewarding if the users of that money preferentially befriend one another over users of different monies. Thus, money naturally evokes tribalism in humans, a naturally tribalist species. In the cryptocurrency market, tribalism can be observed.<sup class="footnote-ref">[[1]](#fn1)</sup> In this article, I explain how money rewards tribalism.
+People are trained by their rewards. A portfolio is a reward system. Hence there is a relationship between portfolio and behavior. In particular, money rewards tribalism. A portfolio of money is more rewarding if the users of that money preferentially befriend one another over users of different monies. Thus, money naturally evokes tribalism in humans, a naturally tribalist species. In the cryptocurrency market, tribalism can be observed.[^1] In this article, I explain how money rewards tribalism.
 
 # Why is Money Useful?
 
 Before answering, I will note that I believe that many people in the cryptocurrency market would not be able to answer this question adequately. That means that the buyers in the crypto market have not chosen how they will be rewarded. They will be trained by their portfolios without knowing who they will become.
 
-Money is an enabler of cooperation. People who use it can specialize more.<sup class="footnote-ref">[[2]](#fn2)</sup> How does it work? When profit-seekers assess a means of addressing some unmet need, they look at who already has money to assess potential revenue and they look at other profit-seekers to assess cost. The profit-seeker wants to find the best match of unmet need with his own superior abilities. That creates the highest profit. The money that a profit-seeker recognizes as his unit of account determines who he compares himself to and which unmet needs he rates as most severe. Profit-seekers in different monies specialize relative to different groups of people.
+Money is an enabler of cooperation. People who use it can specialize more.[^2] How does it work? When profit-seekers assess a means of addressing some unmet need, they look at who already has money to assess potential revenue and they look at other profit-seekers to assess cost. The profit-seeker wants to find the best match of unmet need with his own superior abilities. That creates the highest profit. The money that a profit-seeker recognizes as his unit of account determines who he compares himself to and which unmet needs he rates as most severe. Profit-seekers in different monies specialize relative to different groups of people.
 
 A form of money with many profit-seekers who have been specializing relative to one another for a long time is more valuable than a form of money with fewer profit-seekers who are less specialized. A more specialized economy will be able to serve more specialized needs and serve them better.
 
@@ -31,7 +31,7 @@ Investors are responsible for choosing good investments. An investor in a crypto
 
 # Negative-Sum Interaction
 
-In Austrian economics, money is defined as the most liquid good in the economy.<sup class="footnote-ref">[[3]](#fn3)</sup> There cannot be two monies according to this definition. However, there can be more than one good which is in competition to arrive at the top position. I will call these proto-monies. If there are more than one proto-money, then there are two tribes. It may be that the same people exist in each tribe but the two tribes are still different because people can have different amounts. That changes how they all have to specialize relative to one another.
+In Austrian economics, money is defined as the most liquid good in the economy.[^3] There cannot be two monies according to this definition. However, there can be more than one good which is in competition to arrive at the top position. I will call these proto-monies. If there are more than one proto-money, then there are two tribes. It may be that the same people exist in each tribe but the two tribes are still different because people can have different amounts. That changes how they all have to specialize relative to one another.
 
 In a system of two proto-monies, people not only must determine the optimal total amount of savings, but the optimal proportion that each proto-money has of the total. This is more difficult and risky than when there is just one money. One money is good to buy everything; therefore savings is future productivity out of the whole economy. If there are two proto-monies, then neither is future productivity out of the whole economy unless one fails. For the time being, they are both worse than what a universal money would be. For one thing, the total size of both economies together would be expected to be smaller than a single economy with one money. Therefore, even at optimum allocation, people would not be able to buy as much with two monies. For another, it is possible to run out of one form of savings and not be able to substitute the other. That would not be a problem with one money. Thus, the interaction between proto-monies is negative-sum.
 
@@ -49,7 +49,7 @@ An outgroup dynamic is more subject to abuse than an ingroup dynamic. In order t
 
 # Finding Reality
 
-How do we solve the problem of cryptotribalism? We do not. Instead, let us think more carefully about what we are investing in when we buy these coins. In the past, altcoins were created and attracted interest. Unfortunately, few understood the problem<sup class="footnote-ref">[[4]](#fn4)</sup>. Now we are living with the consequences. One of those consequences is tribalism. If people had not wanted tribalism, they should not have created and invested in altcoins. Now they are in a zero-sum contest with the other coins that they did not know about when they invested.
+How do we solve the problem of cryptotribalism? We do not. Instead, let us think more carefully about what we are investing in when we buy these coins. In the past, altcoins were created and attracted interest. Unfortunately, few understood the problem.[^4] Now we are living with the consequences. One of those consequences is tribalism. If people had not wanted tribalism, they should not have created and invested in altcoins. Now they are in a zero-sum contest with the other coins that they did not know about when they invested.
 
 Someone who knows why money is useful will ask, "which tribe do I want to join?" when they think about buying a new money. Someone who does not can be manipulated into joining a tribe without knowing that this is what they're doing. As a result, they can end up joining a tribe that abuses them. Many tribes in the crypto space are abusive. They cannot become world money and the only way they can survive is by tricking investors into believing that success is something other than becoming world money. The only way to become wealthy off of abusive coins is to get in early and leave early without tipping the other investors off.
 
@@ -57,19 +57,16 @@ Cryptocurrencies are social experiments that can involve large numbers of people
 
 Everyone could be working together for Bitcoin's success but instead there are many different coins that cannot work together. The eventual outcome is that there will be one winner and many losers. That will be bad for many people, but it can’t be avoided. All coins except one losing out completely is a consequence of having more than one coin.
 
-Profit-seeking is finding reality.<sup class="footnote-ref">[[5]](#fn5)</sup> When there is more than one money, there is more than one definition of profit. Profit-seekers in one money benefit one another with their superior knowledge of the economy. Let's find some reality now and recognize that we do not want to be split up into different tribes. We are stronger if profit-seek together. Unfortunately this reality means that most of the crypto market will contract to nothing. Next time understand what money is.
+Profit-seeking is finding reality.[^5] When there is more than one money, there is more than one definition of profit. Profit-seekers in one money benefit one another with their superior knowledge of the economy. Let's find some reality now and recognize that we do not want to be split up into different tribes. We are stronger if profit-seek together. Unfortunately this reality means that most of the crypto market will contract to nothing. Next time understand what money is.
 
-# References
+**Notes**
 
-* * *
+[^1] See [Untold Stories with Charlie Shrem, Shapeshift Founder Erik Voorhees on Bitcoin Tribalism](https://cms.megaphone.fm/channel/untoldstories?selected=BWG3700126571). Both Shem and Voorhees agree that tribalism is very evident in the crypto space. They do not understand why tribalism is inevitable.
 
-1.  See [Untold Stories with Charlie Shrem, Shapeshift Founder Erik Voorhees on Bitcoin Tribalism](https://cms.megaphone.fm/channel/untoldstories?selected=BWG3700126571). Both Shem and Voorhees agree that tribalism is very evident in the crypto space. They do not understand why tribalism is inevitable. [↩︎](#fnref1)
+[^2] See Ludwig von Mises, [Economic Calculation in the Socialist Commonwealth](https://mises.org/library/economic-calculation-socialist-commonwealth).
 
-2.  See Ludwig von Mises, [Economic Calculation in the Socialist Commonwealth](https://mises.org/library/economic-calculation-socialist-commonwealth). [↩︎](#fnref2)
+[^3] See Murray Rothbard, [Man, Economy, and State, Chapter 11](https://mises.org/library/man-economy-and-state-power-and-market/html/c/271).
 
-3.  See Murray Rothbard, [Man, Economy, and State, Chapter 11](https://mises.org/library/man-economy-and-state-power-and-market/html/c/271). [↩︎](#fnref3)
+[^4] See Daniel Krawisz, [The Problem with Altcoins](https://nakamotostudies.org/literature/the-problem-with-altcoins/).
 
-4.  See Daniel Krawisz, [The Problem with Altcoins](https://nakamotostudies.org/literature/the-problem-with-altcoins/). [↩︎](#fnref4)
-
-5.  See Ayn Rand, Atlas Shrugged. [↩︎](#fnref5)
-
+[^5] See Ayn Rand, Atlas Shrugged.

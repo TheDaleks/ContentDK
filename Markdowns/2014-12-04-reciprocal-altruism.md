@@ -8,11 +8,11 @@ _Daniel Krawisz_
 
 ## Methodological Issues
 
-Richard Dawkins said in an offhand comment in *The Selfish Gene* that “[Money is a formal token of delayed reciprocal altruism.](http://dizzynomics.wordpress.com/2013/05/05/money-as-a-form-of-delayed-reciprocal-altruism/)”<sup><a href="#i" id="ref-i">i</a></sup> This turns out to be a rather insightful way of looking at money, and the purpose of this essay is to explore the idea more deeply to see how far it can take us. Nick Szabo later used some of the ideas in *The Selfish Gene* to describe the historical origins of money in his essay "[Shelling Out](http://nakamotoinstitute.org/shelling-out/)[^1], but this essay will be about the theory of money.
+Richard Dawkins said in an offhand comment in *The Selfish Gene* that “[Money is a formal token of delayed reciprocal altruism.](http://dizzynomics.wordpress.com/2013/05/05/money-as-a-form-of-delayed-reciprocal-altruism/)”[^1] This turns out to be a rather insightful way of looking at money, and the purpose of this essay is to explore the idea more deeply to see how far it can take us. Nick Szabo later used some of the ideas in *The Selfish Gene* to describe the historical origins of money in his essay "[Shelling Out](http://nakamotoinstitute.org/shelling-out/)[^2], but this essay will be about the theory of money.
 
-It is first necessary to get some methodological issues out of the way. Biology and economics are similar in the way that they treat the interactions of many individuals in terms of the incentives that they all put upon one another. They then find the strategies which are most successful under the circumstances. In biology, especially in the theory of social evolution, this is often treated explicitly in terms of the language of [game theory](http://www.ebook3000.com/Evolution-and-the-Theory-of-Games_103868.html)<sup><a href="#iii" id="ref-iii">iii</a></sup>.  In economics theory this is done somewhat less often, but ultimately any discussion of incentives, which is what economics consists of, can be treated in terms of game theory. Both theories suppose that the strategy which produces the greatest benefit for individual actors will tend to win out. In biology, it is assumed that the natural selection is the means by which this happens, whereas in economics this happens because of learning or cultural evolution.
+It is first necessary to get some methodological issues out of the way. Biology and economics are similar in the way that they treat the interactions of many individuals in terms of the incentives that they all put upon one another. They then find the strategies which are most successful under the circumstances. In biology, especially in the theory of social evolution, this is often treated explicitly in terms of the language of [game theory](http://www.ebook3000.com/Evolution-and-the-Theory-of-Games_103868.html)[^3].  In economics theory this is done somewhat less often, but ultimately any discussion of incentives, which is what economics consists of, can be treated in terms of game theory. Both theories suppose that the strategy which produces the greatest benefit for individual actors will tend to win out. In biology, it is assumed that the natural selection is the means by which this happens, whereas in economics this happens because of learning or cultural evolution.
 
-Individualism is important in both biology and economics. In biology, the problem is often to explain how highly cooperative and altruistic behavior can be explained in terms of the self-interested behavior of organisms attempting to spread their genes. In the 1960’s, an idea had become popular in biology called group selection, which is that selection can act on groups of organisms rather than just on individuals, and consequently that organisms can have traits which can be deleterious to individuals yet beneficial to the group as a whole. However, if any individual in a group could out breed its fellows by reducing those deleterious traits, it would. Adaptations which appear to be good for the group must therefore, always be good for the individual<sup><a href="#iv" id="ref-iv">iv</a></sup>.
+Individualism is important in both biology and economics. In biology, the problem is often to explain how highly cooperative and altruistic behavior can be explained in terms of the self-interested behavior of organisms attempting to spread their genes. In the 1960’s, an idea had become popular in biology called group selection, which is that selection can act on groups of organisms rather than just on individuals, and consequently that organisms can have traits which can be deleterious to individuals yet beneficial to the group as a whole. However, if any individual in a group could out breed its fellows by reducing those deleterious traits, it would. Adaptations which appear to be good for the group must therefore, always be good for the individual.[^4]
 
 In economics it is the other way around: the problem is often [to show](https://mises.org/books/economics_in_one_lesson_hazlitt.pdf) how certain kinds of rules—say a government regulation—produce adverse effects because they fail to be individually beneficial to the people subject to them. The greater the resources that the government employs enforcing its rules, the greater the benefits to successful cheaters. Therefore, no amount of expenditure is ever enough to produce the desired outcome.
 
@@ -48,7 +48,7 @@ Any altruism that is observed in biology implies that there are benefits which t
 
 The first step for talking about money is to define it in behaviorist terms and to pinpoint what about that behavior is most in need of explanation. We don’t think of money as a thing; instead we think of it as a behavior. We’re not humans living and working in our own economy anymore; we’re biologists or economists observing the human species and theorizing about why monetary behavior is a successful strategy.
 
-In economics, the interesting thing about money is that it is not consumed, just held. Even a miser who loathed to spend money and who simply hoarded it without any apparent plans to spend it is not treating it like a consumer good because if the money he was hoarding  hyperinflated and became valueless, he would presumably throw it away. (We could imagine someone who just loves to collect money regardless of whether it can be spent, but that person would just be a coin collector, and in that case he would be treating the money as a consumer good. There would be nothing to explain in that case.)
+In economics, the interesting thing about money is that it is not consumed, just held. Even a miser who loathed to spend money and who simply hoarded it without any apparent plans to spend it is not treating it like a consumer good because if the money he was hoarding  hyperinflated and became valueless, he would presumably throw it away. (We could imagine someone who just loves to collect money regardless of whether it can be spent, but that person would just be a coin collector, and in that case he would be treating the money as a consumer good. There would be nothing to explain in that case).
 
 Of course there is no need to explain why someone would spend money because that is when he gets resources for consumption, which improves his fitness. There is, furthermore, no reason to explain why someone would rob money at gunpoint or burglarize a house for money. If we know why someone would trade goods and services for it, then we know why someone would steal it. Another thing that does not need to be explained is why someone would manufacture or counterfeit money. None of this is altruistic.
 
@@ -64,7 +64,7 @@ As I observed above, altruism implies no particular emotional state. A moneymake
 
 ## Reciprocal Altruism in Simple Games
 
-An allegory from many folklores says that hell is a table full of delicious food, but everyone must use such long utensils that no one can bring the food to his own mouth. Therefore, everyone starves in the midst of plenty. Whereas heaven is exactly the same, except that everyone feeds the people sitting across from him rather than attempting to feed himself. This is essentially the idea of reciprocal altruism, which is an idea introduced by Trivers in 1971<sup><a href="#v" id="ref-v">v</a></sup>.
+An allegory from many folklores says that hell is a table full of delicious food, but everyone must use such long utensils that no one can bring the food to his own mouth. Therefore, everyone starves in the midst of plenty. Whereas heaven is exactly the same, except that everyone feeds the people sitting across from him rather than attempting to feed himself. This is essentially the idea of reciprocal altruism, which is an idea introduced by Trivers in 1971.[^5]
 
 The idea is that pairs of animals provide favors to one another and are better off because of the expected benefit of being able to receive favors when in need. Of course, if everyone were completely indiscriminate with their favors, no such system could persist because it would be open to abuse by cheaters. A selfish animal could benefit by receiving favors but never giving out any. Therefore the selfish behavior would be self-promoting, and would soon take over the population. In fact, as selfishness became more and more prevalent, altruism would become less and less beneficial because the altruists would meet one another less and less often, and therefore would spend more and more of their energy benefiting selfish animals. Unless there is a means to prevent cheating, reciprocal altruism fails to be individually beneficial. The problem in evolutionary theory is to clarify what makes this sort of interaction possible.
 
@@ -72,15 +72,15 @@ Theoretical studies of reciprocal altruism involve repeated two-person games. Th
 
 A successful altruistic strategy has two characteristics: first, it must be preferable to be an altruist with another altruist than to be a non-altruist with another non-altruist; second, players can choose how to react to the past behavior of their opponents. This allows a player to be altruistic with other altruists or non-altruistic with others who are not. Reciprocity discourages non-altruism. The non-altruist reaps what he sows. Under these circumstances, altruism will succeed in repeated games as long as the probability of repetition is high enough.
 
-One example of a game that models reciprocal altruism is the famous Prisoner’s Dilemma<sup><a href="#vi" id="ref-vi">vi</a></sup>. This is a two-person game, in which each player has two options: cooperate or defect. The payoff matrix for the Prisoner’s Dilemma looks like this:
+One example of a game that models reciprocal altruism is the famous Prisoner’s Dilemma.[^6] This is a two-person game, in which each player has two options: cooperate or defect. The payoff matrix for the Prisoner’s Dilemma looks like this:
 
-<div class="my-4 text-center">![Graph 1](b://97a0c03294c80e5e24ab5822dab6a8463393ac9ccd0e6c2dedab44444eed0b27)</di
+<div class="my-4 text-center">![Graph 1](b://97a0c03294c80e5e24ab5822dab6a8463393ac9ccd0e6c2dedab44444eed0b27)</div>
 
 In this diagram, each box represents an outcome after both players have made a choice. The first item in the list for each outcome is the reward to player one, and the second is the reward to player 2. The numbers in the boxes are arbitrary—what matters only is some ordering relations between them. A more abstract (but equivalent) payoff matrix for the Prisoner’s Dilemma is this:
 
 where <code>$Y>W>Z>X$</code> and <code>$X+Y<2 W$</code>. This second condition means that outcome $W$ is preferable to equal odds of outcome $X$ and $Y$.
 
-<div class="my-4 text-center">![Graph 2](b://b91bf0b055784588d67f54b955a2c74b840d3c566a2a6ba0107737941ca0a8f5)</di
+<div class="my-4 text-center">![Graph 2](b://b91bf0b055784588d67f54b955a2c74b840d3c566a2a6ba0107737941ca0a8f5)</div>
 
 The Prisoner’s Dilemma may seem like an odd choice to model reciprocal altruism because both players must cooperate at the same time. That seems more like mutualism! However, each cooperative move on the part of either player is altruistic because, in the one-round case, every cooperative move is less beneficial to itself and more beneficial to the other player. Mutualism only occurs when it is immediately beneficial to both players to cooperate. It is possible to alter the game so that the players must alternate at behaving altruistic to one another, but it is easiest to understand the Prisoner’s Dilemma first.
 
@@ -100,7 +100,7 @@ where $R$ is some rate that determines how quickly the value of future rewards d
  
 - Alternating: the player defects on the first move and subsequently alternates between cooperation and defection each turn. (This strategy is going to be important later on.)
 
-Other simple strategies are possible, but they aren’t interesting theoretically because they are neither successful nor do they make any intuitive sense either. I will not go through all the game theory mathematics but merely state some results<sup><a href="#vii" id="ref-vii">vii</a></sup>.
+Other simple strategies are possible, but they aren’t interesting theoretically because they are neither successful nor do they make any intuitive sense either. I will not go through all the game theory mathematics but merely state some results.[^7]
 
 - Cooperation and tit-for-tat do equally well against one another.
 
@@ -128,11 +128,11 @@ Of course, if more complex strategies were allowed, then the players could excha
 
 So now we have two kinds of reciprocal altruism, right? Not really; there is nothing much new here because we can find the Prisoner’s Dilemma hiding in them. This table explains how to combine moves in the modified Prisoner’s Dilemma to construct the same outcomes as the standard Prisoner’s Dilemma.
 
-<div class="my-4 text-center">![Graph 3](b://0db86c69f9f374eedcac436324f1297c532222de62aa5f4d23a76bd2ae05ef2c)</di
+<div class="my-4 text-center">![Graph 3](b://0db86c69f9f374eedcac436324f1297c532222de62aa5f4d23a76bd2ae05ef2c)</div>
 
 Other possible moves exist in the modified Prisoner’s Dilemma over two rounds, but they can be ignored because they do not affect the winning strategy.
 
-Tit-for-tat is the winning strategy once again in this new way of looking at things, and that is what one is really doing with the winning strategy of the modified Prisoners Dilemma. Players still win by cooperating with other cooperative players and punishing non-cooperative players. It is just that cooperation plays out over several moves. Other two-person games with altruistic strategies can be treated the same way<sup><a href="#viii" id="ref-viii">viii</a></sup>. There are a few different games which are similar to the Prisoner’s Dilemma. Some of them allow for altruistic strategies and others do not. Those that do all have (at least) three similar properties. First, altruism can only succeed if the future is not discounted too rapidly, or alternately if the number of rounds of the game is high enough. In other words, the future must be important to the players of the game. Second, there is a network effect for altruistic strategies. Third, a successful altruistic strategy must be capable of retaliating against non-altruists.
+Tit-for-tat is the winning strategy once again in this new way of looking at things, and that is what one is really doing with the winning strategy of the modified Prisoners Dilemma. Players still win by cooperating with other cooperative players and punishing non-cooperative players. It is just that cooperation plays out over several moves. Other two-person games with altruistic strategies can be treated the same way.[^8] There are a few different games which are similar to the Prisoner’s Dilemma. Some of them allow for altruistic strategies and others do not. Those that do all have (at least) three similar properties. First, altruism can only succeed if the future is not discounted too rapidly, or alternately if the number of rounds of the game is high enough. In other words, the future must be important to the players of the game. Second, there is a network effect for altruistic strategies. Third, a successful altruistic strategy must be capable of retaliating against non-altruists.
 
 ## Altruistic Groups
 
@@ -140,7 +140,7 @@ Obviously, the use of money does not require pairwise reciprocity, so it is quit
 
 As with the iterated Prisoner’s Dilemma, a complete theory of group altruism would be extremely difficult to elaborate, but we can still compare different kinds of simple strategies without describing every possible one, and the lessons from the two-person games hold true. For example, imagine an organism in a group that chooses to act altruistically to other organisms based on their past interactions with other group members. If organism $A$ watches organism $B$ behave altruistically toward organism $C$, then, given the opportunity, $A$ will act altruistically toward $B$. After that, $A$ may never interact with $B$ again, but other organisms may have seen $A$’s altruism toward $B$ and will act altruistically toward $A$ at the next opportunity. On the other hand, organisms in whom altruism is not observed do not receive it. Under circumstances in which the potential benefit of receiving favors is greater than the cost of giving them out, this sort of behavior will enable altruistic organisms extract that benefit without allowing non-altruists to mooch off of them.
 
-Altruistic groups require more complex behavior on the part of the animals because detecting cheaters requires them to observe and keep track of more relationships than just their own. Nonetheless, some more complex systems of reciprocal altruism are known. For example, some very intelligent animals, such as apes, are able to form coalitions. They are more altruistic toward other group members than to non-members without always expecting direct reciprocity<sup><a href="#ix" id="ref-ix">ix</a></sup>. Humans, of course, are very good at forming altruistic groups. I am sure that you have experienced this: when you learn that someone belongs to a group that you belong to, you feel much more willing to act altruistically toward him and vice versa, without reciprocity necessarily being expected from either side. This is possible because anyone can damage their reputation in the group by not acting altruistic within the group. (To be clear, I am not claiming to describe peoples’ real feelings toward one another when they interact in groups. They are not necessarily going through a calculation like this. Rather, people just have an instinct to feel more warmth toward other members of groups to which they belong.)
+Altruistic groups require more complex behavior on the part of the animals because detecting cheaters requires them to observe and keep track of more relationships than just their own. Nonetheless, some more complex systems of reciprocal altruism are known. For example, some very intelligent animals, such as apes, are able to form coalitions. They are more altruistic toward other group members than to non-members without always expecting direct reciprocity[^9]. Humans, of course, are very good at forming altruistic groups. I am sure that you have experienced this: when you learn that someone belongs to a group that you belong to, you feel much more willing to act altruistically toward him and vice versa, without reciprocity necessarily being expected from either side. This is possible because anyone can damage their reputation in the group by not acting altruistic within the group. (To be clear, I am not claiming to describe peoples’ real feelings toward one another when they interact in groups. They are not necessarily going through a calculation like this. Rather, people just have an instinct to feel more warmth toward other members of groups to which they belong.)
 
 It is possible to make the simple models of the previous section directly applicable to group cooperation by treating one player as a cooperative group that coordinates its treatment of another individual, represented by the other player. Suppose that $N$ organisms have learned to coordinate their treatment of one another. They can then encourage altruism in an <code>$N+1$th</code> organism by treating it to a coordinated tit-for-tat strategy. When the <code>$N+1$th</code> organism fails to be altruistic to any member of the group, the group as a whole must deny him the next time he needs help.
 
@@ -186,7 +186,7 @@ Historically, fiat money has arisen out of banknotes whose convertibility into c
 
 The principle of concentrated benefits and distributed costs has meant that issuers have often been able to take advantage of users by manipulating the money supply to their benefit. The issuers of money can effectively evade punishment for a failure to be sufficiently altruistic by creating extra units of money at a very low cost. Unlike regular folk, who must never run out of money, the issuers can continue to spend and never run out.
 
-Finally, money as a distributed system is the latest step in the evolution of money<sup><a href="#x" id="ref-x">x</a></sup>. This is what Bitcoin is. The principle which protects Bitcoin from manipulation is the difficulty of changing the behavior of the distributed system. Money as a distributed system has no physical presence at all. It is one huge ledger, one which must be duplicated over many locations. It must be impossible for someone to change a copy without being detected, and there must be some process in place to ensure that all copies remain in agreement.
+Finally, money as a distributed system is the latest step in the evolution of money[^10]. This is what Bitcoin is. The principle which protects Bitcoin from manipulation is the difficulty of changing the behavior of the distributed system. Money as a distributed system has no physical presence at all. It is one huge ledger, one which must be duplicated over many locations. It must be impossible for someone to change a copy without being detected, and there must be some process in place to ensure that all copies remain in agreement.
 
 Money as a distributed system requires a much greater degree of communication between everyone in order to function properly. Fiat money requires that there be one well-known institution, but a money as a distributed system requires everyone to be in communication with everyone else. If this is possible, its advantages are many. The supply can be strictly limited—not just to some unknown amount of something in the Earth, or to an amount that an issuer can change, but to a specific number that no one can change. Trusting a well-designed distributed system is more like trusting the laws of physics than trusting a human agent. Because it can be protected by cryptography, it can be made very difficult to steal at a low cost. Therefore I would conclude that a distributed system is capable of coming closest to the ideal of perfect delayed reciprocal altruism.
 
@@ -216,47 +216,24 @@ Second, the value of money can change relative to the entire economy. In other a
 
 **notes**
 
-[^1]
-	<li id="i">
-		<p>Dawkins, R., <em>The Selfish Gene</em>, Oxford University Press, 1976. <a href="#ref-i" title="Jump back to footnote 1 in the text.">↩</a></p>
-	</li>
+[^1] Dawkins, R., The Selfish Gene, Oxford University Press, 1976.
+	
+[^2] Szabo, N., [“Shelling Out: The Origins of Money”](https://nakamotoinstitute.org/shelling-out/), The Satoshi Nakamoto Institute, 2002, SHA256:30f7eea01d4b60c3ca33b6337a32b391.
 
-	<li id="ii">
-		<p>Szabo, N., <a href="http://nakamotoinstitute.org/shelling-out/">“Shelling Out: The Origins of Money”</a>, The Satoshi Nakamoto Institute, 2002, SHA256:30f7eea01d4b60c3ca33b6337a32b391. <a href="#ref-ii" title="Jump back to footnote 2 in the text.">↩</a></p>
-	</li>
+[^3] See Smith, J., *Evolution and the Theory of Games*, Cambridge University Press, 1982, SHA256:88fdfb61c32b2758863e7f338b97a7e9 for the classic exposition of this idea.
+	
+[^4] The truth is actually more complicated—in biology, individuals and groups exist on many levels. Within a cooperative colony of animals, we would need to explain why an individual animal cannot benefit at the expense of everyone else; but each animal is itself a eusocial colony of individual cells which are extremely regimented in how they cooperate with one another. So there is also a need to explain why all the cells are better off cooperating with one another to be an animal that cooperates with others of its own kind instead of all turning into individualistic cancers. And a cell, too, functions because the many genes within it all cooperate very nicely instead of competing to replicate out of control.
 
-	<li id="iii">
-		<p>See Smith, J., <em>Evolution and the Theory of Games</em>, Cambridge University Press, 1982, SHA256:88fdfb61c32b2758863e7f338b97a7e9 for the classic exposition of this idea. <a href="#ref-iii" title="Jump back to footnote 3 in the text.">↩</a></p>
-	</li>
+See Dawkins and Trivers, R., *Social Evolution*, The Benjamin/Cummings Publishing Company, Inc., 1985 for decisive criticisms of group selection. The idea of group selection has recently been revived under the name multilevel selection theory. See (put citation here) I’m not a professional biologist, so take this for what it’s worth, but I think that this article rather misses the point. 	
 
-	<li id="iv">
-		<p>The truth is actually more complicated—in biology, individuals and groups exist on many levels. Within a cooperative colony of animals, we would need to explain why an individual animal cannot benefit at the expense of everyone else; but each animal is itself a eusocial colony of individual cells which are extremely regimented in how they cooperate with one another. So there is also a need to explain why all the cells are better off cooperating with one another to be an animal that cooperates with others of its own kind instead of all turning into individualistic cancers. And a cell, too, functions because the many genes within it all cooperate very nicely instead of competing to replicate out of control.</p>
+[^5] Trivers, R., [“The Evolution of Reciprocal Altruism”](https://greatergood.berkeley.edu/images/uploads/Trivers-EvolutionReciprocalAltruism.pdf), vol. 46, no. 1, Quarterly Review of Biology, 1971, pp. 35-57, SHA256:4c2dfb4acc63492b06151bce8db7c452.
 
-		<p>See Dawkins and Trivers, R., <em>Social Evolution</em>, The Benjamin/Cummings Publishing Company, Inc., 1985 for decisive criticisms of group selection. The idea of group selection has recently been revived under the name multilevel selection theory. See (put citation here) I’m not a professional biologist, so take this for what it’s worth, but I think that this article rather misses the point. <a href="#ref-iv" title="Jump back to footnote 4 in the text.">↩</a></p>
-	</li>
+[^6] Stevens, C., [“Modeling Reciprocal Altruism"](https://faculty.arts.ubc.ca/cstephens/Chris_Stephens_Website/Research_files/C.%20Stephens%20Modelling%20RA.pdf), vol. 47, no. 4, British Journal for the Philosophy of Science, 1996, pp. 533-551, SHA256:7847130bd62ba99c21b3a83fdf528662
 
-	<li id="v">
-		<p>Trivers, R., <a href="http://greatergood.berkeley.edu/images/uploads/Trivers-EvolutionReciprocalAltruism.pdf">“The Evolution of Reciprocal Altruism”</a>, vol. 46, no. 1, Quarterly Review of Biology, 1971, pp. 35-57, SHA256:4c2dfb4acc63492b06151bce8db7c452. <a href="#ref-v" title="Jump back to footnote 5 in the text.">↩</a></p>
-	</li>
+[^7] For a delightful introduction to game theory, see Luce, R., Raiffa, H., *Games and Decisions: Introduction and Critical Survey*, Dover Publications, 1989. For an introduction that is also free, see Watson, J., [*Strategy: An Introduction to Game Theory*](https://dutraeconomicus.files.wordpress.com/2014/02/joel_watson_strategy_an_introduction_to_game_theory__2013.pdf), 3rd ed., W. W. Norton & Company, 2013, SHA256:2ce0ccbea55ca88c908b876f22bbb379.
 
-	<li id="vi">
-		<p>Stevens, C., <a href="http://faculty.arts.ubc.ca/cstephens/Chris_Stephens_Website/Research_files/C.%20Stephens%20Modelling%20RA.pdf">“Modeling Reciprocal Altruism”</a>, vol. 47, no. 4, British Journal for the Philosophy of Science, 1996, pp. 533-551, SHA256:7847130bd62ba99c21b3a83fdf528662. <a href="#ref-vi" title="Jump back to footnote 6 in the text.">↩</a></p>
-	</li>
+[^8] [Stevens, 1996](https://faculty.arts.ubc.ca/cstephens/Chris_Stephens_Website/Research_files/C.%20Stephens%20Modelling%20RA.pdf), pp. 533-551.
 
-	<li id="vii">
-		<p>For a delightful introduction to game theory, see Luce, R., Raiffa, H., <em>Games and Decisions: Introduction and Critical Survey</em>, Dover Publications, 1989. For an introduction that is also free, see Watson, J., <a href="http://dutraeconomicus.files.wordpress.com/2014/02/joel_watson_strategy_an_introduction_to_game_theory__2013.pdf"><em>Strategy: An Introduction to Game Theory</em></a>, 3rd ed., W. W. Norton & Company, 2013, SHA256:2ce0ccbea55ca88c908b876f22bbb379. <a href="#ref-vii" title="Jump back to footnote 7 in the text.">↩</a></p>
-	</li>
+[^9] Trivers, 1985. 
 
-	<li id="viii">
-		<p><a href="http://faculty.arts.ubc.ca/cstephens/Chris_Stephens_Website/Research_files/C.%20Stephens%20Modelling%20RA.pdf">Stevens, 1996</a>, pp. 533-551. <a href="#ref-viii" title="Jump back to footnote 8 in the text.">↩</a></p>
-	</li>
-
-	<li id="ix">
-		<p>Trivers, 1985. <a href="#ref-ix" title="Jump back to footnote 9 in the text.">↩</a></p>
-	</li>
-
-	<li id="x">
-		<p>I follow Graf, K., <a href="http://konradsgraf.com/bitcoin-decrypted/">“Bitcoin Decrypted Part III: Social theory aspects”</a>, KonradSGraf.com, 27 Dec 2013 in treating cryptocurrencies as a separate category from commodity money or fiat money. <a href="#ref-x" title="Jump back to footnote 9 in the text.">↩</a></p>
-	</li>
-</ol>
-
+[^10] I follow Graf, K., [“Bitcoin Decrypted Part III: Social theory aspects”](https://www.konradsgraf.com/bitcoin-decrypted/), KonradSGraf.com, 27 Dec 2013 in treating cryptocurrencies as a separate category from commodity money or fiat money. 

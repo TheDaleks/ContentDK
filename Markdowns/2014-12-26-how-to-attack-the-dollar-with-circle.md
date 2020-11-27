@@ -10,10 +10,6 @@ _Daniel Krawisz_
 
 What to do about it? I’m going to suggest something a bit dangerous, but which In his article on [Speculative Attacks](https://nakamotoinstitute.org/mempool/speculative-attack/), Pierre Rochard’s describes the gradual process by which the slow, tentative growth of Bitcoin (which he calls “fiat bleed”) can transform into extremely rapid growth. At first people invest cautiously and the price rises slowly. However, as expectations solidify that the trend will continue, people will choose to invest less and less cautiously, culminating in a mad struggle to buy as much as possible under any terms.
 
-
-C
-
-
 The whole process can be revved into high-gear with what is known as a speculative attack. This means a leveraged buy of the currency that is expected to grow stronger against the one which is expected to weaken. For example, to perform a speculative attack against the dollar with Bitcoin, one would take out a loan denominated in dollars, buy bitcoins with them, and later, once the bitcoins have increased in value, sell off enough to pay the debt. This is, of course, a riskier way to invest in bitcoins than just buying them, and it is riskier than just taking out a loan in dollars too. However, if it is successful the profit margins are that much greater.
 
 The reason that this maneuver is called an attack is that it directly threatens the central bank of the central bank which issues the declining currency. It’s called an attack because the central banks are the hegemons here, so they get to decide when to give an investment strategy a bad name. The attack weakens the central bank because it turns its main instrument of monetary policy—credit expansion—against it. Instead of being invested in the economy and producing a speculative bubble, and eventually price inflation, the speculative attack produces inflation directly without creating a bubble economy, which, from the standpoint of the central bank, is the main benefit of expanding credit.

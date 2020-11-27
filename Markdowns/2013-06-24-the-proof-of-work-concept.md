@@ -79,7 +79,7 @@ This is an academic discussion. It is counterproductive to back any cryptocurren
 
 * * *
 
-[^1] See Back, A., ["Hashcash - A Denial of Service Counter-Measure"](/static/docs/hashcash.pdf), 1 Aug 2002, for a description of the proof-of-work concept and its applications by its original inventor.
+[^1] See Back, A., ["Hashcash - A Denial of Service Counter-Measure"](http://www.hashcash.org/papers/hashcash.pdf), 1 Aug 2002, for a description of the proof-of-work concept and its applications by its original inventor.
 
 [^2] See Nakamoto, S., ["Bitcoin: A Peer-to-Peer Electronic Cash System"](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461), 2008.
 
@@ -99,7 +99,7 @@ This is an academic discussion. It is counterproductive to back any cryptocurren
 
 [^8] Zahavi, Zahavi, 1997, pp. 125-150. 
 
-[^9] [Back, 2002](/static/docs/hashcash.pdf). 
+[^9] [Back, 2002](http://www.hashcash.org/papers/hashcash.pdf). 
 
 [^10] See Warren, J., ["Bitmessage: A Peer-to-Peer Message Authentication and Delivery System"](https://bitmessage.org/bitmessage.pdf), 27 Nov 2012. 
 

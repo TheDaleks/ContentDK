@@ -12,6 +12,8 @@ _Daniel Krawisz_
 
 New ideas attract not only visionaries and pioneers but also charlatans and fools. The former group understands the nature and potential of the new idea and attempts to extend it in new ways. The latter observes the success of the former and expects similar results through blind imitation and empty hope, rather like the Melanesian [cargo cults](http://en.wikipedia.org/wiki/Cargo_cult) which arose after World War II when the American military abandoned its airports there.
 
+<div class="my-4 text-center">![Cargo Cult](b://9aa240a2244c42ec3f1512ae27086dd553081270513bbd0b82ff3c7ad068814f)</div>
+
 _The litecoiners of aeronautics_
 
 This analogy is absolutely appropriate to characterize the many alternative cryptocurrencies modeled on Bitcoin, which are collectively referred to as altcoins. Technologically, they are all very similar to Bitcoin: there is a block chain to store transactions, a consensus mechanism to build the block chain, and a cryptographic protocol to register transactions. Some prominent examples are PPCoin, Primecoin, Litecoin, and Freicoin.
@@ -23,6 +25,8 @@ Because it was started earlier and has had a greater opportunity to grow and att
 The Bitcoin community is not just overwhelmingly larger but of overwhelmingly better quality as well. Bitcoin is surrounded by real entrepreneurs working hard to create new and useful services for Bitcoin. Altcoins are surrounded by loud-mouthed pretenders with irrational hopes of duplicating Nakamoto's success. This does not mean that there is anything _intrinsically_ wrong with altcoins: the problem is simply that once Bitcoin exists, then there is no additional value, from a monetary standpoint, of creating knock-offs. Can anyone really expect to create something of value by rereleasing Bitcoin under a new name and with a few tiny changes to its source code? What makes Bitcoin great cannot easily be duplicated. Thus, while the Bitcoin community matures and grows as more and more entrepreneurs are attracted to its potential, the altcoin communities can only whine for attention.
 
 ## Motivated reasoning
+
+<div class="my-4 text-center">![Ol' School Traders](b://de7cfdb4cb183cb98ebadb07bdaa3d520b76b5a0c261333ce019e35930ed188c)</div>
 
 _Altcoiners obsessing over Cryptsy's exchange rates_
 
@@ -79,6 +83,7 @@ There is a class of very similar cryptocurrencies that rely on an algorithm call
 
 When Bitcoin first came out, it was possible for anyone to mine coins with his CPU. Once software was developed that mined using GPUs, then CPU mining quickly became obsolete. GPU mining remained profitable for some time thereafter because the price of Bitcoin continued to increase as more people became miners. This could not persist indefinitely, and eventually there began work into the development of FPGA and ASIC mining. Once these technologies were developed, GPU mining would become obsolete as well.
 
+<div class="my-4 text-center">![Mining](b://83262ef7d5aab88947993360a0da88930298704e614bd214839f03d75472571d)</div>
 
 _The Golden Age of mining, according to altcoiners_
 
@@ -162,18 +167,18 @@ _[Update 8/28/2013: two citations added. Last paragraph added to section on comp
 
 * * *
 
-[^1] See Miers, I., Garman, C., Green, M., Rubin, A., ["Zerocoin: Anonymous Distributed E-Cash from Bitcoin"](http://spar.isi.jhu.edu/~mgreen/ZerocoinOakland.pdf), 9 Apr 2013 to learn about Zerocoin, a proposal that would greatly improve Bitcoin's anonymity. It would be wonderful if this could be made to work, but it would require a substantial coordinated effort to implement because it would involve an incompatible change to the Bitcoin protocol. This is actually one way an altcoin might be useful—its could implement Zerocoin as practice for doing the same to Bitcoin later. See J.D.Bruce, ["Purely P2P Crypto-Currency With Finite Mini-Blockchain"](http://www.bitfreak.info/files/pp2p-ccmbc-rev1.pdf), Apr 2013 for a proposal to limit the size of the block chain. Right now, the block chain becomes more costly to store as it grows and there is no built-in means to compensate for that. This paper shows that it is possible to split the functions of the block chain among three different data structures whose total size increases far more slowly. It is already possible for users (but not miners) to store shortened versions of the block chain, a feature which has been implemented in clients like MultiBit. However, the shortened block chain requires the client to make some assumptions about the validity of the full block chain which are not necessary with the Mini-Blockchain. 
+[^1] See Miers, I., Garman, C., Green, M., Rubin, A., ["Zerocoin: Anonymous Distributed E-Cash from Bitcoin"](b://118ae2b4fb7417ae8285cdc5e5af96b684f0b44c59217c0a411b7370d9dba9c2), 9 Apr 2013 to learn about Zerocoin, a proposal that would greatly improve Bitcoin's anonymity. It would be wonderful if this could be made to work, but it would require a substantial coordinated effort to implement because it would involve an incompatible change to the Bitcoin protocol. This is actually one way an altcoin might be useful—its could implement Zerocoin as practice for doing the same to Bitcoin later. See J.D.Bruce, ["Purely P2P Crypto-Currency With Finite Mini-Blockchain"](b://85b04a5c79ed7fbb4c3cb0ae9af196332cca100d34647a0ff0d62b97ddb66204), Apr 2013 for a proposal to limit the size of the block chain. Right now, the block chain becomes more costly to store as it grows and there is no built-in means to compensate for that. This paper shows that it is possible to split the functions of the block chain among three different data structures whose total size increases far more slowly. It is already possible for users (but not miners) to store shortened versions of the block chain, a feature which has been implemented in clients like MultiBit. However, the shortened block chain requires the client to make some assumptions about the validity of the full block chain which are not necessary with the Mini-Blockchain. 
 
-[^2] See Hayek, F., _The Road to Serfdom_, Routledge Classics, 2006, "Why the Worst Get On Top" and Hoppe, H., _Democracy: The God That Failed_, Transaction Publishers, 2007, "On Time Preference, Government, and the Process of Decivilization" for discussions of the bad sort of competition. 
+[^2] See Hayek, F., [_The Road to Serfdom_](13358c6689a7be98e83a75870453e83560521487f17952d0ead271f54b067b31), Routledge Classics, 2006, ["Why the Worst Get On Top"](b://e69d3131518576a8d56fd98767b79dc3e0e0c0d54b355128be5d897ef88a836d) and Hoppe, H., [_Democracy: The God That Failed_](b://b909197749fccae430fc0e607b1c10d60a3cdfab158f8d024c387091c49994b8), Transaction Publishers, 2007, ["On Time Preference, Government, and the Process of Decivilization"](b://b5d42de19344b8c68430fc2c75fbe0b115dccdc8c9ea5f23ce03ceb42910c89f) for discussions of the bad sort of competition. 
 
-[^3] Bastiat, F., _[Petition of the Manufacturers of Candles, Waxlights, Lamps, Candlelights, Street Lamps, Snuffers, Extinguishers, and the Producers of Oil, Tallow, Resin, Alcohol, and, Generally, of Everything Connected with Lighting](https://mises.org/books/bastiat1.pdf)_, vol. 1, The Ludwig von Mises Institute, 2007. 
+[^3] Bastiat, F., _[Petition of the Manufacturers of Candles, Waxlights, Lamps, Candlelights, Street Lamps, Snuffers, Extinguishers, and the Producers of Oil, Tallow, Resin, Alcohol, and, Generally, of Everything Connected with Lighting](b://27ff03f33a6b6752ae47f8f7d680703955fc695d29c887dd93a0d1591bce855e)_, vol. 1, The Ludwig von Mises Institute, 2007. 
 
-[^4] O.Karame, G., Androulaki, E., Capkun, S., ["Two Bitcoins for the Price of One? Double-Spending Attacks on Fast Payments in Bitcoin"](http://eprint.iacr.org/2012/248.pdf), _Cryptology ePrint Archive_, 2012.
+[^4] O.Karame, G., Androulaki, E., Capkun, S., ["Two Bitcoins for the Price of One? Double-Spending Attacks on Fast Payments in Bitcoin"](b://15a172d92bae946ab2f608d5f955273325355d06211a1314ac2a3d885ac7096a), _Cryptology ePrint Archive_, 2012.
 
-[^5] See Grinstead, C., Snell, J., _[Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf)_, American Mathematical Society for a pleasant discussion of random walks. See if you can solve the problem of the 51% attack yourself!
+[^5] See Grinstead, C., Snell, J., _[Introduction to Probability](b://4b52d811bb58193064e995426cb151953542b8006af8483b89bc7862d054c826)_, American Mathematical Society for a pleasant discussion of random walks. See if you can solve the problem of the 51% attack yourself!
 
-[^6] King, S., Nadal, S., ["PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake"](http://barkingshibes.com/wp-content/uploads/2014/02/ppcoin-paper.pdf), 19 Aug 2012.
+[^6] King, S., Nadal, S., ["PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake"](https://archive.org/details/PPCoinPaper), 19 Aug 2012.
 
-[^7] King, S., ["Primecoin: Cryptocurrency with Prime Number Proof-of-Work"](http://ppcoin.org/static/primecoin-paper.pdf), 7 Jul 2013.
+[^7] King, S., ["Primecoin: Cryptocurrency with Prime Number Proof-of-Work"](https://primecoin.io/bin/primecoin-paper.pdf), 7 Jul 2013.
 
 [^8] Freicoin Developers, ["Freicoin: About"](http://freico.in/about/), 2013.

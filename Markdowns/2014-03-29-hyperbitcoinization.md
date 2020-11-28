@@ -10,7 +10,7 @@ _Daniel Krawisz_
 
 ## Bitcoin-Induced Demonetization
 
-This article is about the possibility of Bitcoin-induced currency demonetization, or _hyperbitcoinization_, which is what would happen to any hapless currency that stands in Bitcoin's path of [total world domination](https://github.com/TheDaleks/ContentDK/blob/master/Markdowns/2014-02-01-why-bitcoin-will-continue-to-grow.md). If this happens, the currency will rapidly lose value as Bitcoin supplants it. What would such an event be like and how can it be understood economically?
+This article is about the possibility of Bitcoin-induced currency demonetization, or _hyperbitcoinization_, which is what would happen to any hapless currency that stands in Bitcoin's path of [total world domination](b://3e2027cf4295fd37ac6cc86306bc820251d8eb3e12cf2e6be74b65c83e571af8). If this happens, the currency will rapidly lose value as Bitcoin supplants it. What would such an event be like and how can it be understood economically?
 
 ## Comparison to Hyperinflation
 
@@ -30,7 +30,7 @@ Hyperbitcoinization is a voluntary transition from an inferior currency to a sup
 
 Based on these two differences, I make two predictions about a hyperbitcoinization event.
 
-1.  _A hyperbitcoinization event will be much quicker than a hyperinflation event_. I have two reasons for this. First, the government will have a much greater difficulty preventing bitcoins from entering the country due to the impotency of capital controls upon it. Second, hyperinflation is inherently an attempt to fool people, whereas hyperbitcoinization is quite regular and predictable (at least by comparison). Therefore people will more easily see that they had better switch over. Thus, as fast as hyperinflation is, hyperbitcoinization will be even faster. It will happen [much faster than you expect](https://github.com/TheDaleks/ContentDK/blob/master/Markdowns/2014-02-01-why-bitcoin-will-continue-to-grow.md).
+1.  _A hyperbitcoinization event will be much quicker than a hyperinflation event_. I have two reasons for this. First, the government will have a much greater difficulty preventing bitcoins from entering the country due to the impotency of capital controls upon it. Second, hyperinflation is inherently an attempt to fool people, whereas hyperbitcoinization is quite regular and predictable (at least by comparison). Therefore people will more easily see that they had better switch over. Thus, as fast as hyperinflation is, hyperbitcoinization will be even faster. It will happen [much faster than you expect](b://3e2027cf4295fd37ac6cc86306bc820251d8eb3e12cf2e6be74b65c83e571af8).
 
 2.  _Hyperbitcoinization will not disrupt the economy to nearly the same degree as hyperinflation._ The currency is the instrument of the division of labor, and hyperinflation makes it unreliable and forces people to use worse alternatives. In a hyperbitcoinization event, people switch from a fundamentally inferior currency to a superior one, whereas in a hyperinflationary event people will only switch to a new currency once the old currency becomes worse than the next best alternative, such as gold or detergent. Hyperbitcoinization should be accompanied by a rapid improvement in productivity and wealth.
 
@@ -40,4 +40,4 @@ Hyperbitcoinization will probably be a confusing time for everyone, like a secon
 
 * * *
 
-Read in [Arabic](/mempool/hyperbitcoinization/ar/), [German](/mempool/hyperbitcoinization/de/), [Persian](/mempool/hyperbitcoinization/fa/), [Russian](/mempool/hyperbitcoinization/ru/), and [Spanish](/mempool/hyperbitcoinization/es/)
+Read in [Arabic](https://nakamotoinstitute.org/mempool/hyperbitcoinization/ar/), [German](https://nakamotoinstitute.org/mempool/hyperbitcoinization/de/), [Persian](https://nakamotoinstitute.org/mempool/hyperbitcoinization/fa/), [Russian](https://nakamotoinstitute.org/mempool/hyperbitcoinization/ru/), and [Spanish](https://nakamotoinstitute.org/mempool/hyperbitcoinization/es/)

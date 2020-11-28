@@ -6,7 +6,7 @@ _Daniel Krawisz_
 
 **[Krawisz.com Mirror](http://krawisz.com/bitcoin-is-the-best-unit-of-account).**
 
-In an [earlier article](https://github.com/TheDaleks/ContentDK/blob/master/Markdowns/2014-01-28-i-love-bitcoins-volatility.md), I conceded too much and suggested that Bitcoin doesn’t _need_ to be a unit of account. What I should have said is that Bitcoin is a great unit of account—much better than the dollar.
+In an [earlier article](b://399b5ccdad2937de06161dfadae45d30c5ec27da6fcd71b140740198ae03d8d4), I conceded too much and suggested that Bitcoin doesn’t _need_ to be a unit of account. What I should have said is that Bitcoin is a great unit of account—much better than the dollar.
 
 The objection that Bitcoin is not a good unit of account actually hides a circular argument that invalidates it. Bitcoin’s utility as a unit of account depends on what you already believe about Bitcoin. If you are skeptical of Bitcoin, then it makes no sense to use Bitcoin as a unit of account. If you believe that Bitcoin will become the world currency, then it makes no sense to use anything else. You want to end up with as many bitcoins as possible, so it makes sense to price any investments or ventures in Bitcoin. That’s how you know if you are winning or losing against your benchmark. Thus, to say that Bitcoin will fail because it is a bad unit of account is to say nothing more than that it will fail because it will fail.
 

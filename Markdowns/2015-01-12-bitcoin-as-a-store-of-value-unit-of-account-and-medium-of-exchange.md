@@ -1,4 +1,4 @@
-# Bitcoin As A Store Of Value, Unit Of Account And Medium Of Exchange.
+# Bitcoin As A Store Of Value, Unit Of Account, and Medium Of Exchange.
 
 _Daniel Krawisz_
 

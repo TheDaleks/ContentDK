@@ -171,7 +171,7 @@ _[Update 8/28/2013: two citations added. Last paragraph added to section on comp
 
 [^2] See Hayek, F., [_The Road to Serfdom_](13358c6689a7be98e83a75870453e83560521487f17952d0ead271f54b067b31), Routledge Classics, 2006, ["Why the Worst Get On Top"](b://e69d3131518576a8d56fd98767b79dc3e0e0c0d54b355128be5d897ef88a836d) and Hoppe, H., [_Democracy: The God That Failed_](b://b909197749fccae430fc0e607b1c10d60a3cdfab158f8d024c387091c49994b8), Transaction Publishers, 2007, ["On Time Preference, Government, and the Process of Decivilization"](b://b5d42de19344b8c68430fc2c75fbe0b115dccdc8c9ea5f23ce03ceb42910c89f) for discussions of the bad sort of competition. 
 
-[^3] Bastiat, F., _[Petition of the Manufacturers of Candles, Waxlights, Lamps, Candlelights, Street Lamps, Snuffers, Extinguishers, and the Producers of Oil, Tallow, Resin, Alcohol, and, Generally, of Everything Connected with Lighting](b://27ff03f33a6b6752ae47f8f7d680703955fc695d29c887dd93a0d1591bce855e)_, vol. 1, The Ludwig von Mises Institute, 2007. 
+[^3] updated November 2020 with new edition of Bastiat, F., _[Petition of the Manufacturers of Candles, Waxlights, Lamps, Candlelights, Street Lamps, Snuffers, Extinguishers, and the Producers of Oil, Tallow, Resin, Alcohol, and, Generally, of Everything Connected with Lighting](b://27ff03f33a6b6752ae47f8f7d680703955fc695d29c887dd93a0d1591bce855e)_, The Ludwig von Mises Institute, 2011. 
 
 [^4] O.Karame, G., Androulaki, E., Capkun, S., ["Two Bitcoins for the Price of One? Double-Spending Attacks on Fast Payments in Bitcoin"](b://15a172d92bae946ab2f608d5f955273325355d06211a1314ac2a3d885ac7096a), _Cryptology ePrint Archive_, 2012.
 

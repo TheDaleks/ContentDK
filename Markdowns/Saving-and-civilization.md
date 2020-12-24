@@ -1,5 +1,6 @@
 # Savings and Civilization
 *Daniel Krawisz, Chief Scientist, MatterPool, Inc.*
+![Escape to Civilization from Imprisonment of the Mind](b://dda70970cd4c2cfff6287846ed71bd531fe2f394544014d37450854aecb17d06) 
 ## Money For a Rainy Day
 Saving is the act of continuously storing surplus instead of spending it. Someone who doesn't save is trapped in his routine, whereas someone who does has the power to change his life. This power extends to civilization as a whole. A civilization that doesn't save can't grow or adapt to new conditions. People who save can rescue it from collapsing. Savers have the power to enact their will when other people are swept along by the course of history because they have the power to create when everyone else has run out of energy. 
 

@@ -1,17 +1,18 @@
 <div class="my-4 text-center">![why anarchy 1 leviathan](b://efe2af3960b9a10ccc67a0e6200aa6ab49a092410cd025016cdbf566cd9eaad)</div>
 
 
-# Why Anarchy?.
+# Why Anarchy?
 
 _Daniel Krawisz_
 
 **Originally published [31 December 2013 at the Mises Circle](http://themisescircle.org/blog/2013/12/31/why-anarchy/).**
 
 
-Anarchy, the Misconception
+## Anarchy, the Misconception
+
 The state is defined as an organization which claims an ultimate right over all adjudication services within a given territory, and a right to defend this monopoly by force. Statists are people who either believe in the right which the state claims or who believe in the desirability of a state. *Anarchy* means statelessness, and anarchists believe that states are undesirable and ethically unjustified.[^1]
 
-Anarchy does not mean chaos or barbarism: although anarchists comprise a very diverse group and I cannot absolutely deny that there are anarchists who support violence, anarchists overwhelmingly believe that anarchy promotes peace and cooperation and that statism does not. Most anarchists would say that Hobbes is guilty of a false premise when he describes the state of nature as “a war of all against all”.[^2] For why should these hypothetical natural folk have waited so long to provide for security to the point that they are literally all at war with one another? Surely there must have been an earlier period in which they lived far enough apart and had enough land to themselves that they had very little need to provide for security and adjudication.
+Anarchy does not mean chaos or barbarism: although anarchists comprise a very diverse group and I cannot absolutely deny that there are anarchists who support violence, anarchists overwhelmingly believe that anarchy promotes peace and cooperation and that statism does not.[^9] Most anarchists would say that Hobbes is guilty of a false premise when he describes the state of nature as “a war of all against all”.[^2] For why should these hypothetical natural folk have waited so long to provide for security to the point that they are literally all at war with one another? Surely there must have been an earlier period in which they lived far enough apart and had enough land to themselves that they had very little need to provide for security and adjudication.
 
 Hobbes’s description is less to be expected of a society in which no state had ever existed, but rather one in which an earlier state had collapsed and left a vacuum in the services that it had previously monopolized. The same false premise has been promulgated through the centuries since Hobbes first popularized it. Statists have not examined it critically and have ignored the appeals of anarchists.[^3] Yet it is only *because* of the state’s monopolization of adjudication and security that one could expect such a vacuum to be possible: if these services were provided by several organizations, none of whom claimed a territorial monopoly, then the collapse of any one would entail no vacuum of power or outbreak of violence. The remaining organizations would be poised to expand and take up the slack.
 
@@ -125,3 +126,7 @@ Unfortunately, the reality of power is more compelling to most people than the l
 
 
 [^8] For examples of what might exist one day, see Guillory, G., Tinsley, P., [*“The Role of Subscription-Based Patrol and Restitution in the Future of Liberty”*](b://9ddd9f961465d2d6c0d27969151539ce65792c1499ecf9001fe9ceb3416b8b93), vol. 1, no. 12, *Libertarian Papers*, 2009 for free-market production models for police protection and Block, W., *The Privatization of Roads and Highways*, Ludwig von Mises Institute, 2 Nov 2012 for free-market production models for roads.
+
+[^9] *Additional note, December 2020* I have seen since writing this article that what I have said is actually _not_ true. Anarchists in Bitcoin have not had a strong sense of property and contract. I was used to the anarchocapitalists in the Mises Institute. Anarchists in Bitcoin have not believed that there is anything wrong with hijacking the system and changing the rules. They have not known what a dictator really looks like and can be easily manipulated into slavery. At the same time, I have also seen that most other people are the same way. They are easily abused with fear of covid-19 and cannot see that they are being scammed or that they are victims of fraud. We cannot make a better society without a better understanding of how not to be abused, and if anarchists don't know, who does? 
+
+I have seen that there will be attempts to hijack any reasoned attempt to make society from sanctimonious people who want to be parasites. The advantage of a Republic at least is that it cannot be changed easily by idiots who have no idea what they're doing. People who can reason must find each other and stick together before they can make anything better. If they cannot tell who is reasonable, all their effors will be undermined.  

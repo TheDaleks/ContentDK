@@ -10,7 +10,7 @@ _Daniel Krawisz_
 
 ## Attacks on Bitcoin
 
-A successful attack on Bitcoin means attacking Bitcoin’s value. There might well be a bug that could be exploited to put the network out of commission temporarily, but would soon be fixed and then the network would be up and running shortly thereafter. To destroy Bitcoin permanently means to end the profit opportunities available with it, and that means either a malicious hashing attack on the network that makes mining impossible or such a malevolent policy against Bitcoin trade that even the black market abandons it. Both of these require spending resources in proportion to the profits that Bitcoin enables.
+A successful attack on Bitcoin means attacking Bitcoin’s value[^2]. There might well be a bug that could be exploited to put the network out of commission temporarily, but would soon be fixed and then the network would be up and running shortly thereafter. To destroy Bitcoin permanently means to end the profit opportunities[^3] available with it, and that means either a malicious hashing attack on the network that makes mining impossible or such a malevolent policy against Bitcoin trade that even the black market abandons it. Both of these require spending resources in proportion to the profits that Bitcoin enables.
 
 In this article, I will discuss three reasons why such an attack is unlikely to succeed: antifragility, subtlety, and attacker defection. The interplay of these three defenses makes Bitcoin into a kind of wave that rewards those who ride it and drowns those who resist it.
 
@@ -44,3 +44,8 @@ Bitcoin defends itself by being obscure, but once it has attracted someone’s a
 
 [^1] Right now Bitcoin Core does not follow the proper strategy to protect against selfish mining even at [very low hashing rates](http://arxiv.org/pdf/1311.0243v5.pdf), but the fix would be extremely easy to implement and would make selfish mining impossible up to 25% of the hash rate.
 
+## Update, December 2020
+
+[^2] I am adding this note because I have learned that people do not understand the difference between price and value. Value refers to the way that a good benefits you when you own it. As Warren Buffet says, "price is what you pay, value is what you get." Price is a shared conjecture about value. An attack on Bitcoin's price is not an attack on Bitcoin. If you manipulate the price down, you just create an opportunity for people who really understand what's going on. An attack on Bitcoin's value means destroying the way that Bitcoin benefits people. For example, small blocks are an attack on Bitcoin's value because they remove profits from the economy. 
+
+[^3] In Austrian economics, the most important function of money is to differentiate between profit and loss. Profitable activities can grow whereas activities that incur losses are unsustainable. By profit opportunities, I mean opportunities to spend bitcoins to make more bitcoins. I don't mean more dollars. That's a completely different thing. If you think profit means more dollars then you're not using Bitcoin as money. I am adding this because I have learned that people don't know what profits are either. 

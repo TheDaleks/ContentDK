@@ -34,7 +34,7 @@ You could run an ad campaign for Bitcoin that tells people it’s the stupidest 
 
 ## Bitcoin’s Image is Actually Great
 
-I think Bitcoin has a great image and that Bitcoin’s association with illicit activity should not be seen as a problem for it. I can’t think of any better way to generate interest in Bitcoin than drug-dealing, hackers, and anarchy. When was the last time you heard someone say, “Oh, Bitcoin! I’ve heard of that. That’s that new currency that’s great for remittances, right?” Never, that’s when. Drug dealing, hackers, and anarchy are great lead-ins to a conversation.
+I think Bitcoin has a great image and that Bitcoin’s association with illicit activity should not be seen as a problem for it. I can’t think of any better way to generate interest in Bitcoin than drug-dealing, hackers, and anarchy. When was the last time you heard someone say, “Oh, Bitcoin! I’ve heard of that. That’s that new currency that’s great for remittances, right?” Never, that’s when. Drug dealing, hackers, and anarchy are great lead-ins to a conversation.[^2]
 
 I remember the days when Bitcoin was so unknown that I was not even recognized as a dork for talking about it. In those days, nobody wanted to hear about Bitcoin, not even libertarians. If I tried to talk about it, it was like people didn’t even hear me. Now everyone wants to hear about it and I wouldn’t have it another way.
 
@@ -75,4 +75,8 @@ Bitcoin is stronger than all its enemies put together. It is so strong that its 
 * * *
 
 [^1] I wrote this before Mt.Gox crashed. I’m very glad it’s gone. Bitcoin still doesn’t need “help” from regulators and bankers.
+
+[^2] *December, 2020* I made a big mistake when I wrote this. Anarchists would not be so bad if they were not so stupid. However, most of the anarchists in Bitcoin have been manipulated into trying to destroy Bitcoin. What we have seen is that many anarchists, despite labeling themselves with a word that means "no rulers", are incapable of seeing a dictator for who he is. They are susceptible accepting a dictatorship from people who tell them words and phrases that they have been conditioned to respond postively to such as "free market" and "voluntary". The BTC core developers repeated _ad nausium_ that the Bitcoin system operates under a consensus, but really they manipulated everybody into allowing the system to be changed in a way that amounts to fraud. The anarchists mostly went along with it.  
+
+We have also seen that people who are interested in the black market in Bitcoin are also interested in making the entire Bitcoin system illegal. That just won't work. We cannot accept anybody in Bitcoin who doesn't want to uphold the system as a whole. Instead we have seen that most of the anarchist and black market types have no idea how to do that. 
 

@@ -1,7 +1,7 @@
 <div class="my-4 text-center">![Nosferatu](b://013dcdc3e700f5486e998af583659d275fe754af18f9ba8c9c060b3468eb88f0)</div>
 
 
-# The Terror Of Mining Pool Centralization.
+# The Terror Of Mining Pool Centralization
 
 _Daniel Krawisz_
 

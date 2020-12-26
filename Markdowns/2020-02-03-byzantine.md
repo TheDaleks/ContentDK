@@ -1,4 +1,4 @@
-# Bitcoin Offers Solutions To All Your Byzantine General Problems.
+# Bitcoin Offers Solutions To All Your Byzantine Generals Problems
 
 _Daniel Krawisz_
 
@@ -8,7 +8,7 @@ _Daniel Krawisz_
 
 Bitcoin is like an advanced alien that has come down to earth offering a service that everybody needs but no one wants because they don't understand it. Bitcoin is a solution to the Byzantine Generals Problem and it offers itself as a service. But what is that service? This article explains the nature of Byzantine fault-tolerance.
 
-# The Byzantine General Problem
+# The Byzantine Generals Problem
 
 The _Byzantine Generals Problem_ was first discussed by [Lamport, et al](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf):
 
@@ -77,15 +77,13 @@ Bitcoin’s competition does not have what Bitcoin has by definition. One by one
 
 **Notes**
 
-
-
-[^1] Leslie Lamport, Robert Shostak, and Marshall Pease, The Byzantine Generals Problem
+[^1] Leslie Lamport, Robert Shostak, and Marshall Pease, [The Byzantine Generals Problem](https://bitcoinfiles.org/t/b176f6bc84a8659edd8ebbb4b4f024c9b288d3c1eb3f5e4a2946b5118e6b586e).
 
 [^2] Oleg Andreev, "Proof that Proof-of-Work is the only solution to Byzantine Generals' problem" [https://gist.github.com/oleganza/8cc921e48f396515c6d6](https://gist.github.com/oleganza/8cc921e48f396515c6d6)
 
 [^3] Nick Szabo, Trusted Third Parties Are Security Holes
 
-[^4] Satoshi Nakamoto, Bitcoin Whitepaper 
+[^4] Satoshi Nakamoto, [Bitcoin Whitepaper](https://bitcoinfiles.org/t/08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 
 
 [^5] Wachowskis, The Matrix. 
 

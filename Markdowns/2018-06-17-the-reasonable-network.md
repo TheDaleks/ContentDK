@@ -61,3 +61,11 @@ I think that someone who were to think about the problem that I have attempted t
 - Prefer what you learn from other people you know who have passed your reasonableness test to what you learn from anyone who transmits information without interacting with you.
     
 - People you have not met but who appear to be able to pass the reasonableness test publicly should be preferred as sources of information over those who do not.
+
+## Update 2020: Proof-of-Work and Boost POW
+
+[Boost Whitepaper](b://52fb4bedc85854638af61a7f906bf8e93da847d2ddb522b1aec53cfc6a0b2023)
+
+[Introducing Boost](b://ef9eba3a74b730535a346225a09078056a045ce9a1618b6b98bba511f07c39ce)
+
+[Proof-of-Work as a Handicap](b://0c9544cf8650794d0221a0b11fec45ed19409e6deef9b3eeeea7ee956cdde7af)

@@ -1,4 +1,4 @@
-# Bitcoin's Compound Rewards.
+# Bitcoin's Compound Rewards
 
 _Daniel Krawisz_
 
@@ -22,4 +22,8 @@ By contrast, nobody benefits from holding dollars. Dollars benefit the people _c
 
 It is therefore not so difficult to see why Bitcoin should succeed, despite its disadvantages. Bitcoin has been criticized for being deflationary due to the fact that it has a fixed supply. However, Bitcoin’s fixed supply is the very reason that its holders have the incentive to stick together and fight to win. Without a fixed supply, Bitcoin would not present the same potential benefits to early adopters and would therefore have lower odds of success. Thus, regardless of whether deflation is good or bad for society, a fixed money supply is _individually_ beneficial, and it is therefore a crucial part of Bitcoin’s success.
 
-Bitcoin has also been criticized as a kind of Ponzi scheme because of the way it benefits early adopters. However, although it is true that Ponzi schemes benefit early adopters, not everything which benefits early adopters is a Ponzi scheme. The difference between Bitcoin and a Ponzi scheme is that in a Ponzi scheme, the early adopters benefit by cashing out. With Bitcoin, there is no reason ever to cash out. As long as the dollar still exists, then Bitcoin has prospects from further growth. Once Bitcoin reaches the point that it can grow no more, there will be nothing left to cash out _to_. It is better to say that bitcoin holders have already cashed out—cashed out of the dollar, that is.
+Bitcoin has also been criticized as a kind of Ponzi scheme because of the way it [benefits early adopters](https://github.com/TheDaleks/ContentDK/blob/master/Markdowns/2014-09-13-bitoins-obsene-wealth-disparity-is-a-feature.md). However, although it is true that Ponzi schemes benefit early adopters, not everything which benefits early adopters is a Ponzi scheme.[^1] The difference between Bitcoin and a Ponzi scheme is that in a Ponzi scheme, the early adopters benefit by cashing out. With Bitcoin, there is no reason ever to cash out. As long as the dollar still exists, then Bitcoin has prospects from further growth. Once Bitcoin reaches the point that it can grow no more, there will be nothing left to cash out _to_. It is better to say that bitcoin holders have already cashed out—cashed out of the dollar, that is.
+
+## Update 2020
+
+[^1] Bitcoin is not a Ponzi scheme because once you buy in, you don't need to leave because there will be an economy of people offering goods and services for those bitcoins. However, in BTC this possibility was destroyed. Thus BTC is a Ponzi scheme because the only way for early adopters to benefit is to sell out and leave their bags with later adopters. 

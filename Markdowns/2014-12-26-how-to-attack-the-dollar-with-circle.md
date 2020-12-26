@@ -1,6 +1,6 @@
 <div class="my-4 text-center">![Circle Attack](b://a9052cbd6110be14b15e175cf934d74a30c6037444fca5ee22a5be1be73d6773)</div>
 
-# How To Attack The Dollar With Circle.
+# How To Attack The Dollar With Circle
 
 _Daniel Krawisz_
 

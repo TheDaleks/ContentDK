@@ -1,7 +1,7 @@
 <div class="my-4 text-center">![yellingfer lawrence](b://7b98e21c4732e43ec4a6d07399f45b34087915cd57748a812b31bbfc1c04a8f0)</div>
 
 
-# The Fappening, Brought To You By The Information Marketplace.
+# The Fappening, Brought To You By The Information Marketplace
 
 _Daniel Krawisz_
 
@@ -23,7 +23,7 @@ The interesting thing that needs to be explained about the Fappening is why ther
 
 If this is true, then Bitcoin explains exactly why the events would have unfolded as they did. Before Bitcoin was a thing, it was difficult to mass market the photos. Consequently, the collectors traded with one another in kind at first, but later they began to use Bitcoin. However, once Bitcoin becomes a thing, mass distribution became possible. When that happened, secret trading clubs became obsolete. Once one of the group members began to leak some of his own photos, others quickly decided to jump in because they realized that their collections could soon be worthless. They did not know which of the items in their collections were also known to the original poster, and which would soon be leaked, so their incentive was to try to get money for what they had as quickly as possible.
 
-This is all pretty cruel to the celebrities who were embarrassed, but it’s a win for Bitcoin. The message to anyone paying attention is clear: you can do things with Bitcoin that cannot be done with ordinary money. I recently wrote an article called [Bitcoin’s Shroud Subtlety and Allure](b://c19046f4ae656c75d37e194438281887873f1d63eb861420925fda1e7fdd4dbc) in which I described how Bitcoin makes conspiratorial group cohesion more difficult. If the Fappening took place as I described, then this effect is right at the center. The possibility of getting bitcoins by releasing secrets caused the group to fall apart. The world has changed; it is much more difficult to expect a confidante to keep a valuable secret. Once again, however, the whole story needs to be treated with caution until more facts come out.
+This is all pretty cruel to the celebrities who were embarrassed, but it’s a win for Bitcoin. The message to anyone paying attention is clear: you can do things with Bitcoin that cannot be done with ordinary money. I recently wrote an article called [Bitcoin’s Shroud Subtlety and Allure](b://c19046f4ae656c75d37e194438281887873f1d63eb861420925fda1e7fdd4dbc) in which I described how Bitcoin makes conspiratorial group cohesion more difficult. If the Fappening took place as I described, then this effect is right at the center. The possibility of getting bitcoins by releasing secrets caused the group to fall apart. The world has changed; it is much more difficult to expect a confidant to keep a valuable secret. Once again, however, the whole story needs to be treated with caution until more facts come out.
 
 The danger of the Fappening is that most people still believe that the way to deal with every social problem is to make a government edict against it and to punish the perpetrators, but building up the kind of state power necessary (though not sufficient) to counter this sort of thing inherently means restricting speech. They will not actually succeed, but it would be a lot nicer if they did not even try.
 

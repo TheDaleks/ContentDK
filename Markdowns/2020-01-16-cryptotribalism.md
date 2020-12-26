@@ -1,4 +1,4 @@
-# Cryptotribalism.
+# Cryptotribalism
 
 _Daniel Krawisz_
 

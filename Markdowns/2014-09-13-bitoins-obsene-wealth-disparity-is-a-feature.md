@@ -1,7 +1,7 @@
 <div class="my-4 text-center">![Wealthy Mofo](b://ffabe339b147db097bfe17767cb216397e2266abd6e1ecc52fdff79b2b9a0ce6)</div>
 
 
-# Bitcoin's Obscene Wealth Disparity Is A Feature.
+# Bitcoin's Obscene Wealth Disparity Is A Feature
 
 _Daniel Krawisz_
 

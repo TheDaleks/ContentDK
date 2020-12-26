@@ -10,7 +10,7 @@ _Daniel Krawisz_
 
 
 
-Working in the Bitcoin world is like working for a drug addict with bipolar disorder. There are brief periods of astonishing, irrational exuberance followed by long periods of deep existential dread over basically nothing. During the good times, nothing can damage Bitcoin’s spirit. But for most of the time, bitcoiners are a bunch of namby-pamby worry-warts who wet their pants over everything.
+Working in the Bitcoin world is like working with a drug addict with bipolar disorder.[^1] There are brief periods of astonishing, irrational exuberance followed by long periods of deep existential dread over basically nothing. During the good times, nothing can damage Bitcoin’s spirit. But for most of the time, bitcoiners are a bunch of namby-pamby worry-warts who wet their pants over everything.
 
 The Bitcoin world is neurotic in the way that fear dominates it. If there is not enough merchant adoption to satisfy them, they worry about [hoarding](https://github.com/TheDaleks/ContentDK/blob/master/Markdowns/2014-02-14-im-hoarding-bitcoins-and-no-you-cant-have-any.md) and a liquidity crunch. If there is too much, they worry about [downward selling pressure](http://bitcoinist.net/the-merchant-adoptocalypse/). If Bitcoin adoption happens too quickly, they complain about volatility and bubbles, and if it happens too slowly, they complain that no one cares about Bitcoin. If the financial world ignores Bitcoin, people worry that people are not interested, and if it pays attention, people worry about regulation.
 

@@ -1,7 +1,7 @@
 <div class="my-4 text-center">![the 4 horsemen](b://9437f799b30ae231f0ad470d3c26d6b6f46ac5f6c51081c4fa146087a1c07d13)</div>
 
 
-# The Merchant Adoptocalypse.
+# The Merchant Adoptocalypse
 
 _Daniel Krawisz_
 

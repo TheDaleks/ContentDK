@@ -1,6 +1,3 @@
-<div class="my-4 text-center">![yellingfer lawrence](b://7b98e21c4732e43ec4a6d07399f45b34087915cd57748a812b31bbfc1c04a8f0)</div>
-
-
 # The Fappening, Brought To You By The Information Marketplace
 
 _Daniel Krawisz_
@@ -9,6 +6,7 @@ _Daniel Krawisz_
 
 **[Nakamoto Institute mirror](https://nakamotoinstitute.org/mempool/the-fappening/).**
 
+<div class="my-4 text-center">![yellingfer lawrence](b://7b98e21c4732e43ec4a6d07399f45b34087915cd57748a812b31bbfc1c04a8f0)</div>
 
 Combined with the emerging information markets, crypto anarchy will create a liquid market for any and all material which can be put into words and pictures. —Timothy C. May, “The Crypto Anarchist Manifesto”
 

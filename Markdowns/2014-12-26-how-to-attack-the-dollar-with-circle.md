@@ -1,10 +1,10 @@
-<div class="my-4 text-center">![Circle Attack](b://a9052cbd6110be14b15e175cf934d74a30c6037444fca5ee22a5be1be73d6773)</div>
-
 # How To Attack The Dollar With Circle
 
 _Daniel Krawisz_
 
 **Originally published [26 Dec 2014 at Bitcoinist.com](https://bitcoinist.com/attack-dollar-circle/).**
+
+<div class="my-4 text-center">![Circle Attack](b://a9052cbd6110be14b15e175cf934d74a30c6037444fca5ee22a5be1be73d6773)</div>
 
 **I smell a mania coming on. I have come to this conclusion not only from careful and rigorous technical analysis of the Bitcoin price chart, but from consulting the alignment of the planets, the I Ching, and the settlement of my tea leaves. I have broken turtle shells, followed the Jyotisha charts, asked my magic 8-ball, and practiced the arts of augury and haruspicy to test the accuracy of my suspicion. So yes, there is definitely going to be another mania eventually.**
 

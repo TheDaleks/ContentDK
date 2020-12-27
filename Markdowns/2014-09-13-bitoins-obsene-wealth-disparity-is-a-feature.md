@@ -1,11 +1,10 @@
-<div class="my-4 text-center">![Wealthy Mofo](b://ffabe339b147db097bfe17767cb216397e2266abd6e1ecc52fdff79b2b9a0ce6)</div>
-
-
 # Bitcoin's Obscene Wealth Disparity Is A Feature
 
 _Daniel Krawisz_
 
 **Originally published [13 Sept 2014 at Bitcoinist.com](https://bitcoinist.com/bitcoins-obscene-wealth-disparity-is-a-feature/).**
+
+<div class="my-4 text-center">![Wealthy Mofo](b://ffabe339b147db097bfe17767cb216397e2266abd6e1ecc52fdff79b2b9a0ce6)</div>
 
 
 Bitcoin promises extraordinary rewards to early adopters, should it go mainstream. The rewards are potentially far greater, for the earliest adopters, than could be achieved by starting a successful business. Nakamoto himself could end up by far richest person who has ever lived, and many others will end up in fabulous luxury just for mining on their laptops or spending miniscule amounts of money in 2009.

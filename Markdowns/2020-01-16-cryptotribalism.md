@@ -63,10 +63,10 @@ Profit-seeking is finding reality.[^5] When there is more than one money, there 
 
 [^1] See [Untold Stories with Charlie Shrem, Shapeshift Founder Erik Voorhees on Bitcoin Tribalism](https://cms.megaphone.fm/channel/untoldstories?selected=BWG3700126571). Both Shem and Voorhees agree that tribalism is very evident in the crypto space. They do not understand why tribalism is inevitable.
 
-[^2] See Ludwig von Mises, [Economic Calculation in the Socialist Commonwealth](https://mises.org/library/economic-calculation-socialist-commonwealth).
+[^2] See Ludwig von Mises, [Economic Calculation in the Socialist Commonwealth](b://9d7be613e2305ba16b69648b3d5792a07c253cad2316f39a56c6c77842e68d61).
 
-[^3] See Murray Rothbard, [Man, Economy, and State, Chapter 11](https://mises.org/library/man-economy-and-state-power-and-market/html/c/271).
+[^3] See Murray Rothbard, [Man, Economy, and State, Chapter 11](b://f0909d61d9a74d056a67a2cc35eba63d49a5390a636cb333ce9bed23b4eaf4c6).
 
-[^4] See Daniel Krawisz, [The Problem with Altcoins](https://nakamotostudies.org/literature/the-problem-with-altcoins/).
+[^4] See Daniel Krawisz, [The Problem with Altcoins](b://6952355bebb5732d68951ef43e2dc8944ca240bbbc01a8587736d1cccfc6f508).
 
-[^5] See Ayn Rand, Atlas Shrugged.
+[^5] See Ayn Rand, [Atlas Shrugged](b://73676e72ded5b5cfc67c2142cc016cdaa50b29b214564e2b21e133040370e787).

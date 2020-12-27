@@ -60,5 +60,5 @@ The Socratic method is very effective with cult members because it requires them
 
 There is a bit of cult member in all of us. In order to draw people out, you must be someone who is a good contact, but who assesses other people for their degree of cultiness, and is indifferent to other people in proportion to their degree of cultiness. You must be preferable to the cult but reserve your friendship only for non-cult members. If you cannot afford to behave this way, then you may need to reassess your own portfolio.
 
-[^1]: Proverb; [bastardized Voltaire quote](http://atheistnexus.org/profiles/blogs/absurdities-and-atrocities-the-full-quote)
+[^1]: Proverb; [bastardized Voltaire quote](https://www.goodreads.com/work/quotes/304269-miracles-and-idolatry-penguin-great-ideas)
 [^2]: Proverb; [bastardized Aristotle quote](http://publicnoises.blogspot.com/2009/02/aristotle-and-accuracy.html)

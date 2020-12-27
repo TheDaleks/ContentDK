@@ -1,11 +1,10 @@
-<div class="my-4 text-center">![the 4 horsemen](b://9437f799b30ae231f0ad470d3c26d6b6f46ac5f6c51081c4fa146087a1c07d13)</div>
-
-
 # The Merchant Adoptocalypse
 
 _Daniel Krawisz_
 
 **Originally published [30 Aug 2014 at Bitcoinist.com](https://bitcoinist.com/the-merchant-adoptocalypse/).**
+
+<div class="my-4 text-center">![the 4 horsemen](b://9437f799b30ae231f0ad470d3c26d6b6f46ac5f6c51081c4fa146087a1c07d13)</div>
 
 Most merchants who adopt Bitcoin do not keep the bitcoins they earn but instead sell them for dollars on exchanges immediately using payment processing services such as BitPay. Consequently, the merchant creates selling pressure at the exchange, which drives the price down. So far this effect has been relatively mild, but there is a real possibility that the “merchant adoption” effect could spiral out of control if the selling pressure from new merchants is so great as to induce other people to dump their bitcoins. Once this happens, the price of Bitcoin could drop to zero in minutes. This is the merchant adoptocalypse, and it’s probably happening right now, and your entire Bitcoin investment is already worthless.
 

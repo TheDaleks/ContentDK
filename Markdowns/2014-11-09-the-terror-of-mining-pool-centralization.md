@@ -1,11 +1,10 @@
-<div class="my-4 text-center">![Nosferatu](b://013dcdc3e700f5486e998af583659d275fe754af18f9ba8c9c060b3468eb88f0)</div>
-
-
 # The Terror Of Mining Pool Centralization
 
 _Daniel Krawisz_
 
 **Originally published [09 Nov 2014 at Bitcoinist.com](https://bitcoinist.com/the-centralization-of-mining-pools/).**
+
+<div class="my-4 text-center">![Nosferatu](b://013dcdc3e700f5486e998af583659d275fe754af18f9ba8c9c060b3468eb88f0)</div>
 
 
 One of the many issues that has a lot of Bitcoiners periodically soiling their pants in fear is that of mining pool centralization. Earlier this year was a [crisis](https://bitcoinmagazine.com/articles/mining-pool-centralization-crisis-levels-1389302892) with GHash.io and in the year before was one with BTCGuild (which has announced it is going offline soon. How the mighty have fallen). Naturally, nothing came of these supposed crises other than all manner of exhibitionist hang-wringing, such as when Peter Todd [told everyone](https://www.reddit.com/r/Bitcoin/comments/281ftd/why_i_just_sold_50_of_my_bitcoins_ghashio/) he had sold half his bitcoins due to the threat.

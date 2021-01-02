@@ -1,11 +1,10 @@
-<div class="my-4 text-center">![Dumb Baby](b://6237e18a8c633c9a7282e07d3c57158d100a67ead14057b97b15d26c585e089d)</div>
-
 # Ethereum Is Doomed.
 
 _Daniel Krawisz_
 
 **Originally published [20 June 2016 at Nakamoto Institute.org](https://nakamotoinstitute.org/mempool/ethereum-is-doomed/).**
 
+<div class="my-4 text-center">![Dumb Baby](b://6237e18a8c633c9a7282e07d3c57158d100a67ead14057b97b15d26c585e089d)</div>
 
 As [some have noted](https://twitter.com/jgarzik/status/736945669978525696), I did not understand Ethereum very well when I wrote my [previous article](https://nakamotoinstitute.org/mempool/the-coming-demise-of-altcoins/) that touched on it. I dismissed Ethereum as just another altcoin with extra bells and whistles. However, there was a huge opportunity hiding in there, open to anyone who understood the system well enough. I wish I had examined it further and much more deeply because right now someone who did that, [someone whom I now admire](https://pastebin.com/CcGUBgDG), is sitting on three million ethers. *Update*: the note is [probably not](https://news.ycombinator.com/item?id=11927891) from the real hacker. I still agree with its argument.
 

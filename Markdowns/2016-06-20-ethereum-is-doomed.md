@@ -6,7 +6,7 @@ _Daniel Krawisz_
 
 <div class="my-4 text-center">![Dumb Baby](b://6237e18a8c633c9a7282e07d3c57158d100a67ead14057b97b15d26c585e089d)</div>
 
-As [some have noted](https://twitter.com/jgarzik/status/736945669978525696), I did not understand Ethereum very well when I wrote my [previous article](https://nakamotoinstitute.org/mempool/the-coming-demise-of-altcoins/) that touched on it. I dismissed Ethereum as just another altcoin with extra bells and whistles. However, there was a huge opportunity hiding in there, open to anyone who understood the system well enough. I wish I had examined it further and much more deeply because right now someone who did that, [someone whom I now admire](https://pastebin.com/CcGUBgDG), is sitting on three million ethers. *Update*: the note is [probably not](https://news.ycombinator.com/item?id=11927891) from the real hacker. I still agree with its argument.
+As [some have noted](https://twitter.com/jgarzik/status/736945669978525696), I did not understand Ethereum very well when I wrote my [previous article](b://0b772132c76f2ea139bd29272e083cf6b7f2089f589d9de06f1a396fa4277e9a) that touched on it. I dismissed Ethereum as just another altcoin with extra bells and whistles. However, there was a huge opportunity hiding in there, open to anyone who understood the system well enough. I wish I had examined it further and much more deeply because right now someone who did that, [someone whom I now admire](https://pastebin.com/CcGUBgDG), is sitting on three million ethers. *Update*: the note is [probably not](https://news.ycombinator.com/item?id=11927891) from the real hacker. I still agree with its argument.
 
 This person has developed a new investment strategy for the age of smart contracts: You simply look for a way to exploit the smart contract which causes it to send cash into your account, and then invest in it so as to control it in a way that [extracts the money](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/).
 
@@ -59,8 +59,7 @@ I've provided a scenario in which the result is to extract funds, but the issue 
 
 > If <code>x</code> is a contract address, its code (more specifically: its fallback function, if present) will be executed together with the <code>send</code> call (this is a limitation of the EVM and cannot be prevented).
 
-This means the same issue exists in [Serpent](https://mc2-umd.github.io/ethereumlab/docs/serpent_tutorial.pdf) another Ethereum scripting language, and every other one they might come up
-with.
+This means the same issue exists in [Serpent](https://mc2-umd.github.io/ethereumlab/docs/serpent_tutorial.pdf) another Ethereum scripting language, and every other one they might come up with.
 
 Imagine a bright eyed and bushy-tailed new programmer writing his first big contract: "Now let’s see here…” he thinks. “I’m using the send function. That means that I have to search for blocks of code that I’ve written which an attacker could attempt to run in an infinite loop until there is no money left. First of all, which possible blocks of code could be made to go in an infinite loop? It could be any part that calls send, intermixed with anything that the attacker wants to call in between… hmmm… " You have to think this every time you send anyone money. It is totally ridiculous to expect anyone to do this reliably. The only difference is that a novice would fail every single time he tried to write a contract, whereas an expert wouldn't even bother trying.
 
@@ -81,7 +80,7 @@ Sirer](http://hackingdistributed.com/2016/06/17/thoughts-on-the-dao-hack/#what-s
 
 <div class="my-4 text-center">![Artwork by [Big λ](https://twitter.com/BigLambda/status/891148584334245888)](b://6237e18a8c633c9a7282e07d3c57158d100a67ead14057b97b15d26c585e089d)</div>
 
-[^1] If you don’t believe me read this analysis of the hack [here](https://hackingdistributed.com/2016/06/16/scanning-live-ethereum-contracts-for-bugs/):
+[^1] If you don’t believe me, read this analysis of the hack [here](https://hackingdistributed.com/2016/06/16/scanning-live-ethereum-contracts-for-bugs/):
 
 > To have a contract send Ether to some other address, the most straightforward way is to use the send keyword. This acts like a method that’s defined for every “address” object.
 

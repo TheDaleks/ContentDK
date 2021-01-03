@@ -20,7 +20,7 @@ If they can get enough to eat, crocodiles never stop growing. This just means th
 
 Egad.
 
-What does all this have to do with libertarianism? Check out the last page of this [National Geographic article] (https://www.nationalgeographic.com/adventure/). [Update January 2021: link no longer works but the article has been found at this new link] (https://tourismobserver.blogspot.com/2015/11/gustave-killer-have-you-seen-this.html). Barr, a scientist on Gustave’s trail, makes the connection:
+What does all this have to do with libertarianism? Check out the last page of this [National Geographic article](https://www.nationalgeographic.com/adventure/) [Update January 2021: link no longer works but the article has been found at this new link](https://tourismobserver.blogspot.com/2015/11/gustave-killer-have-you-seen-this.html). Barr, a scientist on Gustave’s trail, makes the connection:
 
 
 

@@ -1,4 +1,4 @@
-# Ethereum Is Doomed.
+# Ethereum Is Doomed
 
 _Daniel Krawisz_
 

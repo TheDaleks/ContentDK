@@ -1,10 +1,10 @@
-<div class="my-4 text-center">![MLP 0](b://b34cc438d80996092974651087c8d44ea0d136ecafe606f7bfa8045f964f68b9)</div>
-
 # The Glorious Triumph Of Anarchy In My Little Pony: Friendship Is Magic.
 
 _Daniel Krawisz_
 
 **Originally published [24 March 2013 At The Mises Circle.org](http://themisescircle.org/blog/2013/03/24/the-glorious-triumph-of-anarchy-in-my-little-pony-friendship-is-magic/).**
+
+<div class="my-4 text-center">![MLP 0](b://b34cc438d80996092974651087c8d44ea0d136ecafe606f7bfa8045f964f68b9)</div>
 
 
 ## Introduction
@@ -19,7 +19,7 @@ Every episode of *Friendship is Magic* is available on YouTube, so if you wish t
 
 ## The Three Tribes
 
-I have [remarked before](http://analysisismagic.thingobjectentity.net/2012/12/03/romantic-domination-and-submission-in-my-little-pony-friendship-is-magic/) on how *Friendship is Magic* uses parallel situations to depict the consequences of Different choices, almost like a controlled experiment. This leaves little ambiguity as to the message without appearing heavy—handed or simplistic. The characters are quite archetypal but so easy to identify with and so effectively used that their actions do not seem forced. It is as if the episode says, “I’m not telling you what’s right. Just look at the evidence.”
+I have [remarked before](https://web.archive.org/web/20140816102933/http://analysisismagic.thingobjectentity.net/2012/12/03/romantic-domination-and-submission-in-my-little-pony-friendship-is-magic/) on how *Friendship is Magic* uses parallel situations to depict the consequences of different choices, almost like a controlled experiment. This leaves little ambiguity as to the message without appearing heavy—handed or simplistic. The characters are quite archetypal but so easy to identify with and so effectively used that their actions do not seem forced. It is as if the episode says, “I’m not telling you what’s right. Just look at the evidence.”
 
 “Hearth’s Warming Eve” takes parallelism to an extreme. The episode is presented as a holiday pageant performed by the main characters of the show for a holiday called Hearth’s Warming Eve. Each of the main characters plays a historical figure in this pageant and represents a different race and class. Rainbow dash plays Commander Hurricane with Fluttershy as her timid Private Pansy. They are dressed in uniforms reminiscent of Romans soldiers and conquistadors. Rarity plays the elegant Princess Platinum in sumptuous royal robes, with the intelligent Twilight Sparkle as a peasant Clover the Clever. Pinkie Pie as the deranged Chancellor Puddinghead, with the hard-working, sensible Applejack as the lowly secretary Smart Cookie.
 

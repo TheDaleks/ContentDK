@@ -1,11 +1,10 @@
-<div class="my-4 text-center">![Minecraft](b://13eef90b04cab4f21c4706fadecfdf397f60b9b50ca7839066d2d46c1c20b30e)</div>
-
-
-# Bitcoin Is Not Inflationary.
+# Bitcoin Is Not Inflationary
 
 _Daniel Krawisz_
 
 **Originally published [28 Sept 2014 at Bitcoinist.com](https://bitcoinist.com/bitcoin-is-not-inflationary/).**
+
+<div class="my-4 text-center">![Minecraft](b://13eef90b04cab4f21c4706fadecfdf397f60b9b50ca7839066d2d46c1c20b30e)</div>
 
 This year, in 2014, the number of owned bitcoins will increase by somewhere around 11%, or around 1.5 million coins. The numbers cannot be calculated exactly because we don’t know how many bitcoins have been lost and we don’t know the exact block generation time, although it has consistently been slightly under ten minutes this year. But say it is 11%. Quite a high inflation rate, huh?
 

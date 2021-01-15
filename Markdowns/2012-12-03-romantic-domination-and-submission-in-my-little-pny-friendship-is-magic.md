@@ -3,7 +3,7 @@
 
 _Daniel Krawisz_
 
-**Originally published [03 December 2012 At WaybackMachine](https://web.archive.org/web/20140816102933/http://analysisismagic.thingobjectentity.net/2012/12/03/romantic-domination-and-submission-in-my-little-pony-friendship-is-magic/).**
+**Originally published [03 December 2012 At Analysis is Magic](https://web.archive.org/web/20140816102933/http://analysisismagic.thingobjectentity.net/2012/12/03/romantic-domination-and-submission-in-my-little-pony-friendship-is-magic/).**
 
 
 ## *Introduction*
@@ -42,7 +42,7 @@ Regarding some of my other interpretations of _Friendship is Magic_, some friend
 
 [Photo Finish](b://ae8abc5e71be14f82431e57acab01406bffac1580eac395ef3002e5c3d68b2c9)
 
-Finally, Photo Finish arrives with extreme panache. She seems to be a parody of [Anna Wintour](https://web.archive.org/web/20140821001735/http://en.wikipedia.org/wiki/Anna_Wintour) and [Edna Mode](https://web.archive.org/web/20140707133043/http://pixar.wikia.com/Edna_Mode) (who was herself a parody of [Edith Head](https://web.archive.org/web/20140904025031/http://en.wikipedia.org/wiki/Edith_Head) ). She travels with an entourage of servile ponies who never speak and who cater to her every whim. “Remember, attitude and pizazz!” says Rarity before Photo Finish starts shooting.
+Finally, Photo Finish arrives with extreme panache. She seems to be a parody of [Anna Wintour](https://en.wikipedia.org/wiki/Anna_Wintour) and [Edna Mode](https://pixar.fandom.com/wiki/Edna_Mode) (who was herself a parody of [Edith Head](https://en.wikipedia.org/wiki/Edith_Head). She travels with an entourage of servile ponies who never speak and who cater to her every whim. “Remember, attitude and pizazz!” says Rarity before Photo Finish starts shooting.
 
 What follows is a scene so kinky that it is destined to be [fetish fuel](https://web.archive.org/web/20141028163341/http://fetishfuel.wikia.com/wiki/Fetish_Fuel_Wiki) for a generation of children. Rarity, stands behind Photo Finish and silently directs Fluttershy by assuming strong, unabashed, confident poses with big smiles. The sort of poses that perfectly exemplify Rarity’s personality.
 

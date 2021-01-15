@@ -5,9 +5,9 @@ _Daniel Krawisz_
 
 **Originally published [13 March 2012 At WaybackMachine](https://web.archive.org/web/20120920005823/http://analysisismagic.thingobjectentity.net/2012/03/13/objectivism-is-magic/).**
 
-[MLP1](b://7c0027853fd2acb0c9433b13084efe388a5ca97dddab520a957f61406b21bd30)
+[MLP1](b://e3ea07f32b9825efeaababe25f85c37493b34dd503938b3d7682eabdaf0f81ad)
 
-This article is about one of my favorite episodes of _Friendship is Magic_, an episode called which is called _Suited for Success_, and which, as I will show, is a brilliant objectivist parable.
+This article is about one of my favorite episodes of _Friendship is Magic_, an episode called _Suited for Success_, and which, as I will show, is a brilliant objectivist parable.
 
 ## *Story*
 
@@ -19,7 +19,7 @@ Rarity then states her intention to make gowns for the entire clique and to give
 
 “Oh Applejack! You make it sound like it’s going to be hard!” Rarity laughs.
 
-A musical montage follows. The song is [---Art of the Dress---](https://web.archive.org/web/20121017171838/https://www.youtube.com/watch?v=fSbXGsysAAk&feature=related) based on [---Putting It Together---](https://web.archive.org/web/20130216181542/http://www.youtube.com/watch?v=-836TtoF_5I) by Stephen Sondheim. The gowns Rarity designs during this period are intriguing and clearly very carefully designed by show’s artists. They are not just like a human garment deformed to fit the body of a pony, but look like something a sapient pony really _would_ wear.
+A musical montage follows. The song is [---Art of the Dress---](https://www.youtube.com/watch?v=fSbXGsysAAk&feature=related) based on [---Putting It Together---](https://www.youtube.com/watch?v=-836TtoF_5I) by Stephen Sondheim. The gowns Rarity designs during this period are intriguing and clearly very carefully designed by show’s artists. They are not just like a human garment deformed to fit the body of a pony, but look like something a sapient pony really _would_ wear.
 
 They are not so much gowns as capes which drape across their hindquarters, designed to be looked at from the side rather than the front. They are extremely revealing but of course the ponies normally go around nude anyway. They each have an accompanying hat or headdress. I was impressed by the way they provide depth to the world of Equestria and it is unfortunate that artists on the show did not put as much thought into the rest of the garments in the series.
 
@@ -29,7 +29,7 @@ The way that each of the ponies reacts to her gown is the most brilliant part of
 
 Fluttershy, normally so reserved, so softspoken, shows us here that there is much happening below her surface. She gives us a glimpse of an observant, detail-oriented mind trained to detect an anomaly at a glance. Not only does she develop in a surprising way here, but if course it is perfectly within her ability to care for hundreds of pets at once so it ends up being very consistent with her character.
 
-[MLP2](b://7c0027853fd2acb0c9433b13084efe388a5ca97dddab520a957f61406b21bd30)
+[MLP2](b://91c62e91bbc5f617e27a3927ba0f914e1d90cafa78e50f9934c123d201aa8a18)
 
 
 As to what she said, _pret-a-porter_ refers to a mass-produced garment and _haut couture_ refers to a unique hand-made garment, so Fluttershy is complaining that her gown is not of the quality she would expect from a true craftsman.

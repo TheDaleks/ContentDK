@@ -3,9 +3,9 @@
 
 _Daniel Krawisz_
 
-**Originally published [22 May 2012 At WaybackMachine](https://web.archive.org/web/20160526150141/http://analysisismagic.thingobjectentity.net/2012/05/22/the-most-awesomely-libertarian-episode-of-my-little-pony-friendship-is-magic).**
+**Originally published [22 May 2012 At Analysis is Magic](https://web.archive.org/web/20160526150141/http://analysisismagic.thingobjectentity.net/2012/05/22/the-most-awesomely-libertarian-episode-of-my-little-pony-friendship-is-magic).**
 
-[MLP1](b://7c0027853fd2acb0c9433b13084efe388a5ca97dddab520a957f61406b21bd30)
+[Over A Barrell](b://7c0027853fd2acb0c9433b13084efe388a5ca97dddab520a957f61406b21bd30)
 
 ## *Introduction*
 
@@ -37,7 +37,7 @@ The young buffalo, however, manages to evade her by distracting her so that she 
 
 ## *Two Opposing Claims*
 
-Upon reaching Appleloosa without Pinkie Pie and Rainbow Dash, a pony named Braeburn shows off the town without giving the remaining ponies a chance to explain anything. The economy of Appleloosa, it turns out, is driven by apples and bizarre puns. This is a good place for a digression on Equestrian sociology. One of the interesting things about _Friendship is Magic_ is its inversion of the [Smurfette Principle](https://web.archive.org/web/20160602065937/http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSmurfettePrinciple). Spike is the token male main character and even the minor characters are mostly female. Equestria is matriarchal society, and this is probably a good thing because none of the male ponies is given a remotely edifying character. They are all fools, like [Snips](https://web.archive.org/web/20160417210801/http://mlp.wikia.com/wiki/Snips) and [Snails](https://web.archive.org/web/20160417210404/http://mlp.wikia.com/wiki/Snails), bullies like [Prince Blueblood](https://web.archive.org/web/20160417210118/http://mlp.wikia.com/wiki/Prince_Blueblood), shysters like the [Flim-Flam brothers](https://web.archive.org/web/20160321113746/http://mlp.wikia.com/wiki/Flim_Flam_Brothers), or lovable retards like [Big Mac](https://web.archive.org/web/20150924182508/http://mlp.wikia.com/wiki/Big_Mac).
+Upon reaching Appleloosa without Pinkie Pie and Rainbow Dash, a pony named Braeburn shows off the town without giving the remaining ponies a chance to explain anything. The economy of Appleloosa, it turns out, is driven by apples and bizarre puns. This is a good place for a digression on Equestrian sociology. One of the interesting things about _Friendship is Magic_ is its inversion of the [Smurfette Principle](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheSmurfettePrinciple). Spike is the token male main character and even the minor characters are mostly female. Equestria is matriarchal society, and this is probably a good thing because none of the male ponies is given a remotely edifying character. They are all fools, like [Snips](https://mlp.fandom.com/wiki/Snips) and [Snails](https://mlp.fandom.com/wiki/Snails), bullies like [Prince Blueblood](https://mlp.fandom.com/wiki/Prince_Blueblood), shysters like the [Flim-Flam brothers](https://mlp.fandom.com/wiki/Flim_and_Flam), or lovable retards like [Big Mac](https://mlp.fandom.com/wiki/Big_McIntosh).
 
 Appleloosa is the first male—dominated place we have yet seen in _Friendship is Magic_. The second we’ll see very shortly, for when we arrive at the buffalo camp, we don’t even see any females. Could this be an attempt to make a statement about the relationship between gender and war? Could the writers simply _not imagine_ two female—dominated societies in conflict? I don’t know. Anyway, Braeburn explains that the buffalo don’t like the settler ponies’ orchard and have been demanding it be chopped down, but he doesn’t understand why.
 

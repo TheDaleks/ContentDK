@@ -3,7 +3,7 @@
 
 _Daniel Krawisz_
 
-**Originally published [13 March 2012 At WaybackMachine](https://web.archive.org/web/20120920005823/http://analysisismagic.thingobjectentity.net/2012/03/13/objectivism-is-magic/).**
+**Originally published at [Analysisis Magic](https://web.archive.org/web/20120920005823/http://analysisismagic.thingobjectentity.net/2012/03/13/objectivism-is-magic/).**
 
 [MLP1](b://e3ea07f32b9825efeaababe25f85c37493b34dd503938b3d7682eabdaf0f81ad)
 
@@ -60,11 +60,11 @@ The most logical explanation here is that the show has gone meta, and the song i
 
 Finally comes the fashion show. This next part of the episode is too horrible to watch. The ponies walk out, dreadfully attired, on stage for the fashion show, and only there, in front of many watchful ponies, do they apprehend their own tackiness. And Hoity Toity a fashion critic who came all the way from Canterlot, croons about how absurd they all look.
 
-In the end, the other ponies apologize to Rarity by making the gown she had designed for herself—which she had neglected by putting so much work into theirs—precisely according to her specifications, and [---her reaction is priceless---](https://web.archive.org/web/20140308194245/http://www.youtube.com/watch?v=x0IjmWfUizU). Finally, Hoity Toity returns to Ponyville for some reason and they manage to get a do—over with him, whereupon he is impressed with Rarity’s original designs. This part of the show did not seem real to me. One possible interpretation of the ending is that Rarity died of embarrassment earlier in the episode and she is in heaven, or perhaps she went mad and this is her hallucination.
+In the end, the other ponies apologize to Rarity by making the gown she had designed for herself—which she had neglected by putting so much work into theirs—precisely according to her specifications, and [---her reaction is priceless---](https://www.youtube.com/watch?v=x0IjmWfUizU). Finally, Hoity Toity returns to Ponyville for some reason and they manage to get a do—over with him, whereupon he is impressed with Rarity’s original designs. This part of the show did not seem real to me. One possible interpretation of the ending is that Rarity died of embarrassment earlier in the episode and she is in heaven, or perhaps she went mad and this is her hallucination.
 
 ##*Parallels*
 
-[MLP3](b://7c0027853fd2acb0c9433b13084efe388a5ca97dddab520a957f61406b21bd30)
+[MLP3](b://db01cb87a62234c1a57953f36513813fef907be37b6a2e647d47711fa5c6966e)
 
 There are striking parallels between _Suited for Success_ and Ayn Rand’s _The Fountainhead_. Both Rarity and Howard Roark, the protagonist of _The Fountainhead_ support themselves by their creativity, Rarity as a fashon designer and Roark as an architect.
 

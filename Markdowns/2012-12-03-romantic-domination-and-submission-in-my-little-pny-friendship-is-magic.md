@@ -8,7 +8,7 @@ _Daniel Krawisz_
 
 ## *Introduction*
 
-Rarity And Fluttershy b://b17ee486f65b5a11a928c21e361fed6245e695f760392251815fa40852625b94
+\n\n![Rarity And Fluttershy](b://b17ee486f65b5a11a928c21e361fed6245e695f760392251815fa40852625b94 \"Rarity And Fluttershy\")\n
 
 This article is about one of my favorite episode of _Friendship is Magic_, which is called _Green Isn’t Your Color_. This is an episode about sadomasochistic sexual experimentation, and throughout the topic is handled in the most nuanced, compelling, and enlightened manner imaginable.
 

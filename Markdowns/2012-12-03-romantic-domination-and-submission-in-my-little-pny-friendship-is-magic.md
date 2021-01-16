@@ -28,7 +28,7 @@ The next scene is where the action begins. Rarity is preparing Fluttershy in a r
 
 Spike then approaches, crawling on all fours, with *pins sticking out of his back*. Rarity is actually using a sentient being as a pincushion! She takes some of the pins with her magic and uses them on the gown. She is entirely comfortable in this role and seems to find it entirely to be expected that Spike should not only serve her but grovel at her feet and be punctured by pins for her.
 
-Spike Is A Pincushion (b://192e5da7d4d54b62adaf815727e4b7c2e40403656f74d7a64da93026aeaef9f5)
+[Spike Is A Pincushion](b://192e5da7d4d54b62adaf815727e4b7c2e40403656f74d7a64da93026aeaef9f5)
 
 “Doesn’t that hurt?” asks Twilight.
 
@@ -40,17 +40,17 @@ Regarding some of my other interpretations of _Friendship is Magic_, some friend
 
 ## *Photo Finish And Fluttershy*
 
-Photo Finish (b://ae8abc5e71be14f82431e57acab01406bffac1580eac395ef3002e5c3d68b2c9)
+[Photo Finish](b://ae8abc5e71be14f82431e57acab01406bffac1580eac395ef3002e5c3d68b2c9)
 
 Finally, Photo Finish arrives with extreme panache. She seems to be a parody of [Anna Wintour](https://en.wikipedia.org/wiki/Anna_Wintour) and [Edna Mode](https://pixar.fandom.com/wiki/Edna_Mode) (who was herself a parody of [Edith Head](https://en.wikipedia.org/wiki/Edith_Head). She travels with an entourage of servile ponies who never speak and who cater to her every whim. “Remember, attitude and pizazz!” says Rarity before Photo Finish starts shooting.
 
 What follows is a scene so kinky that it is destined to be [fetish fuel](https://web.archive.org/web/20141028163341/http://fetishfuel.wikia.com/wiki/Fetish_Fuel_Wiki) for a generation of children. Rarity, stands behind Photo Finish and silently directs Fluttershy by assuming strong, unabashed, confident poses with big smiles. The sort of poses that perfectly exemplify Rarity’s personality.
 
-This Is Rarity (b://49880ec529a798fdc3346fb38ff8c934257582700ed8849594b35881bc757829) 
+[This Is Rarity](b://49880ec529a798fdc3346fb38ff8c934257582700ed8849594b35881bc757829) 
 
 Fluttershy then at temps to mimic these poses without conviction. “No!” Photo Finish invariably responds. Fluttershy reacts by putting her head down, bearing the side of her neck, leaning her body downward, and other positions that depict shame and fear.
 
-Poor Fluttershy (b://f4a28a84637cf21bdb50c5c883070a789ff96ea3cf0e0a56d5ae87d1262078b6)
+[Poor Fluttershy](b://f4a28a84637cf21bdb50c5c883070a789ff96ea3cf0e0a56d5ae87d1262078b6)
 
 “Yeeessss,” Photo Finish then gasps in a sensual tone. She obviously enjoys treating other ponies like playthings, especially when they react just as Fluttershy does.
 
@@ -80,7 +80,7 @@ Of course, Fluttershy is no happier. She does not enjoy Photo Finish’s attenti
 
 As we know from a later episode entitled _Putting Your Hoof Down_, Fluttershy is seen to involve herself in bondage scenarios for surprising reasons, similar to what Fredric Wertham observed of Wonder Woman in _Seduction of the Innocent_. In this episode, Fluttershy takes a course in not being a doormat from the minotaur Iron Will, but becomes disgusted with the aggression that he has brought out in her. Therefore, she has her bunny tie her to a chair so that no one will have to experience her anger again.
 
-Could This Be Any More Suspicious? How Can People Think This Is A Children's Show (b://38e88636ff2904e3ba87cc3565b3cd1864a88ac5cd73cc9267f73c15caa36ba8)
+[Could This Be Any More Suspicious? How Can People Think This Is A Children's Show](b://38e88636ff2904e3ba87cc3565b3cd1864a88ac5cd73cc9267f73c15caa36ba8)
 
 Now who would choose bondage as the _very first_ attempted solution to an unchecked temper? I think that Fluttershy’s bad behavior in that episode should be seen as a strategy to attract attention in the _hopes_ of being punished.
 
@@ -90,7 +90,7 @@ At the fashion show, the crowd immediately turns on Fluttershy when Twilight’s
 
 The episode closes back in the spa with Fluttershy and Rarity friends again and with Spike slavishly fanning Rarity.
 
-Awww, the end! (b://8e2c378b0b0846b8d8552493acd12e92bd15d898d585cedc14915d6ecd89c955)
+[Awww, the end!](b://8e2c378b0b0846b8d8552493acd12e92bd15d898d585cedc14915d6ecd89c955)
 
 ## Analysis
 
@@ -126,7 +126,7 @@ The first episode dealt with her character perfectly. In this episode, she has g
 
 If only an episode could focus more upon interactions like that. There are many possibilities. For example, Fluttershy would probably be an excellent psychoanalyst. As a very observant and eager listener, she should be quite capable of telling other characters things about them that they would not have been able to articulate to themselves. Would that a future episode deals effectively with the barely glimpsed mystery that is Fluttershy.
 
-There Need To Be More Episodes Like This: The REAL Tea Party Movement (b://2d6ae2505802d40f53fafc3a8c5853bd11e66aff039955f28d07a4fef0d5247f)
+[There Need To Be More Episodes Like This: The REAL Tea Party Movement](b://2d6ae2505802d40f53fafc3a8c5853bd11e66aff039955f28d07a4fef0d5247f)
 
 Finally, is there hope for Fluttershy? I believe so: she also learned a very important and relevant lesson in _Putting Your Hoof Down_. There she learned to be assertive and not to let people treat her like a doormat. This could help her to find more positive BDSM experiences in the future. Rather than exploring her fantasies in such an unhealthy way and relying on implausible excuses, she might now instead learn to talk about her interests and pursue them more openly, without fearing that they are illegitimate.
 

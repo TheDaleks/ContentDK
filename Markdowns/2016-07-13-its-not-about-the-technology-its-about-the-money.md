@@ -20,7 +20,7 @@ I don’t see that there is a lot of use for some kind of general “blockchain 
 
 There are no applications of blockchains which do not involve a double-spending problem. A blockchain that was used for an application with no double-spending problem is nothing more than a database, so you could just replace it with a distributed hash table. People have also used the blockchain for timestamping. This only works because Bitcoin has become well-known as a point of reference. If you had a need for timestamps, you certainly wouldn’t invent a blockchain to do it.
 
-Yet people are running around everywhere in the Bitcoin world screaming “blockchain blockchain blockchain” for all kinds of non-intuitive purposes until they're buried under piles of money. I can't believe how long it's taking for people to get wise to this ruse, but I hope it won't last too much longer. A blockchain does not have a wide range of applications. However, there is one application[^2], namely that of being a currency, which is overwhelmingly important.
+Yet people are running around everywhere in the Bitcoin world screaming “blockchain blockchain blockchain” for all kinds of non-intuitive purposes until they're buried under piles of money. I can't believe how long it's taking for people to get wise to this ruse, but I hope it won't last too much longer. A blockchain has many applications. However, there is one application[^2], namely that of being a currency, which is overwhelmingly important.
 
 ## Money As A Hallucination
 

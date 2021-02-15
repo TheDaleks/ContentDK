@@ -98,7 +98,7 @@ Bitcoin’s competition does not have what Bitcoin has by definition. One by one
 
 > After about two hours, the plan should be hashed by a chain of 12 proofs-of-work. Every general, just by verifying the difficulty of the proof-of-work chain, can estimate how much parallel CPU power per hour was expended on it and see that it must have required the majority of the computers to produce in the allotted time. At the least, most of them had to have seen the plan, since the proof-of-work is proof that they worked on it. If the CPU power exhibited by the proof-of-work is sufficient to crack the password, they can safely attack at the agreed time.
 
-[^4] Nick Szabo,[Trusted Third Parties Are Security Holes]/b://eeb95f5ee68330f98cac8627a58e94f51a1e8d54e84e2a402e49184f73e839c2).
+[^4] Nick Szabo,[Trusted Third Parties Are Security Holes](b://eeb95f5ee68330f98cac8627a58e94f51a1e8d54e84e2a402e49184f73e839c2).
 
 
 [^5] Satoshi Nakamoto, [Bitcoin Whitepaper](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 

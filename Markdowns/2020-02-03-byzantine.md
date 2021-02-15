@@ -26,6 +26,10 @@ A solution to the Byzantine Generals Problem, therefore, eliminates the influenc
 Oleg Andreev has characterized the Byzantine Generals Problem in this way:  
 “Imagine you are sitting in a bunker. You have no idea what people are out there and what are their intentions. You only receive some incoming messages from strangers that may contain anything. They can be just random garbage or deliberately crafted messages to confuse you or lie to you. You never know. You cannot trust anyone.”[^2
 
+The [original Bitcoin website](https://web.archive.org/web/20090309175840/http://www.bitcoin.org/byzantine.html)[^3] also had a discussion of the Byzantine Generals Problem. In Satoshi's version of the problem, there are no enemies. "The problem is that the network is not instantaneous, and if two generals announce different plans at close to the same time, some may hear one first and others hear the other first." Thus, in Satoshi's characterization, the "enemy" is the practical problem that conflicting messages can occur even among honest actors, simply because they are not in perfect synchronization. As the original Byzantine Generals paper notes
+
+"No two clocks run at precisely the same rate, so no matter how accurately the processors' clocks are synchronized initially, they will eventually drift arbitrarily far apart unless they are periodically resynchronlzed. We therefore have the problem of keeping the processors' clocks all synchronized to within some fixed amount, even if some of the processors are faulty. This is as difficult a problem as the Byzantine Generals Problem itself"
+
 Thus, from inside their bunkers, Bitcoiners separate truth from falsehood. Customers of their service become like generals who can identify all traitors among them and successfully defend or attack together.
 
 # Trusted Third Parties
@@ -34,15 +38,18 @@ A trusted third party is an entity whose service is reliably providing truthful 
 
 Trust is a promise not to be a traitor. Honest nodes who rely on trusted third parties cannot reliably all “attack” or “defend” at the same time. Thus, a system with a trusted third party violates Byzantine fault-tolerance.
 
-In “Trusted Third Parties Are Security Holes”, Nick Szabo, proposes that the use of trusted third parties should be minimized and if they are used, the trusted system should be designed in parallel with the protocol that requires it.”[^3] In other words, if trust is simply assumed as part of the protocol design, then it is not a secure protocol. Trust must be established rather than assumed.
+In “[Trusted Third Parties Are Security Holes](https://nakamotoinstitute.org/trusted-third-parties/)”, Nick Szabo proposes that the use of trusted third parties should be minimized and if they are used, the trusted system should be designed in parallel with the protocol that requires it.”[^4] In other words, if trust is simply assumed as part of the protocol design, then it is not a secure protocol. Trust must be established rather than assumed.
 
-The whitepaper identifies trusted models with an inability to avoid fraud. Trusted models cannot avoid "mediating disputes" and therefore a “certain percentage of fraud is accepted as unavoidable”.[^4] In other words, no one really has absolute truth. Thus a trusted system, whose job is to provide truth, must resolve disputes in order to have truth. Fraud is a form of treachery that prevents honest nodes from agreeing. Since Bitcoin is Byzantine fault-tolerant, Bitcoin users avoid fraud.
+The [Bitcoin Whitepaper](https://bitcoinfiles.org/t/08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461) identifies trusted models with an inability to avoid fraud. Trusted models cannot avoid "mediating disputes" and therefore a “certain percentage of fraud is accepted as unavoidable”.[^5] In other words, no one really has absolute truth. Thus a trusted system, whose job is to provide truth, must resolve disputes in order to have truth. Fraud is a form of treachery that prevents honest nodes from agreeing. Since Bitcoin is Byzantine fault-tolerant, Bitcoin users avoid fraud.
 
 Trust which has not been established can be abused. What happens when a trusted third party becomes abusive? The true risk of the “often overlooked” potential of failed nodes to send conflicting information to different parts of the system is the ability to confuse nodes as to who is a traitor. It can do this by transmitting information which causes honest nodes to misidentify traitors. This, in turn, can cause other nodes to fail and act against the system simply because they have believed lies and not because they are dishonest.
 
 The shape of a network with trusted third parties is hub-and-spokes. Customers are sparsely connected to one another, but all connected to the trusted party in the center. The sparse connections of the customers creates their need for a trusted third party. In a hub-and-spokes network, the hub has a view of the whole network whereas the spokes do not. A superior view of the whole makes a successful trusted third party into a superior target for attack from traitors. These traitors may be hackers who try to break it from outside to access secret information or they may be agents of the trusted system itself who use their information to manipulate customers. Honest nodes can be trapped in an illusion that they struggle to break out of because of the ability of the trusted third party to make up new lies.
 
+In _The Matrix_, Morpheus [tells Neo](https://www.youtube.com/watch?v=cqxwtEdxOCw), “When you are inside what do you see? … the very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it.”[^6]
+
 In _The Matrix_, Morpheus [tells Neo](https://web.archive.org/web/20210211151641if_/https://www.youtube.com/watch?v=cqxwtEdxOCw), “When you are inside what do you see? … the very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it.”[^5]
+
 
 _The Matrix_ also contains agents. These are “sentient programs” that “can move in and out of any hardware still hardwired to their system.” Thus, according to Morpheus, the agents can enter the minds of the humans that are connected to the Matrix and use them to attack outsiders. The agents, therefore, are like lies that are told to customers that cause them to misidentify traitors. This is why the people plugged into the matrix are both friends (people who should be rescued) and enemies. Bitcoin can rescue people from becoming Agent Smith.
 
@@ -50,14 +57,15 @@ _The Matrix_ also contains agents. These are “sentient programs” that “can
 
 In _Expanded Universe_, Robert A. Heinlein discusses an event that occurred during his trip to the Soviet Union in 1960 and the effect it had on him. When he and his wife first arrived in the USSR everyone was very friendly:
 
-“[I]n Moscow, we had been picked up by two Russians the very first time we went out on the street. One was a technical translator; the other, a lady, was a museum curator. They were very friendly and stayed with us almost three hours, asking questions about the U.S. and inviting questions about the Soviet Union. This happened to us daily thereafter; we were always making casual acquaintance with Soviet citizens, on the Street, in parks, in restaurants, during intermissions at the theatre, everywhere. They were always curious about America, very friendly and extremely polite.”[^6]
+“[I]n Moscow, we had been picked up by two Russians the very first time we went out on the street. One was a technical translator; the other, a lady, was a museum curator. They were very friendly and stayed with us almost three hours, asking questions about the U.S. and inviting questions about the Soviet Union. This happened to us daily thereafter; we were always making casual acquaintance with Soviet citizens, on the Street, in parks, in restaurants, during intermissions at the theatre, everywhere. They were always curious about America, very friendly and extremely polite.”[^7]
 However, on May 5, the attitude of the Russians changed toward them.
 
 “From the time we reached Leningrad until we left for Helsinki, Finland, not one Soviet citizen other than Intourist employees - who had to deal with us professionally - spoke to us under any circumstances. Not one.”
 
 What had happened? Heinlein ascribed the cause to “control of all communications from the cradle to the grave.” On May 5, Khrushchev gave a five-hour speech that the Russians all listened to without options to receive countervailing information. In this speech he lied about an American spy plane that had grounded itself 1500 miles inside the USSR, saying that it was a military plane that had been shot down at the border. Because Russians generally all listened to the same sources of information, their attitudes could be "switched on and off like a lightbulb".
 
-Friedrich Engles invented the term “false consciousness” to refer to “the notion that members of the proletariat unwittingly misperceive their real position in society and systematically misunderstand their genuine interests within the social relations of production under capitalism.”[^7] Agent Smith is like someone with false consciousness because he wants to attack someone who wants to rescue him. Engles believed he was talking about capitalism, but he inadvertently described what occurs under communism, or in any [cult-like](b://d66c2fa3f80fe008c8ccf2fa8e8a3f1b24b13e337eed4b22a18ef99c950e31a9) group in which some central hub is trusted to provide absolute truth.
+Friedrich Engles invented the term “false consciousness” to refer to “the notion that members of the proletariat unwittingly misperceive their real position in society and systematically misunderstand their genuine interests within the social relations of production under capitalism.”[^8] Agent Smith is like someone with false consciousness because he wants to attack someone who wants to rescue him. Engles believed he was talking about capitalism, but he inadvertently described what occurs under communism, or in any [cult-like](https://news.bitcoin.com/how-to-fight-cryptocurrency-cults/) group in which some central hub is trusted to provide absolute truth.
+
 
 # Bitcoin's Competition
 
@@ -65,7 +73,7 @@ Trusted third parties are Bitcoin’s competitors, which can be emulated as sequ
 
 Who are Bitcoin’s competitors? Many organizations other than totalitarian governments such as the USSR are in a position to create a false reality that can cause honest nodes to misidentify traitors. The Bitcoin whitepaper specifically mentions trusted financial institutions. However, because Bitcoin enables micropayments, it can emulate other trusted third parties cheaply.
 
-For example, social networks are trusted third parties. Because social networks before Bitcoin could not earn money through micropayments, their business model involves manipulating users into being useful to the social network. The social network can analyze the behavior of users and learn things about their behavior that none of them know. Bitcoiners can analyze themselves rather than be analyzed by the only party with all the data. The social network can control the discussion in order to make the community of users preferable to advertisers. Facebook has shown that it can alter users' moods by selecting content that is displayed to them.[^8] Much worse is possible.
+For example, social networks are trusted third parties. Because social networks before Bitcoin could not earn money through micropayments, their business model involves manipulating users into being useful to the social network. The social network can analyze the behavior of users and learn things about their behavior that none of them know. Bitcoiners can analyze themselves rather than be analyzed by the only party with all the data. The social network can control the discussion in order to make the community of users preferable to advertisers. Facebook has shown that it can alter users' moods by selecting content that is displayed to them.[^9] Much worse is possible.
 
 On Bitcoin, we now have a social network called Twetch which relies on micropayments rather than ads. All interactions are Bitcoin transactions. Twetch cannot trap customers in an imaginary world nor does it have any reason to.
 
@@ -81,14 +89,28 @@ Bitcoin’s competition does not have what Bitcoin has by definition. One by one
 
 [^2] Oleg Andreev, "Proof that Proof-of-Work is the only solution to Byzantine Generals' problem" [https://gist.github.com/oleganza/8cc921e48f396515c6d6](https://gist.github.com/oleganza/8cc921e48f396515c6d6)
 
-[^3] Nick Szabo, Trusted Third Parties Are Security Holes
+[^3] Satoshi Nakamoto, bitcoin.org [as preserved on the wayback machine](https://web.archive.org/web/20090309175840/http://www.bitcoin.org/byzantine.html). In full, Satoshi says, 
 
-[^4] Satoshi Nakamoto, [Bitcoin Whitepaper](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 
+> The Byzantine Generals' Problem
 
-[^5] Wachowskis, The Matrix. 
+> A number of Byzantine Generals each have a computer and want to attack the King's wi-fi by brute forcing the password, which they've learned is a certain number of characters in length. Once they stimulate the network to generate a packet, they must crack the password within a limited time to break in and erase the logs, lest they be discovered. They only have enough CPU power to crack it fast enough if a majority of them attack at the same time.
 
-[^6] Robert A. Heinlein, Expanded Universe 
+> They don't particularly care when the attack will be, just that they agree. It has been decided that anyone who feels like it will announce an attack time, which we'll call the "plan", and whatever plan is heard first will be the official plan. The problem is that the network is not instantaneous, and if two generals announce different plans at close to the same time, some may hear one first and others hear the other first.
 
-[^7] [https://www.britannica.com/topic/false-consciousness](https://www.britannica.com/topic/false-consciousness) 
+> They use a proof-of-work chain to solve the problem. Once each general receives whatever plan he hears first, he sets his computer to solve a difficult hash-based proof-of-work problem that includes the plan in its hash. The proof-of-work is difficult enough that with all of them working at once, it's expected to take 10 minutes before one of them finds a solution and broadcasts it to the network. Once received, everyone adjusts the hash in their proof-of-work computation to include the first solution, so that when they find the next proof-of-work, it chains after the first one. If anyone was working on a different plan, they switch to this one, because its proof-of-work chain is now longer.
 
-[^8] Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock, [Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/content/111/24/8788), Proceedings of the National Academy of Sciences, June 17, 2014 111 (24) 8788-8790 
+> After about two hours, the plan should be hashed by a chain of 12 proofs-of-work. Every general, just by verifying the difficulty of the proof-of-work chain, can estimate how much parallel CPU power per hour was expended on it and see that it must have required the majority of the computers to produce in the allotted time. At the least, most of them had to have seen the plan, since the proof-of-work is proof that they worked on it. If the CPU power exhibited by the proof-of-work is sufficient to crack the password, they can safely attack at the agreed time.
+
+[^4] Nick Szabo, Trusted Third Parties Are Security Holes.
+
+
+[^5] Satoshi Nakamoto, [Bitcoin Whitepaper](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 
+
+
+[^6] Wachowskis, The Matrix. 
+
+[^7] Robert A. Heinlein, Expanded Universe 
+
+[^8] [https://www.britannica.com/topic/false-consciousness](https://www.britannica.com/topic/false-consciousness) 
+
+[^9] Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock, [Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/content/111/24/8788), Proceedings of the National Academy of Sciences, June 17, 2014 111 (24) 8788-8790 

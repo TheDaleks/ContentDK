@@ -10,7 +10,7 @@ Bitcoin is like an advanced alien that has come down to earth offering a service
 
 # The Byzantine Generals Problem
 
-The _Byzantine Generals Problem_ was first discussed by [Lamport, et al](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf):
+The _Byzantine Generals Problem_ was first discussed by [Lamport, et al](b://b176f6bc84a8659edd8ebbb4b4f024c9b288d3c1eb3f5e4a2946b5118e6b586e):
 
 “A reliable computer system must be able to cope with the failure of one or more of its components. A failed component may exhibit a type of behavior that is often overlooked--namely, sending conflicting information to different parts of the system. The problem of coping with this type of failure is expressed abstractly as the Byzantine Generals Problem.”[^1]
 In other words, a Byzantine Generals Problem can be defined as a network recovering from a node that fails by sending arbitrary data to other components. What can a node do if it can send "conflicting information" to different parts of the system? It can confuse other nodes about which is the failed component.
@@ -42,7 +42,7 @@ Trust which has not been established can be abused. What happens when a trusted 
 
 The shape of a network with trusted third parties is hub-and-spokes. Customers are sparsely connected to one another, but all connected to the trusted party in the center. The sparse connections of the customers creates their need for a trusted third party. In a hub-and-spokes network, the hub has a view of the whole network whereas the spokes do not. A superior view of the whole makes a successful trusted third party into a superior target for attack from traitors. These traitors may be hackers who try to break it from outside to access secret information or they may be agents of the trusted system itself who use their information to manipulate customers. Honest nodes can be trapped in an illusion that they struggle to break out of because of the ability of the trusted third party to make up new lies.
 
-In _The Matrix_, Morpheus [tells Neo](https://www.youtube.com/watch?v=cqxwtEdxOCw), “When you are inside what do you see? … the very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it.”[^5]
+In _The Matrix_, Morpheus [tells Neo](https://web.archive.org/web/20210211151641if_/https://www.youtube.com/watch?v=cqxwtEdxOCw), “When you are inside what do you see? … the very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it.”[^5]
 
 _The Matrix_ also contains agents. These are “sentient programs” that “can move in and out of any hardware still hardwired to their system.” Thus, according to Morpheus, the agents can enter the minds of the humans that are connected to the Matrix and use them to attack outsiders. The agents, therefore, are like lies that are told to customers that cause them to misidentify traitors. This is why the people plugged into the matrix are both friends (people who should be rescued) and enemies. Bitcoin can rescue people from becoming Agent Smith.
 
@@ -57,7 +57,7 @@ However, on May 5, the attitude of the Russians changed toward them.
 
 What had happened? Heinlein ascribed the cause to “control of all communications from the cradle to the grave.” On May 5, Khrushchev gave a five-hour speech that the Russians all listened to without options to receive countervailing information. In this speech he lied about an American spy plane that had grounded itself 1500 miles inside the USSR, saying that it was a military plane that had been shot down at the border. Because Russians generally all listened to the same sources of information, their attitudes could be "switched on and off like a lightbulb".
 
-Friedrich Engles invented the term “false consciousness” to refer to “the notion that members of the proletariat unwittingly misperceive their real position in society and systematically misunderstand their genuine interests within the social relations of production under capitalism.”[^7] Agent Smith is like someone with false consciousness because he wants to attack someone who wants to rescue him. Engles believed he was talking about capitalism, but he inadvertently described what occurs under communism, or in any [cult-like](https://news.bitcoin.com/how-to-fight-cryptocurrency-cults/) group in which some central hub is trusted to provide absolute truth.
+Friedrich Engles invented the term “false consciousness” to refer to “the notion that members of the proletariat unwittingly misperceive their real position in society and systematically misunderstand their genuine interests within the social relations of production under capitalism.”[^7] Agent Smith is like someone with false consciousness because he wants to attack someone who wants to rescue him. Engles believed he was talking about capitalism, but he inadvertently described what occurs under communism, or in any [cult-like](b://d66c2fa3f80fe008c8ccf2fa8e8a3f1b24b13e337eed4b22a18ef99c950e31a9) group in which some central hub is trusted to provide absolute truth.
 
 # Bitcoin's Competition
 
@@ -77,13 +77,13 @@ Bitcoin’s competition does not have what Bitcoin has by definition. One by one
 
 **Notes**
 
-[^1] Leslie Lamport, Robert Shostak, and Marshall Pease, [The Byzantine Generals Problem](https://bitcoinfiles.org/t/b176f6bc84a8659edd8ebbb4b4f024c9b288d3c1eb3f5e4a2946b5118e6b586e).
+[^1] Leslie Lamport, Robert Shostak, and Marshall Pease, [The Byzantine Generals Problem](b://b176f6bc84a8659edd8ebbb4b4f024c9b288d3c1eb3f5e4a2946b5118e6b586e).
 
 [^2] Oleg Andreev, "Proof that Proof-of-Work is the only solution to Byzantine Generals' problem" [https://gist.github.com/oleganza/8cc921e48f396515c6d6](https://gist.github.com/oleganza/8cc921e48f396515c6d6)
 
 [^3] Nick Szabo, Trusted Third Parties Are Security Holes
 
-[^4] Satoshi Nakamoto, [Bitcoin Whitepaper](https://bitcoinfiles.org/t/08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 
+[^4] Satoshi Nakamoto, [Bitcoin Whitepaper](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 
 
 [^5] Wachowskis, The Matrix. 
 

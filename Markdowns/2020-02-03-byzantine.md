@@ -46,7 +46,7 @@ Trust which has not been established can be abused. What happens when a trusted 
 
 The shape of a network with trusted third parties is hub-and-spokes. Customers are sparsely connected to one another, but all connected to the trusted party in the center. The sparse connections of the customers creates their need for a trusted third party. In a hub-and-spokes network, the hub has a view of the whole network whereas the spokes do not. A superior view of the whole makes a successful trusted third party into a superior target for attack from traitors. These traitors may be hackers who try to break it from outside to access secret information or they may be agents of the trusted system itself who use their information to manipulate customers. Honest nodes can be trapped in an illusion that they struggle to break out of because of the ability of the trusted third party to make up new lies.
 
-In _The Matrix_, Morpheus [tells Neo](https://web.archive.org/web/20210211151641if_/https://www.youtube.com/watch?v=cqxwtEdxOCw), “When you are inside what do you see? … the very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it.”[^6]
+In _The Matrix_, Morpheus [tells Neo](https://www.youtube.com/watch?v=w6HgysLj2hM), “When you are inside what do you see? … the very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. And many of them are so inured, so hopelessly dependent on the system that they will fight to protect it.”[^6]
 
 _The Matrix_ also contains agents. These are “sentient programs” that “can move in and out of any hardware still hardwired to their system.” Thus, according to Morpheus, the agents can enter the minds of the humans that are connected to the Matrix and use them to attack outsiders. The agents, therefore, are like lies that are told to customers that cause them to misidentify traitors. This is why the people plugged into the matrix are both friends (people who should be rescued) and enemies. Bitcoin can rescue people from becoming Agent Smith.
 
@@ -100,9 +100,7 @@ Bitcoin’s competition does not have what Bitcoin has by definition. One by one
 
 [^4] Nick Szabo,[Trusted Third Parties Are Security Holes](b://50c65c9f6c38eb4671be8c6ea8430d35fd6e66003bb8d859b27040f48ec6fbf0).
 
-
 [^5] Satoshi Nakamoto, [Bitcoin Whitepaper](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 
-
 
 [^6] Wachowskis, The Matrix. 
 

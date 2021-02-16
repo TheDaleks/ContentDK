@@ -28,7 +28,7 @@ Oleg Andreev has characterized the Byzantine Generals Problem in this way:
 
 The [original Bitcoin website](https://web.archive.org/web/20090309175840/http://www.bitcoin.org/byzantine.html)[^3] also had a discussion of the Byzantine Generals Problem. In Satoshi's version of the problem, there are no enemies. "The problem is that the network is not instantaneous, and if two generals announce different plans at close to the same time, some may hear one first and others hear the other first." Thus, in Satoshi's characterization, the "enemy" is the practical problem that conflicting messages can occur even among honest actors, simply because they are not in perfect synchronization. As the original Byzantine Generals paper notes
 
-"No two clocks run at precisely the same rate, so no matter how accurately the processors' clocks are synchronized initially, they will eventually drift arbitrarily far apart unless they are periodically resynchronlzed. We therefore have the problem of keeping the processors' clocks all synchronized to within some fixed amount, even if some of the processors are faulty. This is as difficult a problem as the Byzantine Generals Problem itself"
+"No two clocks run at precisely the same rate, so no matter how accurately the processors' clocks are synchronized initially, they will eventually drift arbitrarily far apart unless they are periodically resynchronized. We therefore have the problem of keeping the processors' clocks all synchronized to within some fixed amount, even if some of the processors are faulty. This is as difficult a problem as the Byzantine Generals Problem itself"
 
 Thus, from inside their bunkers, Bitcoiners separate truth from falsehood. Customers of their service become like generals who can identify all traitors among them and successfully defend or attack together.
 
@@ -38,9 +38,9 @@ A trusted third party is an entity whose service is reliably providing truthful 
 
 Trust is a promise not to be a traitor. Honest nodes who rely on trusted third parties cannot reliably all “attack” or “defend” at the same time. Thus, a system with a trusted third party violates Byzantine fault-tolerance.
 
-In “[Trusted Third Parties Are Security Holes](https://nakamotoinstitute.org/trusted-third-parties/)”, Nick Szabo proposes that the use of trusted third parties should be minimized and if they are used, the trusted system should be designed in parallel with the protocol that requires it.”[^4] In other words, if trust is simply assumed as part of the protocol design, then it is not a secure protocol. Trust must be established rather than assumed.
+In “[Trusted Third Parties Are Security Holes]((b://eeb95f5ee68330f98cac8627a58e94f51a1e8d54e84e2a402e49184f73e839c2)”, Nick Szabo proposes that the use of trusted third parties should be minimized and if they are used, the trusted system should be designed in parallel with the protocol that requires it.”[^4] In other words, if trust is simply assumed as part of the protocol design, then it is not a secure protocol. Trust must be established rather than assumed.
 
-The [Bitcoin Whitepaper](https://bitcoinfiles.org/t/08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461) identifies trusted models with an inability to avoid fraud. Trusted models cannot avoid "mediating disputes" and therefore a “certain percentage of fraud is accepted as unavoidable”.[^5] In other words, no one really has absolute truth. Thus a trusted system, whose job is to provide truth, must resolve disputes in order to have truth. Fraud is a form of treachery that prevents honest nodes from agreeing. Since Bitcoin is Byzantine fault-tolerant, Bitcoin users avoid fraud.
+The [Bitcoin Whitepaper](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461) identifies trusted models with an inability to avoid fraud. Trusted models cannot avoid "mediating disputes" and therefore a “certain percentage of fraud is accepted as unavoidable”.[^5] In other words, no one really has absolute truth. Thus a trusted system, whose job is to provide truth, must resolve disputes in order to have truth. Fraud is a form of treachery that prevents honest nodes from agreeing. Since Bitcoin is Byzantine fault-tolerant, Bitcoin users avoid fraud.
 
 Trust which has not been established can be abused. What happens when a trusted third party becomes abusive? The true risk of the “often overlooked” potential of failed nodes to send conflicting information to different parts of the system is the ability to confuse nodes as to who is a traitor. It can do this by transmitting information which causes honest nodes to misidentify traitors. This, in turn, can cause other nodes to fail and act against the system simply because they have believed lies and not because they are dishonest.
 
@@ -98,7 +98,7 @@ Bitcoin’s competition does not have what Bitcoin has by definition. One by one
 
 > After about two hours, the plan should be hashed by a chain of 12 proofs-of-work. Every general, just by verifying the difficulty of the proof-of-work chain, can estimate how much parallel CPU power per hour was expended on it and see that it must have required the majority of the computers to produce in the allotted time. At the least, most of them had to have seen the plan, since the proof-of-work is proof that they worked on it. If the CPU power exhibited by the proof-of-work is sufficient to crack the password, they can safely attack at the agreed time.
 
-[^4] Nick Szabo,[Trusted Third Parties Are Security Holes](b://eeb95f5ee68330f98cac8627a58e94f51a1e8d54e84e2a402e49184f73e839c2).
+[^4] Nick Szabo,[Trusted Third Parties Are Security Holes](b://50c65c9f6c38eb4671be8c6ea8430d35fd6e66003bb8d859b27040f48ec6fbf0).
 
 
 [^5] Satoshi Nakamoto, [Bitcoin Whitepaper](b://08e834c9242ebe305dcfcf1de0d2d64518f5ae75da640347c98ee9647ffa6461). 

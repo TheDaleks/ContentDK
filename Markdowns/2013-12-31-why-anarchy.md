@@ -116,7 +116,7 @@ Unfortunately, the reality of power is more compelling to most people than the l
 [^4] See Murphy, R., [“But Wouldn’t the Warlords Take Over?”](https://mises.org/library/wouldnt-warlords-take-over), *Mises Daily*, 7 Jul 2005 for an excellent refutation of the warlord argument.
 
 
-[^5] See Notten, M., [*The Law of the Somalis: A Stable Foundation for Economic Development in the Horn of Africa*](https://mises.org/library/chaos-theory), The Red Sea Press Inc., 27 Nov 2005 for a very different interpetation of Somalia and its problems than that presented in the mainstream media.
+[^5] See Notten, M., [**](https://www.amazon.com/Law-Somalis-Foundation-Economic-Development/dp/156902250X), The Red Sea Press Inc., 27 Nov 2005 for a very different interpetation of Somalia and its problems than that presented in the mainstream media.
 
 
 [^6] See Trigger, B., *Understanding Early Civilizations: A Comparative Study,* Cambridge University Press, 16 Apr 2007 for an extraordinarily profound and wonderfully anti-statist discussion of a number of ancient civilizations, including some wonderful chapters on religion and politics. 

@@ -63,11 +63,7 @@ Daniel Krawisz: The Handicap Principle is a fundamental idea in biology. It says
 
 This principle has many applications in nature but sexual selection is the most obvious. The peacock’s tale is the prototypical example. In his book The Handicap Principle, Zahavi describes many examples of such signals, including that communication between predator and prey, between males and males, and between males and females. I have done a video on this topic here:
 
-<div class="embed-responsive embed-responsive-16by9">![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<noscript><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fIs4tsuuk7c" frameborder="0" allowfullscreen="">width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></noscript>
-
-</div>
+[![Daniel Krawisz on the Handicap Principle](http://img.youtube.com/vi/fIs4tsuuk7c/0.jpg)](http://www.youtube.com/watch?v=fIs4tsuuk7c "Daniel Krawisz on the Handicap Principle")
 
 In Bitcoin, many have failed to appreciate the function of hash power and see it as a waste or as something that is unnecessary. However, hash power is necessary for expecting honesty, in the same way that the size of the peacock’s tale accurately indicates his overall fitness. Proof-of-stake does not work because it allows manipulators to take over. Proof-of-work does not allow for this as easily. Bitcoiners need one another but without hash power, they do not know who they need the most and they can be tricked without it.
 
@@ -159,18 +155,4 @@ I started my YouTube show during a time of thought control in Bitcoin. My show w
 
 Cervantes began writing Don Quixote from prison. His book is the ultimate rebellion against political power. The book says that he, Cervantes, is more powerful than kings. He has power over ideas, whereas kings are still trapped in the shared illusion. He was right. Now it is 500 years later and Cervantes is a more important person than political figures of his day. Ideas matter a lot in the end. If you can act crazy long enough, other people will adopt your madness and it will become the shared illusion.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**New to Bitcoin? Check out CoinGeek’s Bitcoin for Beginners section, the ultimate resource guide to learn more about Bitcoin—as originally envisioned by Satoshi Nakamoto—and blockchain.**

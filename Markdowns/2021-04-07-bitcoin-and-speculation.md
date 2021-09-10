@@ -12,7 +12,7 @@ While BTC has been shown to only be a “[pump and dump](https://coingeek.com/bt
 
 We caught up with prolific Bitcoin thinker and speculator [Daniel Krawisz](https://twitter.com/DanielKrawisz) to discuss in depth: speculating in Bitcoin.
 
-**Hi, Daniel!** [**In our last interview,**](https://coingeek.com/daniel-krawisz-everything-is-falling-into-the-bitcoin-sv-black-hole/) **we touched lightly on the subject of speculation. I would like to hear more about your thoughts on speculating in and on Bitcoin, as well as in general. As of writing this, Bitcoin SV (BSV) trades at around $250, while BTC trades just under $60,000\. We specifically invited you to explain this. So, why?**
+**Hi, Daniel!** [**In our last interview,**](b://93dabe845ee7b73637c2641ec1a2fe5d971d5e4c8a807cea16c263f1f6e83750) **we touched lightly on the subject of speculation. I would like to hear more about your thoughts on speculating in and on Bitcoin, as well as in general. As of writing this, Bitcoin SV (BSV) trades at around $250, while BTC trades just under $60,000\. We specifically invited you to explain this. So, why?**
 
 Winners in markets treat prices as conjectures about tradeoffs. Losers treat prices as genuine knowledge. The price of BTC is based on a trick which has been successful at making people act like losers.
 
